@@ -1,0 +1,20 @@
+[
+ {
+  "id": "O009_00012a",
+  "file": "O009",
+  "off": 298,
+  "slots": 23,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "a5cd9a8b4db2"
+ },
+ {
+  "id": "O009_00015a",
+  "file": "O009",
+  "off": 346,
+  "slots": 45,
+  "raw_prefix": 13,
+  "en": "-",
+  "src": "3aa8be41bdb5"
+ }
+]

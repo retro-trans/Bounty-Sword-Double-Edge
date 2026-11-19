@@ -1,0 +1,20 @@
+# K026: Rheinmetall mage-Void skirmish; Kane needles FD-3S over the dead Machine Soldiers. Draft, self-checked only.
+EN = {
+0: "\"Tch. The Rheinmetall bunch, huh?\"",
+1: "\"I've confirmed a large number of{n} mage-type Voids, sir!\"",
+2: "\"The terrain is troublesome too, sir.{n} We should secure the teleporters{n} and concentrate our battle line.\"",
+3: "\"Waaah! Enemies, enemies, enemies!{n} I'm scared, my priiince!{n} Pretty please, protect me, okay?\"",
+4: "\"Don't use the confusion as a chance{n} to cling to me, Alice...\"",
+6: "\"What's this? In the wreckage{n} of a Machine Soldier?\"",
+7: "\"All right! Well, that's about{n} what I'd expect.\"",
+8: "\"How about it, clunker? How does it{n} feel to see your Machine Soldier{n} buddies killed before your eyes?\"",
+9: "\"I told you before: they are not my{n} comrades. We are alike in build and{n} looks, but we are utterly different.\"",
+10: "\"Different how?\"",
+11: "\"That is...\"",
+12: "\"......\"",
+13: "\"I cannot remember past that point.{n} Only that we are different...\"",
+14: "\"Heh heh. Looks like you really are{n} a clunker after all.\"",
+15: "\"Indeed. Perhaps I am. A foolish{n} clunker that has lost{n} its entire past.\"",
+16: "\"......\"",
+17: "\"Is this a Void part? Well, whatever.{n} It'll come in handy for something.\"",
+}

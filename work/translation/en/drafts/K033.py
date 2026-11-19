@@ -1,0 +1,22 @@
+# K033: Machine Soldier fight near the volcano, shortcut to the Wasteland Plateau. Draft, self-checked only.
+EN = {
+0: "\"Tch. The island's Defense Machines...{n} So the Machine Soldiers show up, huh?\"",
+1: "\"Vvvvvv...\"",
+2: "\"Good grief. So we can't go any{n} farther from here unless we{n} take them down...\"",
+3: "\"Outside air now past 43 degrees.{n} Effect of the volcano.{n} Best to settle this quickly.\"",
+4: "\"Don't worry, Prince {hero:6}!{n} I'll turn those Machine Soldiers into{n} scrap with my esper powers, so there!\"",
+5: "\"Machine Soldiers or not, magic works{n} on them. Fight as we always do, and{n} they are not a foe to fear so much.\"",
+6: "\"Like I said, I'm a professor, you know!{n} And I can't stand hot places!{n} Hurry up and whip the enemy for me!\"",
+7: "\"Machine soldiers have no ki, so they{n} can only put out the power calculated{n} for them. We humans have the power of ki.\"",
+8: "\"Let us believe we can win,{n} and press forward.\"",
+9: "\"Heh heh! Machine or whatever it is,{n} there's not one thing in this world{n} my heavy MG can't punch through!\"",
+10: "\"All right! We crush them in one go!\"",
+11: "\"Well, about what I expected.\"",
+12: "\"So the secret shortcut that drifter{n} in Asgard was talking about{n} is this route...\"",
+13: "\"Good. Now we've got a shortcut{n} to the Wasteland Plateau.\"",
+14: "\"That's odd...\"",
+15: "\"By the map Special Service HQ drew{n} up, I should be able to get to the{n} Wasteland Plateau from here, but...\"",
+16: "\"I can't find that path anywhere.\"",
+17: "\"No help for it. Guess I'll take{n} another route to{n} the Wasteland Plateau...\"",
+18: "\"So the secret shortcut that drifter{n} in Asgard was talking about{n} is this route...",
+}

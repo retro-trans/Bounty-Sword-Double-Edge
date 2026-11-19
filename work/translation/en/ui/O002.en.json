@@ -1,0 +1,2612 @@
+[
+ {
+  "id": "O002_0006ee",
+  "file": "O002",
+  "off": 1774,
+  "slots": 6,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "66aa8cf72b97"
+ },
+ {
+  "id": "O002_0008b0",
+  "file": "O002",
+  "off": 2224,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "3bda3883ec56"
+ },
+ {
+  "id": "O002_000bb0",
+  "file": "O002",
+  "off": 2992,
+  "slots": 44,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "9e4a362b7f14"
+ },
+ {
+  "id": "O002_000c40",
+  "file": "O002",
+  "off": 3136,
+  "slots": 20,
+  "raw_prefix": 15,
+  "en": "-",
+  "src": "6118bd205bd0"
+ },
+ {
+  "id": "O002_000ddc",
+  "file": "O002",
+  "off": 3548,
+  "slots": 16,
+  "raw_prefix": 11,
+  "en": "-",
+  "src": "f6d5ec4a4253"
+ },
+ {
+  "id": "O002_00170c",
+  "file": "O002",
+  "off": 5900,
+  "slots": 43,
+  "raw_prefix": 7,
+  "en": "-",
+  "src": "19008f42f61d"
+ },
+ {
+  "id": "O002_001934",
+  "file": "O002",
+  "off": 6452,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "05a7fc858b99"
+ },
+ {
+  "id": "O002_001954",
+  "file": "O002",
+  "off": 6484,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "0b645e74f722"
+ },
+ {
+  "id": "O002_001c4e",
+  "file": "O002",
+  "off": 7246,
+  "slots": 32,
+  "raw_prefix": 6,
+  "en": "-",
+  "src": "41d23568291b"
+ },
+ {
+  "id": "O002_001d42",
+  "file": "O002",
+  "off": 7490,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d704c6b2858b"
+ },
+ {
+  "id": "O002_001e0e",
+  "file": "O002",
+  "off": 7694,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d704c6b2858b"
+ },
+ {
+  "id": "O002_001eda",
+  "file": "O002",
+  "off": 7898,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d704c6b2858b"
+ },
+ {
+  "id": "O002_002104",
+  "file": "O002",
+  "off": 8452,
+  "slots": 27,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d91eb6a419fd"
+ },
+ {
+  "id": "O002_002404",
+  "file": "O002",
+  "off": 9220,
+  "slots": 24,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "2565086628be"
+ },
+ {
+  "id": "O002_0027be",
+  "file": "O002",
+  "off": 10174,
+  "slots": 48,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "573ded43927b"
+ },
+ {
+  "id": "O002_0028c6",
+  "file": "O002",
+  "off": 10438,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d72e40d6268e"
+ },
+ {
+  "id": "O002_002992",
+  "file": "O002",
+  "off": 10642,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d72e40d6268e"
+ },
+ {
+  "id": "O002_002a5e",
+  "file": "O002",
+  "off": 10846,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d72e40d6268e"
+ },
+ {
+  "id": "O002_003010",
+  "file": "O002",
+  "off": 12304,
+  "slots": 74,
+  "raw_prefix": 7,
+  "en": "-",
+  "src": "f45532bf30d8"
+ },
+ {
+  "id": "O002_0030b4",
+  "file": "O002",
+  "off": 12468,
+  "slots": 22,
+  "raw_prefix": 6,
+  "en": "-",
+  "src": "9d5bfc16cd1d"
+ },
+ {
+  "id": "O002_0031e4",
+  "file": "O002",
+  "off": 12772,
+  "slots": 14,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "f555e9d452d5"
+ },
+ {
+  "id": "O002_003338",
+  "file": "O002",
+  "off": 13112,
+  "slots": 24,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "55be859079b2"
+ },
+ {
+  "id": "O002_00351c",
+  "file": "O002",
+  "off": 13596,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "80bcf6c315b7"
+ },
+ {
+  "id": "O002_004724",
+  "file": "O002",
+  "off": 18212,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8f5e78bf074c"
+ },
+ {
+  "id": "O002_004730",
+  "file": "O002",
+  "off": 18224,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8f5e78bf074c"
+ },
+ {
+  "id": "O002_00473c",
+  "file": "O002",
+  "off": 18236,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8f5e78bf074c"
+ },
+ {
+  "id": "O002_004748",
+  "file": "O002",
+  "off": 18248,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8f5e78bf074c"
+ },
+ {
+  "id": "O002_00d17a",
+  "file": "O002",
+  "off": 53626,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d174d59ab631"
+ },
+ {
+  "id": "O002_00d1ca",
+  "file": "O002",
+  "off": 53706,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "7c4967746d1f"
+ },
+ {
+  "id": "O002_014272",
+  "file": "O002",
+  "off": 82546,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "9d586c296efd"
+ },
+ {
+  "id": "O002_03e1f0",
+  "file": "O002",
+  "off": 254448,
+  "slots": 25,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "f2ca94b39eea"
+ },
+ {
+  "id": "O002_03e22e",
+  "file": "O002",
+  "off": 254510,
+  "slots": 25,
+  "raw_prefix": 10,
+  "en": "-",
+  "src": "6353c6bbfa09"
+ },
+ {
+  "id": "O002_03e276",
+  "file": "O002",
+  "off": 254582,
+  "slots": 25,
+  "raw_prefix": 10,
+  "en": "-",
+  "src": "a4ed11200a43"
+ },
+ {
+  "id": "O002_03e50c",
+  "file": "O002",
+  "off": 255244,
+  "slots": 12,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "4c138ab31e8d"
+ },
+ {
+  "id": "O002_03e5e0",
+  "file": "O002",
+  "off": 255456,
+  "slots": 12,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "4c138ab31e8d"
+ },
+ {
+  "id": "O002_03e6a0",
+  "file": "O002",
+  "off": 255648,
+  "slots": 12,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "fd3fd9627d05"
+ },
+ {
+  "id": "O002_03e76e",
+  "file": "O002",
+  "off": 255854,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "488edcf02608"
+ },
+ {
+  "id": "O002_03e7ca",
+  "file": "O002",
+  "off": 255946,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "f8bdcd81f9be"
+ },
+ {
+  "id": "O002_03e9e4",
+  "file": "O002",
+  "off": 256484,
+  "slots": 24,
+  "raw_prefix": 15,
+  "en": "-",
+  "src": "9fa1c7c7c361"
+ },
+ {
+  "id": "O002_03ea34",
+  "file": "O002",
+  "off": 256564,
+  "slots": 24,
+  "raw_prefix": 17,
+  "en": "-",
+  "src": "c41dada15a5f"
+ },
+ {
+  "id": "O002_03ea88",
+  "file": "O002",
+  "off": 256648,
+  "slots": 24,
+  "raw_prefix": 17,
+  "en": "-",
+  "src": "06a15bd93e1a"
+ },
+ {
+  "id": "O002_03f0d6",
+  "file": "O002",
+  "off": 258262,
+  "slots": 9,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "2f1aeb9b0a8a"
+ },
+ {
+  "id": "O002_03f464",
+  "file": "O002",
+  "off": 259172,
+  "slots": 40,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "cdfbbf163b0a"
+ },
+ {
+  "id": "O002_03f5c6",
+  "file": "O002",
+  "off": 259526,
+  "slots": 14,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "3e097672a194"
+ },
+ {
+  "id": "O002_03f644",
+  "file": "O002",
+  "off": 259652,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "5a50d8ab2847"
+ },
+ {
+  "id": "O002_03f6b6",
+  "file": "O002",
+  "off": 259766,
+  "slots": 16,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "0c9a9dcb4e8f"
+ },
+ {
+  "id": "O002_03f72e",
+  "file": "O002",
+  "off": 259886,
+  "slots": 16,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "0c9a9dcb4e8f"
+ },
+ {
+  "id": "O002_040576",
+  "file": "O002",
+  "off": 263542,
+  "slots": 34,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "edac59b15f4c"
+ },
+ {
+  "id": "O002_0405bc",
+  "file": "O002",
+  "off": 263612,
+  "slots": 28,
+  "raw_prefix": 17,
+  "en": "-",
+  "src": "e1c620214845"
+ },
+ {
+  "id": "O002_040768",
+  "file": "O002",
+  "off": 264040,
+  "slots": 26,
+  "raw_prefix": 15,
+  "en": "-",
+  "src": "706d6b7d2803"
+ },
+ {
+  "id": "O002_0407bc",
+  "file": "O002",
+  "off": 264124,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "37823a7a9d1b"
+ },
+ {
+  "id": "O002_0407fa",
+  "file": "O002",
+  "off": 264186,
+  "slots": 11,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "48bbe9fadeff"
+ },
+ {
+  "id": "O002_04081a",
+  "file": "O002",
+  "off": 264218,
+  "slots": 30,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "2eb3d63bc7ad"
+ },
+ {
+  "id": "O002_040880",
+  "file": "O002",
+  "off": 264320,
+  "slots": 11,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "48bbe9fadeff"
+ },
+ {
+  "id": "O002_040bb6",
+  "file": "O002",
+  "off": 265142,
+  "slots": 15,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "76c34fca1c83"
+ },
+ {
+  "id": "O002_040eee",
+  "file": "O002",
+  "off": 265966,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "ff125205ed27"
+ },
+ {
+  "id": "O002_040f4a",
+  "file": "O002",
+  "off": 266058,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "e1f62fa95b41"
+ },
+ {
+  "id": "O002_04100a",
+  "file": "O002",
+  "off": 266250,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "2993282b63f3"
+ },
+ {
+  "id": "O002_04241e",
+  "file": "O002",
+  "off": 271390,
+  "slots": 30,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "cdbc89d54c0d"
+ },
+ {
+  "id": "O002_04282e",
+  "file": "O002",
+  "off": 272430,
+  "slots": 41,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "e035f5801aad"
+ },
+ {
+  "id": "O002_042b44",
+  "file": "O002",
+  "off": 273220,
+  "slots": 14,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "62a20b59b3ef"
+ },
+ {
+  "id": "O002_042f32",
+  "file": "O002",
+  "off": 274226,
+  "slots": 48,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "f3e0c828266c"
+ },
+ {
+  "id": "O002_043004",
+  "file": "O002",
+  "off": 274436,
+  "slots": 45,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "2458d768ce28"
+ },
+ {
+  "id": "O002_043220",
+  "file": "O002",
+  "off": 274976,
+  "slots": 26,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "99a585103041"
+ },
+ {
+  "id": "O002_043dae",
+  "file": "O002",
+  "off": 277934,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Reset",
+  "src": "97b0a1c0a929"
+ },
+ {
+  "id": "O002_043e98",
+  "file": "O002",
+  "off": 278168,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "b27942dadd21"
+ },
+ {
+  "id": "O002_043eac",
+  "file": "O002",
+  "off": 278188,
+  "slots": 10,
+  "raw_prefix": 7,
+  "en": "Reset the game.",
+  "src": "5d2351b5701e"
+ },
+ {
+  "id": "O002_043ed0",
+  "file": "O002",
+  "off": 278224,
+  "slots": 12,
+  "raw_prefix": 5,
+  "en": "Return to title screen)",
+  "src": "bd4a9809a638"
+ },
+ {
+  "id": "O002_043f12",
+  "file": "O002",
+  "off": 278290,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "       Are you sure?",
+  "src": "4db5ed713956"
+ },
+ {
+  "id": "O002_043f30",
+  "file": "O002",
+  "off": 278320,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "    Yes           No",
+  "src": "5ac7f76270b7"
+ },
+ {
+  "id": "O002_043fde",
+  "file": "O002",
+  "off": 278494,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_044024",
+  "file": "O002",
+  "off": 278564,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": " is used.",
+  "src": "b53c447cabd3"
+ },
+ {
+  "id": "O002_044032",
+  "file": "O002",
+  "off": 278578,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "         Are you sure?",
+  "src": "2763d7b5b2f6"
+ },
+ {
+  "id": "O002_044054",
+  "file": "O002",
+  "off": 278612,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "      Yes           No",
+  "src": "5df6f7341ac2"
+ },
+ {
+  "id": "O002_0440ac",
+  "file": "O002",
+  "off": 278700,
+  "slots": 20,
+  "raw_prefix": 4,
+  "en": "Used automatically when its holder dies!",
+  "src": "c9f22f3b4594"
+ },
+ {
+  "id": "O002_044140",
+  "file": "O002",
+  "off": 278848,
+  "slots": 14,
+  "raw_prefix": 6,
+  "en": "Are you really sure?",
+  "src": "bf15e4dbbc8c"
+ },
+ {
+  "id": "O002_04418c",
+  "file": "O002",
+  "off": 278924,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "    Yes           No",
+  "src": "22a8d7e1adae"
+ },
+ {
+  "id": "O002_044200",
+  "file": "O002",
+  "off": 279040,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8462dfe35201"
+ },
+ {
+  "id": "O002_0443a8",
+  "file": "O002",
+  "off": 279464,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "73cc09fbfd99"
+ },
+ {
+  "id": "O002_0443da",
+  "file": "O002",
+  "off": 279514,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "9f17e3bb0e0a"
+ },
+ {
+  "id": "O002_0443e4",
+  "file": "O002",
+  "off": 279524,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Master",
+  "src": "2d5cfc6fc187"
+ },
+ {
+  "id": "O002_0443ee",
+  "file": "O002",
+  "off": 279534,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Status",
+  "src": "89ac9361026f"
+ },
+ {
+  "id": "O002_044572",
+  "file": "O002",
+  "off": 279922,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "1a27c3071c38"
+ },
+ {
+  "id": "O002_0445c6",
+  "file": "O002",
+  "off": 280006,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "35ba1f55e3bf"
+ },
+ {
+  "id": "O002_044692",
+  "file": "O002",
+  "off": 280210,
+  "slots": 3,
+  "raw_prefix": 4,
+  "en": "Foe ID",
+  "src": "310f0dfe34d4"
+ },
+ {
+  "id": "O002_0446a2",
+  "file": "O002",
+  "off": 280226,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Catchphrases",
+  "src": "892afd087f60"
+ },
+ {
+  "id": "O002_0446b2",
+  "file": "O002",
+  "off": 280242,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Sub Window",
+  "src": "e2c6927350b4"
+ },
+ {
+  "id": "O002_04482a",
+  "file": "O002",
+  "off": 280618,
+  "slots": 9,
+  "raw_prefix": 4,
+  "en": "Alone Type",
+  "src": "e2f43579a4f4"
+ },
+ {
+  "id": "O002_044846",
+  "file": "O002",
+  "off": 280646,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Full Member Type",
+  "src": "dcbad9623be8"
+ },
+ {
+  "id": "O002_04485a",
+  "file": "O002",
+  "off": 280666,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Type",
+  "src": "b9ce14b7f6d2"
+ },
+ {
+  "id": "O002_04486e",
+  "file": "O002",
+  "off": 280686,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Don't Display",
+  "src": "0eca3c2b8ac3"
+ },
+ {
+  "id": "O002_0448f6",
+  "file": "O002",
+  "off": 280822,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_04493a",
+  "file": "O002",
+  "off": 280890,
+  "slots": 5,
+  "raw_prefix": 4,
+  "en": "Weapon",
+  "src": "c2d4085e1ad8"
+ },
+ {
+  "id": "O002_044950",
+  "file": "O002",
+  "off": 280912,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Armor",
+  "src": "27c7052db29a"
+ },
+ {
+  "id": "O002_04496a",
+  "file": "O002",
+  "off": 280938,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Items",
+  "src": "9d290971cd8f"
+ },
+ {
+  "id": "O002_0449a6",
+  "file": "O002",
+  "off": 280998,
+  "slots": 1,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "27a87259d93f"
+ },
+ {
+  "id": "O002_044a32",
+  "file": "O002",
+  "off": 281138,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_044b74",
+  "file": "O002",
+  "off": 281460,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_044cd4",
+  "file": "O002",
+  "off": 281812,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "1c773fb37735"
+ },
+ {
+  "id": "O002_044ce6",
+  "file": "O002",
+  "off": 281830,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": " is selected!",
+  "src": "b50748274ede"
+ },
+ {
+  "id": "O002_044cf6",
+  "file": "O002",
+  "off": 281846,
+  "slots": 7,
+  "raw_prefix": 4,
+  "en": "Cancel it?",
+  "src": "6c4d6cb161ad"
+ },
+ {
+  "id": "O002_044d56",
+  "file": "O002",
+  "off": 281942,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_044d96",
+  "file": "O002",
+  "off": 282006,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "08e58069e260"
+ },
+ {
+  "id": "O002_044dba",
+  "file": "O002",
+  "off": 282042,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "ef971444208e"
+ },
+ {
+  "id": "O002_044dca",
+  "file": "O002",
+  "off": 282058,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "AT",
+  "src": "47755fc2acc9"
+ },
+ {
+  "id": "O002_044dda",
+  "file": "O002",
+  "off": 282074,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "DF",
+  "src": "9fa250b95eb3"
+ },
+ {
+  "id": "O002_044dec",
+  "file": "O002",
+  "off": 282092,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "MG",
+  "src": "fc4dc2f21330"
+ },
+ {
+  "id": "O002_044df4",
+  "file": "O002",
+  "off": 282100,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "EV",
+  "src": "aff825f070aa"
+ },
+ {
+  "id": "O002_044e06",
+  "file": "O002",
+  "off": 282118,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Weapon",
+  "src": "cbeb31c047be"
+ },
+ {
+  "id": "O002_044e1c",
+  "file": "O002",
+  "off": 282140,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Armor",
+  "src": "27c7052db29a"
+ },
+ {
+  "id": "O002_044e2a",
+  "file": "O002",
+  "off": 282154,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Items",
+  "src": "9d290971cd8f"
+ },
+ {
+  "id": "O002_044e62",
+  "file": "O002",
+  "off": 282210,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "    Void        EXIT",
+  "src": "ef59ba31d027"
+ },
+ {
+  "id": "O002_044ed0",
+  "file": "O002",
+  "off": 282320,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "9dca376da814"
+ },
+ {
+  "id": "O002_044ee4",
+  "file": "O002",
+  "off": 282340,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "c197048ad7d3"
+ },
+ {
+  "id": "O002_044ef4",
+  "file": "O002",
+  "off": 282356,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "6fcd548813d4"
+ },
+ {
+  "id": "O002_044f0a",
+  "file": "O002",
+  "off": 282378,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Foe Near",
+  "src": "2837fbf1a21d"
+ },
+ {
+  "id": "O002_044f24",
+  "file": "O002",
+  "off": 282404,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Heal at",
+  "src": "4b40f596b52a"
+ },
+ {
+  "id": "O002_044f32",
+  "file": "O002",
+  "off": 282418,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Cure by",
+  "src": "9c0afa9fc068"
+ },
+ {
+  "id": "O002_044f4e",
+  "file": "O002",
+  "off": 282446,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Other",
+  "src": "7c2281ce7193"
+ },
+ {
+  "id": "O002_044f56",
+  "file": "O002",
+  "off": 282454,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Defaults",
+  "src": "35571bdf9573"
+ },
+ {
+  "id": "O002_045402",
+  "file": "O002",
+  "off": 283650,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "7a694fd8eb84"
+ },
+ {
+  "id": "O002_045418",
+  "file": "O002",
+  "off": 283672,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "5a3df7f2aa4e"
+ },
+ {
+  "id": "O002_04556a",
+  "file": "O002",
+  "off": 284010,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Lineup limit up by ",
+  "src": "4f45ef301dd1"
+ },
+ {
+  "id": "O002_045582",
+  "file": "O002",
+  "off": 284034,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": " Voids!",
+  "src": "3d23402f2c5c"
+ },
+ {
+  "id": "O002_0455d8",
+  "file": "O002",
+  "off": 284120,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "6d797dc1f226"
+ },
+ {
+  "id": "O002_0455f2",
+  "file": "O002",
+  "off": 284146,
+  "slots": 15,
+  "raw_prefix": 4,
+  "en": "Clear Time          Goal Time",
+  "src": "643e1266d138"
+ },
+ {
+  "id": "O002_045654",
+  "file": "O002",
+  "off": 284244,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Time Bonus  =",
+  "src": "3db4787d6a36"
+ },
+ {
+  "id": "O002_04567a",
+  "file": "O002",
+  "off": 284282,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Prize Money =",
+  "src": "e82dd8873efe"
+ },
+ {
+  "id": "O002_0456c2",
+  "file": "O002",
+  "off": 284354,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "   Funds",
+  "src": "8490d49758bb"
+ },
+ {
+  "id": "O002_0457b0",
+  "file": "O002",
+  "off": 284592,
+  "slots": 21,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "ca1cc41537df"
+ },
+ {
+  "id": "O002_045800",
+  "file": "O002",
+  "off": 284672,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "e1a8391f9370"
+ },
+ {
+  "id": "O002_04580c",
+  "file": "O002",
+  "off": 284684,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "AT",
+  "src": "3a3443f6ad65"
+ },
+ {
+  "id": "O002_04581c",
+  "file": "O002",
+  "off": 284700,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "  DF",
+  "src": "8db1c45bfa62"
+ },
+ {
+  "id": "O002_04583a",
+  "file": "O002",
+  "off": 284730,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "MG",
+  "src": "97fe825844b9"
+ },
+ {
+  "id": "O002_045842",
+  "file": "O002",
+  "off": 284738,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "  EV",
+  "src": "dca40ee7f2fa"
+ },
+ {
+  "id": "O002_045860",
+  "file": "O002",
+  "off": 284768,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "a0cc01aa69e5"
+ },
+ {
+  "id": "O002_04586a",
+  "file": "O002",
+  "off": 284778,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Weapon",
+  "src": "b644fa448164"
+ },
+ {
+  "id": "O002_045876",
+  "file": "O002",
+  "off": 284790,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Armor",
+  "src": "bc7770d924ec"
+ },
+ {
+  "id": "O002_045882",
+  "file": "O002",
+  "off": 284802,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Items",
+  "src": "82abe0cd97cf"
+ },
+ {
+  "id": "O002_0458fc",
+  "file": "O002",
+  "off": 284924,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "    Void        EXIT",
+  "src": "954f7fe6c94b"
+ },
+ {
+  "id": "O002_045ac8",
+  "file": "O002",
+  "off": 285384,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "10f2def6a1bf"
+ },
+ {
+  "id": "O002_045b46",
+  "file": "O002",
+  "off": 285510,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "63bd3e8e3c44"
+ },
+ {
+  "id": "O002_045b9e",
+  "file": "O002",
+  "off": 285598,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "9acb8c9a6411"
+ },
+ {
+  "id": "O002_045ba8",
+  "file": "O002",
+  "off": 285608,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "9ef165a401b5"
+ },
+ {
+  "id": "O002_045bb6",
+  "file": "O002",
+  "off": 285622,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Foe Near",
+  "src": "2837fbf1a21d"
+ },
+ {
+  "id": "O002_045bde",
+  "file": "O002",
+  "off": 285662,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Heal at",
+  "src": "4b40f596b52a"
+ },
+ {
+  "id": "O002_045bec",
+  "file": "O002",
+  "off": 285676,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Cure by",
+  "src": "9c0afa9fc068"
+ },
+ {
+  "id": "O002_045c02",
+  "file": "O002",
+  "off": 285698,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Other",
+  "src": "7c2281ce7193"
+ },
+ {
+  "id": "O002_045c0a",
+  "file": "O002",
+  "off": 285706,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Defaults",
+  "src": "35571bdf9573"
+ },
+ {
+  "id": "O002_045c28",
+  "file": "O002",
+  "off": 285736,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Master",
+  "src": "62fdcfbd2112"
+ },
+ {
+  "id": "O002_045c36",
+  "file": "O002",
+  "off": 285750,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "9ef165a401b5"
+ },
+ {
+  "id": "O002_045c92",
+  "file": "O002",
+  "off": 285842,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Everyone",
+  "src": "c768594005bd"
+ },
+ {
+  "id": "O002_0462e6",
+  "file": "O002",
+  "off": 287462,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Master Act",
+  "src": "5bb331a93d34"
+ },
+ {
+  "id": "O002_04634e",
+  "file": "O002",
+  "off": 287566,
+  "slots": 6,
+  "raw_prefix": 4,
+  "en": "Target Here",
+  "src": "825e31dfeeab"
+ },
+ {
+  "id": "O002_046364",
+  "file": "O002",
+  "off": 287588,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Free Action",
+  "src": "e7fd3d7e0af0"
+ },
+ {
+  "id": "O002_046372",
+  "file": "O002",
+  "off": 287602,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Atk in Place",
+  "src": "5b3805969770"
+ },
+ {
+  "id": "O002_046380",
+  "file": "O002",
+  "off": 287616,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Standby",
+  "src": "433e1a969087"
+ },
+ {
+  "id": "O002_046412",
+  "file": "O002",
+  "off": 287762,
+  "slots": 6,
+  "raw_prefix": 4,
+  "en": "Always MAX",
+  "src": "8ec484ade74f"
+ },
+ {
+  "id": "O002_046428",
+  "file": "O002",
+  "off": 287784,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 80% HP",
+  "src": "4ba33d8736cf"
+ },
+ {
+  "id": "O002_046436",
+  "file": "O002",
+  "off": 287798,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 60% HP",
+  "src": "98cb41318740"
+ },
+ {
+  "id": "O002_046444",
+  "file": "O002",
+  "off": 287812,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 40% HP",
+  "src": "d00a4db38b08"
+ },
+ {
+  "id": "O002_046452",
+  "file": "O002",
+  "off": 287826,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 20% HP",
+  "src": "9efceba9d746"
+ },
+ {
+  "id": "O002_046460",
+  "file": "O002",
+  "off": 287840,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Don't Heal",
+  "src": "d8937fe6a55d"
+ },
+ {
+  "id": "O002_0464ea",
+  "file": "O002",
+  "off": 287978,
+  "slots": 7,
+  "raw_prefix": 4,
+  "en": "Heal First",
+  "src": "a374ab161584"
+ },
+ {
+  "id": "O002_046502",
+  "file": "O002",
+  "off": 288002,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Items First",
+  "src": "090bcdf8fe34"
+ },
+ {
+  "id": "O002_046510",
+  "file": "O002",
+  "off": 288016,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Rely on Allies",
+  "src": "131648742316"
+ },
+ {
+  "id": "O002_046632",
+  "file": "O002",
+  "off": 288306,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": " is used.",
+  "src": "b53c447cabd3"
+ },
+ {
+  "id": "O002_046640",
+  "file": "O002",
+  "off": 288320,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "         Are you sure?",
+  "src": "2763d7b5b2f6"
+ },
+ {
+  "id": "O002_046662",
+  "file": "O002",
+  "off": 288354,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "      Yes           No",
+  "src": "5df6f7341ac2"
+ },
+ {
+  "id": "O002_046790",
+  "file": "O002",
+  "off": 288656,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Choose a target.",
+  "src": "98d30408c0c3"
+ },
+ {
+  "id": "O002_0467a6",
+  "file": "O002",
+  "off": 288678,
+  "slots": 9,
+  "raw_prefix": 6,
+  "en": "-",
+  "src": "33c11bbec3d0"
+ },
+ {
+  "id": "O002_0468e8",
+  "file": "O002",
+  "off": 289000,
+  "slots": 9,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "b7b1f17d91f1"
+ },
+ {
+  "id": "O002_0469c2",
+  "file": "O002",
+  "off": 289218,
+  "slots": 9,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "19f0c1f3c461"
+ },
+ {
+  "id": "O002_046b02",
+  "file": "O002",
+  "off": 289538,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "e7f149f7d142"
+ },
+ {
+  "id": "O002_046b34",
+  "file": "O002",
+  "off": 289588,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "433f070a5db4"
+ },
+ {
+  "id": "O002_046b94",
+  "file": "O002",
+  "off": 289684,
+  "slots": 16,
+  "raw_prefix": 4,
+  "en": "No Void can carry that out!!",
+  "src": "94304ec73661"
+ },
+ {
+  "id": "O002_046bbe",
+  "file": "O002",
+  "off": 289726,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Valid Voids:",
+  "src": "2e49e4ce5963"
+ },
+ {
+  "id": "O002_046cc0",
+  "file": "O002",
+  "off": 289984,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "         Are you sure?",
+  "src": "effa6bb2317d"
+ },
+ {
+  "id": "O002_046ce4",
+  "file": "O002",
+  "off": 290020,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "        Yes       No",
+  "src": "abd35356557f"
+ },
+ {
+  "id": "O002_046d6c",
+  "file": "O002",
+  "off": 290156,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d469bf84a681"
+ },
+ {
+  "id": "O002_046e6a",
+  "file": "O002",
+  "off": 290410,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "588c04dfeaa3"
+ },
+ {
+  "id": "O002_046e9e",
+  "file": "O002",
+  "off": 290462,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Master Act",
+  "src": "5bb331a93d34"
+ },
+ {
+  "id": "O002_046f00",
+  "file": "O002",
+  "off": 290560,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "52378e3a9cc2"
+ },
+ {
+  "id": "O002_047138",
+  "file": "O002",
+  "off": 291128,
+  "slots": 20,
+  "raw_prefix": 0,
+  "en": "Learned Hypersonic!",
+  "src": "1f5644ee45ca"
+ },
+ {
+  "id": "O002_047170",
+  "file": "O002",
+  "off": 291184,
+  "slots": 26,
+  "raw_prefix": 0,
+  "en": "Learned Sonic Riding!",
+  "src": "718c1c417934"
+ },
+ {
+  "id": "O002_0471c8",
+  "file": "O002",
+  "off": 291272,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": "    Make which Void self-destruct?",
+  "src": "a78f8e4f82ab"
+ },
+ {
+  "id": "O002_0471f0",
+  "file": "O002",
+  "off": 291312,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": "   Make which Void a teleporter?",
+  "src": "6423a9fadd69"
+ },
+ {
+  "id": "O002_047218",
+  "file": "O002",
+  "off": 291352,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": "    Make which Void a gun battery?",
+  "src": "0323bf034c5b"
+ },
+ {
+  "id": "O002_047240",
+  "file": "O002",
+  "off": 291392,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "Make which Void an HP magic circle?",
+  "src": "b4b0f6a150df"
+ },
+ {
+  "id": "O002_047266",
+  "file": "O002",
+  "off": 291430,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "Make which Void an SP magic circle?",
+  "src": "3defc85a7c6a"
+ },
+ {
+  "id": "O002_04728c",
+  "file": "O002",
+  "off": 291468,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": "      Make which Void a wall?",
+  "src": "fe4282882997"
+ },
+ {
+  "id": "O002_0472d4",
+  "file": "O002",
+  "off": 291540,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": " will explode.",
+  "src": "b9ce63c0d9e3"
+ },
+ {
+  "id": "O002_0472e4",
+  "file": "O002",
+  "off": 291556,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": " becomes a teleporter.",
+  "src": "a38175d0b282"
+ },
+ {
+  "id": "O002_0472fc",
+  "file": "O002",
+  "off": 291580,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": " is a battery.",
+  "src": "944799119d1e"
+ },
+ {
+  "id": "O002_04730c",
+  "file": "O002",
+  "off": 291596,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "All your Voids become a barrier.",
+  "src": "b69d0a5c1bc0"
+ },
+ {
+  "id": "O002_047332",
+  "file": "O002",
+  "off": 291634,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " is an HP circle.",
+  "src": "8942896c3e18"
+ },
+ {
+  "id": "O002_047348",
+  "file": "O002",
+  "off": 291656,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " is an SP circle.",
+  "src": "32bf00ed4b61"
+ },
+ {
+  "id": "O002_04735e",
+  "file": "O002",
+  "off": 291678,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": " is a wall.",
+  "src": "68a28398f241"
+ },
+ {
+  "id": "O002_04738c",
+  "file": "O002",
+  "off": 291724,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " can no longer act.",
+  "src": "665d6066b8d7"
+ },
+ {
+  "id": "O002_0473a2",
+  "file": "O002",
+  "off": 291746,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "It can no longer serve as a Void.",
+  "src": "00227f33b2d7"
+ },
+ {
+  "id": "O002_04741c",
+  "file": "O002",
+  "off": 291868,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "\"Now then, what next?\"",
+  "src": "509881c62a0a"
+ },
+ {
+  "id": "O002_04743c",
+  "file": "O002",
+  "off": 291900,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "~!",
+  "src": "6d431b24d7c1"
+ },
+ {
+  "id": "O002_047446",
+  "file": "O002",
+  "off": 291910,
+  "slots": 20,
+  "raw_prefix": 0,
+  "en": " What should we do next~?\"",
+  "src": "c1bd9ebd6702"
+ },
+ {
+  "id": "O002_047474",
+  "file": "O002",
+  "off": 291956,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": ", Lt.! Next orders!\"",
+  "src": "d5f149cc3264"
+ },
+ {
+  "id": "O002_04748e",
+  "file": "O002",
+  "off": 291982,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "!",
+  "src": "2647f764800a"
+ },
+ {
+  "id": "O002_047494",
+  "file": "O002",
+  "off": 291988,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": " Who do I take down next, Lt.?\"",
+  "src": "1cd7739d41bd"
+ },
+ {
+  "id": "O002_0474bc",
+  "file": "O002",
+  "off": 292028,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "!",
+  "src": "35e763c61d8c"
+ },
+ {
+  "id": "O002_0474c6",
+  "file": "O002",
+  "off": 292038,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " Next target, my prince?\"",
+  "src": "7a9b343e8d11"
+ },
+ {
+  "id": "O002_0474ec",
+  "file": "O002",
+  "off": 292076,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": ",",
+  "src": "ee5d43d372e4"
+ },
+ {
+  "id": "O002_0474f4",
+  "file": "O002",
+  "off": 292084,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": " Your next orders, please!\"",
+  "src": "5b77e916dfaa"
+ },
+ {
+  "id": "O002_047512",
+  "file": "O002",
+  "off": 292114,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "\"Request new target.\"",
+  "src": "bacb94c3848b"
+ },
+ {
+  "id": "O002_04752e",
+  "file": "O002",
+  "off": 292142,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": ", orders, please!\"",
+  "src": "79e72aaa142a"
+ },
+ {
+  "id": "O002_047556",
+  "file": "O002",
+  "off": 292182,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "\"Good grief...",
+  "src": "69e3b25ddd82"
+ },
+ {
+  "id": "O002_047566",
+  "file": "O002",
+  "off": 292198,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " Overworking an old man!",
+  "src": "ec42b036dd2d"
+ },
+ {
+  "id": "O002_047582",
+  "file": "O002",
+  "off": 292226,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": " I'm the Professor!?\"",
+  "src": "f6f3c34e79d9"
+ },
+ {
+  "id": "O002_0475a0",
+  "file": "O002",
+  "off": 292256,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": ", how shall we proceed?\"",
+  "src": "2e655080c64d"
+ },
+ {
+  "id": "O002_0475d2",
+  "file": "O002",
+  "off": 292306,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " What do I do next!?\"",
+  "src": "000030a98fab"
+ },
+ {
+  "id": "O002_0475f4",
+  "file": "O002",
+  "off": 292340,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Master!",
+  "src": "a8fceca36784"
+ },
+ {
+  "id": "O002_047602",
+  "file": "O002",
+  "off": 292354,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " What should I do next?\"",
+  "src": "9541ae580e1e"
+ },
+ {
+  "id": "O002_047624",
+  "file": "O002",
+  "off": 292388,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "\"Order complete!",
+  "src": "ff75be20e656"
+ },
+ {
+  "id": "O002_047636",
+  "file": "O002",
+  "off": 292406,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " Request target reset.\"",
+  "src": "15698abeff0a"
+ },
+ {
+  "id": "O002_0476a4",
+  "file": "O002",
+  "off": 292516,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "\"Sooo, what should we do next?\"",
+  "src": "c0699c3f17d4"
+ },
+ {
+  "id": "O002_0476c6",
+  "file": "O002",
+  "off": 292550,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "\"Well? What d'you want next?\"",
+  "src": "053834e7338e"
+ },
+ {
+  "id": "O002_0476f0",
+  "file": "O002",
+  "off": 292592,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": " You're the leader, right? Orders!\"",
+  "src": "278af6c16d38"
+ },
+ {
+  "id": "O002_047718",
+  "file": "O002",
+  "off": 292632,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Old lady,",
+  "src": "de3305f3b823"
+ },
+ {
+  "id": "O002_047726",
+  "file": "O002",
+  "off": 292646,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": " what do I do next?\"",
+  "src": "c7e4a377ab68"
+ },
+ {
+  "id": "O002_047740",
+  "file": "O002",
+  "off": 292672,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "\"Request new target.\"",
+  "src": "bacb94c3848b"
+ },
+ {
+  "id": "O002_04775c",
+  "file": "O002",
+  "off": 292700,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": ", next orders, please.\"",
+  "src": "41248a7cc4c1"
+ },
+ {
+  "id": "O002_04778c",
+  "file": "O002",
+  "off": 292748,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": ", how shall we proceed?\"",
+  "src": "2e655080c64d"
+ },
+ {
+  "id": "O002_0477b4",
+  "file": "O002",
+  "off": 292788,
+  "slots": 1,
+  "raw_prefix": 0,
+  "en": ",",
+  "src": "6f46f7d4a286"
+ },
+ {
+  "id": "O002_0477b8",
+  "file": "O002",
+  "off": 292792,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": " what should I do next, eh?",
+  "src": "bfe1b1a4a287"
+ },
+ {
+  "id": "O002_0477d6",
+  "file": "O002",
+  "off": 292822,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": " I'm the Professor!\"",
+  "src": "c21a39df1506"
+ },
+ {
+  "id": "O002_0477ee",
+  "file": "O002",
+  "off": 292846,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "\"Mistress!",
+  "src": "dbfac7e063e2"
+ },
+ {
+  "id": "O002_0477fa",
+  "file": "O002",
+  "off": 292858,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": " What would you have me do next?\"",
+  "src": "abf57d670cae"
+ },
+ {
+  "id": "O002_047822",
+  "file": "O002",
+  "off": 292898,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "\"Order complete!",
+  "src": "ff75be20e656"
+ },
+ {
+  "id": "O002_047834",
+  "file": "O002",
+  "off": 292916,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " Request target reset.\"",
+  "src": "15698abeff0a"
+ },
+ {
+  "id": "O002_047850",
+  "file": "O002",
+  "off": 292944,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Beat enemy leader",
+  "src": "0b36349114be"
+ },
+ {
+  "id": "O002_047866",
+  "file": "O002",
+  "off": 292966,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Salamander",
+  "src": "422281a49db9"
+ },
+ {
+  "id": "O002_04787e",
+  "file": "O002",
+  "off": 292990,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Defeat Toryu",
+  "src": "0b3cc4cf8b6b"
+ },
+ {
+  "id": "O002_047892",
+  "file": "O002",
+  "off": 293010,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Zombie Knight",
+  "src": "31be1950cf0b"
+ },
+ {
+  "id": "O002_0478aa",
+  "file": "O002",
+  "off": 293034,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Lancelot",
+  "src": "a2f893dd3389"
+ },
+ {
+  "id": "O002_0478c2",
+  "file": "O002",
+  "off": 293058,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Lancelot",
+  "src": "aa256863321b"
+ },
+ {
+  "id": "O002_0478da",
+  "file": "O002",
+  "off": 293082,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Beat Tsuchimikado",
+  "src": "5f30c0473660"
+ },
+ {
+  "id": "O002_0478f0",
+  "file": "O002",
+  "off": 293104,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Fluid M.Man",
+  "src": "a10ccd8bc041"
+ },
+ {
+  "id": "O002_047904",
+  "file": "O002",
+  "off": 293124,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Gear M.Man",
+  "src": "1f1f5a6fac7e"
+ },
+ {
+  "id": "O002_047918",
+  "file": "O002",
+  "off": 293144,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Defeat Ange",
+  "src": "4d81eafd1887"
+ },
+ {
+  "id": "O002_04792c",
+  "file": "O002",
+  "off": 293164,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Juggernaut",
+  "src": "89288404727b"
+ },
+ {
+  "id": "O002_047944",
+  "file": "O002",
+  "off": 293188,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Plant M.Man",
+  "src": "65153ae91f95"
+ },
+ {
+  "id": "O002_047958",
+  "file": "O002",
+  "off": 293208,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Destroy Battery",
+  "src": "6523baa6d693"
+ },
+ {
+  "id": "O002_04796c",
+  "file": "O002",
+  "off": 293228,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Comp. M.Man",
+  "src": "91f19bc01393"
+ },
+ {
+  "id": "O002_047980",
+  "file": "O002",
+  "off": 293248,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Insect Auto",
+  "src": "6a7f4286a7c7"
+ },
+ {
+  "id": "O002_047994",
+  "file": "O002",
+  "off": 293268,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Beat Machine Ixion",
+  "src": "6a4d38211822"
+ },
+ {
+  "id": "O002_0479ae",
+  "file": "O002",
+  "off": 293294,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Ymir",
+  "src": "da870d72be35"
+ },
+ {
+  "id": "O002_0479c0",
+  "file": "O002",
+  "off": 293312,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Ymir",
+  "src": "26a384a5c7aa"
+ },
+ {
+  "id": "O002_0479d4",
+  "file": "O002",
+  "off": 293332,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Rival",
+  "src": "d5ce4c614680"
+ },
+ {
+  "id": "O002_0479e6",
+  "file": "O002",
+  "off": 293350,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Defeat All",
+  "src": "a1f7d3ba1007"
+ },
+ {
+  "id": "O002_0479f2",
+  "file": "O002",
+  "off": 293362,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Beat enemy leader",
+  "src": "0b36349114be"
+ },
+ {
+  "id": "O002_047a08",
+  "file": "O002",
+  "off": 293384,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Salamander",
+  "src": "422281a49db9"
+ },
+ {
+  "id": "O002_047a20",
+  "file": "O002",
+  "off": 293408,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Defeat Toryu",
+  "src": "0b3cc4cf8b6b"
+ },
+ {
+  "id": "O002_047a34",
+  "file": "O002",
+  "off": 293428,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Zombie Knight",
+  "src": "31be1950cf0b"
+ },
+ {
+  "id": "O002_047a4c",
+  "file": "O002",
+  "off": 293452,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Beat Officer Armor Gunner",
+  "src": "7ac4a0b0c45a"
+ },
+ {
+  "id": "O002_047a6a",
+  "file": "O002",
+  "off": 293482,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Lancelot",
+  "src": "a2f893dd3389"
+ },
+ {
+  "id": "O002_047a82",
+  "file": "O002",
+  "off": 293506,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Beat Tsuchimikado",
+  "src": "5f30c0473660"
+ },
+ {
+  "id": "O002_047a98",
+  "file": "O002",
+  "off": 293528,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Fluid M.Man",
+  "src": "a10ccd8bc041"
+ },
+ {
+  "id": "O002_047aac",
+  "file": "O002",
+  "off": 293548,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Gear M.Man",
+  "src": "1f1f5a6fac7e"
+ },
+ {
+  "id": "O002_047ac0",
+  "file": "O002",
+  "off": 293568,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Defeat Ange",
+  "src": "4d81eafd1887"
+ },
+ {
+  "id": "O002_047ad4",
+  "file": "O002",
+  "off": 293588,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Defeat Juggernaut",
+  "src": "89288404727b"
+ },
+ {
+  "id": "O002_047aec",
+  "file": "O002",
+  "off": 293612,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Plant M.Man",
+  "src": "65153ae91f95"
+ },
+ {
+  "id": "O002_047b00",
+  "file": "O002",
+  "off": 293632,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Destroy Battery",
+  "src": "6523baa6d693"
+ },
+ {
+  "id": "O002_047b14",
+  "file": "O002",
+  "off": 293652,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Defeat Raggadol",
+  "src": "3a63ef9a08f5"
+ },
+ {
+  "id": "O002_047b2a",
+  "file": "O002",
+  "off": 293674,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Comp. M.Man",
+  "src": "91f19bc01393"
+ },
+ {
+  "id": "O002_047b3e",
+  "file": "O002",
+  "off": 293694,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Beat Insect Auto",
+  "src": "6a7f4286a7c7"
+ },
+ {
+  "id": "O002_047b52",
+  "file": "O002",
+  "off": 293714,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Beat Machine Hector",
+  "src": "4fcaeeb19d62"
+ },
+ {
+  "id": "O002_047b6c",
+  "file": "O002",
+  "off": 293740,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Ymir",
+  "src": "da870d72be35"
+ },
+ {
+  "id": "O002_047b7e",
+  "file": "O002",
+  "off": 293758,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Ymir",
+  "src": "26a384a5c7aa"
+ },
+ {
+  "id": "O002_047b92",
+  "file": "O002",
+  "off": 293778,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Defeat Rival",
+  "src": "d5ce4c614680"
+ },
+ {
+  "id": "O002_047ba4",
+  "file": "O002",
+  "off": 293796,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Defeat All",
+  "src": "a1f7d3ba1007"
+ },
+ {
+  "id": "O002_048176",
+  "file": "O002",
+  "off": 295286,
+  "slots": 14,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "bc4be60c72af"
+ },
+ {
+  "id": "O002_0481ce",
+  "file": "O002",
+  "off": 295374,
+  "slots": 8,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "5bc5eb8db9a7"
+ },
+ {
+  "id": "O002_04b176",
+  "file": "O002",
+  "off": 307574,
+  "slots": 16,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "6e8178f5f1d8"
+ },
+ {
+  "id": "O002_052fa4",
+  "file": "O002",
+  "off": 339876,
+  "slots": 296,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "8b930f16cd52"
+ },
+ {
+  "id": "O002_053202",
+  "file": "O002",
+  "off": 340482,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b970d3846062"
+ },
+ {
+  "id": "O002_053232",
+  "file": "O002",
+  "off": 340530,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b970d3846062"
+ },
+ {
+  "id": "O002_053262",
+  "file": "O002",
+  "off": 340578,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b970d3846062"
+ },
+ {
+  "id": "O002_053292",
+  "file": "O002",
+  "off": 340626,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b970d3846062"
+ },
+ {
+  "id": "O002_0532c2",
+  "file": "O002",
+  "off": 340674,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b970d3846062"
+ },
+ {
+  "id": "O002_0532f2",
+  "file": "O002",
+  "off": 340722,
+  "slots": 8,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "b9fcbb946ad9"
+ },
+ {
+  "id": "O002_05330a",
+  "file": "O002",
+  "off": 340746,
+  "slots": 391,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "b9b0566a727a"
+ },
+ {
+  "id": "O002_05366c",
+  "file": "O002",
+  "off": 341612,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "ab214a2be3df"
+ },
+ {
+  "id": "O002_053678",
+  "file": "O002",
+  "off": 341624,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "d51c3f0ac8f4"
+ }
+]

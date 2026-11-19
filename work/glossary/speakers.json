@@ -1,0 +1,1143 @@
+[
+{
+"id": 0,
+"jp": "？？？？？？",
+"en": "??????",
+"rows": 0
+},
+{
+"id": 1,
+"jp": "ケーン",
+"en": "Kane",
+"rows": 11263
+},
+{
+"id": 2,
+"jp": "セラ",
+"en": "Sera",
+"rows": 18929
+},
+{
+"id": 3,
+"jp": "アリス",
+"en": "Alice",
+"rows": 1864
+},
+{
+"id": 4,
+"jp": "サーブラウ",
+"en": "Cerbera",
+"rows": 688,
+"note": "unconfirmed: TVR Cerbera assumed"
+},
+{
+"id": 5,
+"jp": "グリフィス",
+"en": "Griffith",
+"rows": 825
+},
+{
+"id": 6,
+"jp": "イクシオン",
+"en": "Ixion",
+"rows": 1500
+},
+{
+"id": 7,
+"jp": "ファウスト",
+"en": "Faust",
+"rows": 1238
+},
+{
+"id": 8,
+"jp": "教授",
+"en": "Professor",
+"rows": 1362
+},
+{
+"id": 9,
+"jp": "ＦＤ－３Ｓ",
+"en": "FD-3S",
+"rows": 1420
+},
+{
+"id": 10,
+"jp": "エアリアル",
+"en": "Aerial",
+"rows": 1727,
+"note": "unconfirmed: or Ariel"
+},
+{
+"id": 11,
+"jp": "オヅヌ",
+"en": "Ozunu",
+"rows": 1075,
+"note": "unconfirmed: Ozunu (En no Ozunu)"
+},
+{
+"id": 12,
+"jp": "トリュウ",
+"en": "Toryu",
+"rows": 672,
+"note": "unconfirmed: Toryu"
+},
+{
+"id": 13,
+"jp": "アヤメ",
+"en": "Ayame",
+"rows": 1682
+},
+{
+"id": 14,
+"jp": "テティス",
+"en": "Tethys",
+"rows": 6807
+},
+{
+"id": 15,
+"jp": "ロブン",
+"en": "Robun",
+"rows": 2
+},
+{
+"id": 16,
+"jp": "ディアナ",
+"en": "Diana",
+"rows": 2087
+},
+{
+"id": 17,
+"jp": "ジャギュア",
+"en": "Jaguar",
+"rows": 877,
+"note": "unconfirmed: Jaguar, written Jagyua"
+},
+{
+"id": 18,
+"jp": "パーシファル",
+"en": "Parsifal",
+"rows": 942
+},
+{
+"id": 19,
+"jp": "将軍",
+"en": "General",
+"rows": 41
+},
+{
+"id": 20,
+"jp": "少佐",
+"en": "Major",
+"rows": 0
+},
+{
+"id": 21,
+"jp": "隊長",
+"en": "Captain",
+"rows": 0
+},
+{
+"id": 22,
+"jp": "魔導部隊長",
+"en": "Sorcery Unit Captain",
+"rows": 0,
+"box": "Sorcery Unit Capt."
+},
+{
+"id": 23,
+"jp": "戦闘隊長",
+"en": "Combat Captain",
+"rows": 0
+},
+{
+"id": 24,
+"jp": "分隊長",
+"en": "Squad Leader",
+"rows": 0
+},
+{
+"id": 25,
+"jp": "守備隊長",
+"en": "Garrison Captain",
+"rows": 8
+},
+{
+"id": 26,
+"jp": "小隊長",
+"en": "Platoon Leader",
+"rows": 0
+},
+{
+"id": 27,
+"jp": "主人",
+"en": "Barkeep",
+"rows": 45
+},
+{
+"id": 28,
+"jp": "戦闘兵",
+"en": "Trooper",
+"rows": 0
+},
+{
+"id": 29,
+"jp": "機改兵",
+"en": "Machine Soldier",
+"rows": 2,
+"note": "unconfirmed: reading of the term"
+},
+{
+"id": 30,
+"jp": "軍事Ａ",
+"en": "Military A",
+"rows": 0
+},
+{
+"id": 31,
+"jp": "軍人Ａ",
+"en": "Soldier A",
+"rows": 0
+},
+{
+"id": 32,
+"jp": "軍人Ｂ",
+"en": "Soldier B",
+"rows": 0
+},
+{
+"id": 33,
+"jp": "機械化歩兵Ａ",
+"en": "Mech Infantry A",
+"rows": 0
+},
+{
+"id": 34,
+"jp": "機械化歩兵Ｂ",
+"en": "Mech Infantry B",
+"rows": 0
+},
+{
+"id": 35,
+"jp": "兵士Ａ",
+"en": "Soldier A",
+"rows": 59
+},
+{
+"id": 36,
+"jp": "兵士Ｂ",
+"en": "Soldier B",
+"rows": 20
+},
+{
+"id": 37,
+"jp": "重歩兵Ａ",
+"en": "Heavy Infantry A",
+"rows": 0
+},
+{
+"id": 38,
+"jp": "重歩兵Ｂ",
+"en": "Heavy Infantry B",
+"rows": 0
+},
+{
+"id": 39,
+"jp": "義勇兵Ａ",
+"en": "Volunteer A",
+"rows": 0
+},
+{
+"id": 40,
+"jp": "義勇兵Ｂ",
+"en": "Volunteer B",
+"rows": 0
+},
+{
+"id": 41,
+"jp": "兵士",
+"en": "Soldier",
+"rows": 0
+},
+{
+"id": 42,
+"jp": "マッコーリフ",
+"en": "McAuliffe",
+"rows": 40,
+"note": "unconfirmed: McAuliffe"
+},
+{
+"id": 43,
+"jp": "アンデッド",
+"en": "Undead",
+"rows": 4
+},
+{
+"id": 44,
+"jp": "ゾンビナイト",
+"en": "Zombie Knight",
+"rows": 6
+},
+{
+"id": 45,
+"jp": "ユミル",
+"en": "Ymir",
+"rows": 878,
+"note": "unconfirmed: Ymir"
+},
+{
+"id": 46,
+"jp": "流動機人",
+"en": "Fluid Automaton",
+"rows": 12,
+"note": "unconfirmed: term"
+},
+{
+"id": 47,
+"jp": "機人",
+"en": "Automaton",
+"rows": 4
+},
+{
+"id": 48,
+"jp": "機改機人",
+"en": "Modified Automaton",
+"rows": 4,
+"box": "Mod. Automaton"
+},
+{
+"id": 49,
+"jp": "植物機人",
+"en": "Plant Automaton",
+"rows": 6
+},
+{
+"id": 50,
+"jp": "合成機人",
+"en": "Composite Automaton",
+"rows": 6,
+"box": "Comp. Automaton"
+},
+{
+"id": 51,
+"jp": "ハイドロイド",
+"en": "Hydroid",
+"rows": 16
+},
+{
+"id": 52,
+"jp": "ジャガナート",
+"en": "Juggernaut",
+"rows": 42,
+"note": "unconfirmed: Juggernaut"
+},
+{
+"id": 53,
+"jp": "案内屋",
+"en": "Guide",
+"rows": 126
+},
+{
+"id": 54,
+"jp": "名前屋",
+"en": "Namer",
+"rows": 56,
+"note": "unconfirmed: renames units"
+},
+{
+"id": 55,
+"jp": "道具屋",
+"en": "Item Seller",
+"rows": 28
+},
+{
+"id": 56,
+"jp": "ヴォイド屋",
+"en": "Void Seller",
+"rows": 0
+},
+{
+"id": 57,
+"jp": "情報屋",
+"en": "Informant",
+"rows": 1030
+},
+{
+"id": 58,
+"jp": "アドバイザー",
+"en": "Advisor",
+"rows": 184
+},
+{
+"id": 59,
+"jp": "占いオババ",
+"en": "Fortune Granny",
+"rows": 822
+},
+{
+"id": 60,
+"jp": "少女",
+"en": "Girl",
+"rows": 56
+},
+{
+"id": 61,
+"jp": "流れ者",
+"en": "Drifter",
+"rows": 114
+},
+{
+"id": 62,
+"jp": "黄道十二半神",
+"en": "Zodiac Demigods",
+"rows": 277,
+"note": "unconfirmed: term"
+},
+{
+"id": 63,
+"jp": "ＳＡ－２２Ｃ",
+"en": "SA-22C",
+"rows": 224
+},
+{
+"id": 64,
+"jp": "ランスロット",
+"en": "Lancelot",
+"rows": 96
+},
+{
+"id": 65,
+"jp": "老人",
+"en": "Old Man",
+"rows": 472
+},
+{
+"id": 66,
+"jp": "女の子",
+"en": "Little Girl",
+"rows": 92
+},
+{
+"id": 67,
+"jp": "中隊長",
+"en": "Company Commander",
+"rows": 0
+},
+{
+"id": 68,
+"jp": "ツチミカド",
+"en": "Tsuchimikado",
+"rows": 54,
+"note": "unconfirmed: Tsuchimikado"
+},
+{
+"id": 69,
+"jp": "アンジュ",
+"en": "Ange",
+"rows": 104,
+"note": "unconfirmed: Ange or Anju"
+},
+{
+"id": 70,
+"jp": "師団長",
+"en": "Division Commander",
+"rows": 0,
+"box": "Division Cmdr."
+},
+{
+"id": 71,
+"jp": "空テイ隊員",
+"en": "Airborne Trooper",
+"rows": 0
+},
+{
+"id": 72,
+"jp": "エリーゼ",
+"en": "Elise",
+"rows": 30,
+"note": "unconfirmed: Lotus Elise assumed"
+},
+{
+"id": 73,
+"jp": "コルティナ",
+"en": "Cortina",
+"rows": 30,
+"note": "unconfirmed: Ford Cortina assumed"
+},
+{
+"id": 74,
+"jp": "ケルベロス",
+"en": "Cerberus",
+"rows": 8
+},
+{
+"id": 75,
+"jp": "ゾンビ",
+"en": "Zombie",
+"rows": 28
+},
+{
+"id": 76,
+"jp": "闇の大地の",
+"en": "Dark Land's",
+"rows": 14
+},
+{
+"id": 77,
+"jp": "道具屋",
+"en": "Item Seller",
+"rows": 0
+},
+{
+"id": 78,
+"jp": "旅の職人",
+"en": "Traveling Artisan",
+"rows": 68
+},
+{
+"id": 79,
+"jp": "魔のヴォイド",
+"en": "Demon Void",
+"rows": 0
+},
+{
+"id": 80,
+"jp": "屋",
+"en": "Seller",
+"rows": 0
+},
+{
+"id": 81,
+"jp": "声",
+"en": "Voice",
+"rows": 57
+},
+{
+"id": 82,
+"jp": "ラグガドル",
+"en": "Raggadol",
+"rows": 87,
+"note": "unconfirmed: same spelling as the first game"
+},
+{
+"id": 83,
+"jp": "ディアーヌ",
+"en": "Diane",
+"rows": 3
+},
+{
+"id": 84,
+"jp": "勇将シグルド",
+"en": "General Sigurd",
+"rows": 68
+},
+{
+"id": 85,
+"jp": "テティス",
+"en": "Tethys",
+"rows": 2
+},
+{
+"id": 86,
+"jp": "１０９９",
+"en": "1099",
+"rows": 0
+},
+{
+"id": 87,
+"jp": "９１７４",
+"en": "9174",
+"rows": 2
+},
+{
+"id": 88,
+"jp": "３３６７",
+"en": "3367",
+"rows": 2
+},
+{
+"id": 89,
+"jp": "０１９８",
+"en": "0198",
+"rows": 6
+},
+{
+"id": 90,
+"jp": "森の番人",
+"en": "Forest Warden",
+"rows": 22
+},
+{
+"id": 91,
+"jp": "アリス２ＮＤ",
+"en": "Alice 2nd",
+"rows": 32
+},
+{
+"id": 92,
+"jp": "アヤメ２ＮＤ",
+"en": "Ayame 2nd",
+"rows": 30
+},
+{
+"id": 93,
+"jp": "ライオス",
+"en": "Laius",
+"rows": 26,
+"note": "unconfirmed: Laius or Laios"
+},
+{
+"id": 94,
+"jp": "ヘクトール",
+"en": "Hector",
+"rows": 184
+},
+{
+"id": 95,
+"jp": "市民Ａ",
+"en": "Citizen A",
+"rows": 8
+},
+{
+"id": 96,
+"jp": "市民Ｂ",
+"en": "Citizen B",
+"rows": 5
+},
+{
+"id": 97,
+"jp": "市民Ｃ",
+"en": "Citizen C",
+"rows": 5
+},
+{
+"id": 98,
+"jp": "男",
+"en": "Man",
+"rows": 5
+},
+{
+"id": 99,
+"jp": "軍神アレス",
+"en": "War God Ares",
+"rows": 60
+},
+{
+"id": 100,
+"jp": "美神ヴィナス",
+"en": "Beauty God Venus",
+"rows": 65
+},
+{
+"id": 101,
+"jp": "伝令神",
+"en": "Messenger God",
+"rows": 100
+},
+{
+"id": 102,
+"jp": "ヘルメス",
+"en": "Hermes",
+"rows": 0
+},
+{
+"id": 103,
+"jp": "静寂神セレネ",
+"en": "Silence God Selene",
+"rows": 18
+},
+{
+"id": 104,
+"jp": "太陽神",
+"en": "Sun God",
+"rows": 64
+},
+{
+"id": 105,
+"jp": "アポロン",
+"en": "Apollo",
+"rows": 0
+},
+{
+"id": 106,
+"jp": "知神",
+"en": "Wisdom God",
+"rows": 100
+},
+{
+"id": 107,
+"jp": "マーキュリー",
+"en": "Mercury",
+"rows": 0
+},
+{
+"id": 108,
+"jp": "美神アフロ",
+"en": "Beauty God Aphrodite",
+"rows": 100,
+"box": "God Aphrodite"
+},
+{
+"id": 109,
+"jp": "ディーテ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 110,
+"jp": "亮王神",
+"en": "Underworld God",
+"rows": 100,
+"note": "unconfirmed: kanji read by eye"
+},
+{
+"id": 111,
+"jp": "プルートゥ",
+"en": "Pluto",
+"rows": 0
+},
+{
+"id": 112,
+"jp": "時神クロノス",
+"en": "Time God Cronus",
+"rows": 116
+},
+{
+"id": 113,
+"jp": "天空神",
+"en": "Sky God",
+"rows": 110
+},
+{
+"id": 114,
+"jp": "ウラヌス",
+"en": "Uranus",
+"rows": 0
+},
+{
+"id": 115,
+"jp": "海神",
+"en": "Sea God",
+"rows": 20
+},
+{
+"id": 116,
+"jp": "ポセイドン",
+"en": "Poseidon",
+"rows": 0
+},
+{
+"id": 117,
+"jp": "大神ゼウス",
+"en": "Great God Zeus",
+"rows": 110
+},
+{
+"id": 118,
+"jp": "黄道十二神",
+"en": "Zodiac Twelve Gods",
+"rows": 53
+},
+{
+"id": 119,
+"jp": "アッシリア兵",
+"en": "Assyrian Soldier",
+"rows": 2
+},
+{
+"id": 120,
+"jp": "盗賊",
+"en": "Thief",
+"rows": 15
+},
+{
+"id": 121,
+"jp": "ヘクトールの",
+"en": "Hector's",
+"rows": 53
+},
+{
+"id": 122,
+"jp": "部下",
+"en": "Subordinate",
+"rows": 0
+},
+{
+"id": 123,
+"jp": "ドラゴンエン",
+"en": "Dragon Emperor",
+"rows": 48,
+"note": "unconfirmed: two-entry name Dragon Emperor"
+},
+{
+"id": 124,
+"jp": "ペラー",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 125,
+"jp": "武器屋",
+"en": "Weaponsmith",
+"rows": 0
+},
+{
+"id": 126,
+"jp": "マッコリーフ",
+"en": "McAuliffe",
+"rows": 0
+},
+{
+"id": 127,
+"jp": "黄道十二半神",
+"en": "Zodiac Demigods",
+"rows": 0
+},
+{
+"id": 128,
+"jp": "キャリア",
+"en": "Carrier",
+"rows": 0
+},
+{
+"id": 129,
+"jp": "ラインメタル",
+"en": "Rheinmetall Major",
+"rows": 52
+},
+{
+"id": 130,
+"jp": "軍少佐",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 131,
+"jp": "ラインメタル",
+"en": "Rheinmetall Platoon Leader",
+"rows": 15,
+"box": "Rhein. Platoon Ldr"
+},
+{
+"id": 132,
+"jp": "軍小隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 133,
+"jp": "ラインメタル",
+"en": "Rheinmetall Division Commander",
+"rows": 10,
+"box": "Rhein. Div. Cmdr."
+},
+{
+"id": 134,
+"jp": "軍師団長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 135,
+"jp": "ラインメタル",
+"en": "Rheinmetall Soldier",
+"rows": 4,
+"box": "Rhein. Soldier"
+},
+{
+"id": 136,
+"jp": "軍兵士",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 137,
+"jp": "ラインメタル",
+"en": "Rheinmetall Chemical Trooper",
+"rows": 0,
+"box": "Rhein. Chem. Trp."
+},
+{
+"id": 138,
+"jp": "軍化学兵",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 139,
+"jp": "ラインメタル",
+"en": "Rheinmetall Heavy Infantry A",
+"rows": 38,
+"box": "Rhein. Heavy Inf. A"
+},
+{
+"id": 140,
+"jp": "軍重歩兵Ａ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 141,
+"jp": "ラインメタル",
+"en": "Rheinmetall Heavy Infantry B",
+"rows": 20,
+"box": "Rhein. Heavy Inf. B"
+},
+{
+"id": 142,
+"jp": "軍重歩兵Ｂ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 143,
+"jp": "ロードス軍隊",
+"en": "Rhodes Army Captain",
+"rows": 44,
+"note": "unconfirmed: Rhodes",
+"box": "Rhodes Captain"
+},
+{
+"id": 144,
+"jp": "長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 145,
+"jp": "ロードス軍兵",
+"en": "Rhodes Army Soldier",
+"rows": 6,
+"box": "Rhodes Soldier"
+},
+{
+"id": 146,
+"jp": "士",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 147,
+"jp": "アッシリア軍",
+"en": "Assyrian Trooper",
+"rows": 8
+},
+{
+"id": 148,
+"jp": "戦闘兵",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 149,
+"jp": "アッシリア軍",
+"en": "Assyrian Combat Captain",
+"rows": 90,
+"box": "Assyrian Captain"
+},
+{
+"id": 150,
+"jp": "戦闘隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 151,
+"jp": "アッシリア軍",
+"en": "Assyrian Company Commander",
+"rows": 24,
+"box": "Assyrian Co. Cmdr."
+},
+{
+"id": 152,
+"jp": "中隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 153,
+"jp": "アッシリア軍",
+"en": "Assyrian Soldier A",
+"rows": 20
+},
+{
+"id": 154,
+"jp": "兵士Ａ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 155,
+"jp": "アッシリア軍",
+"en": "Assyrian Soldier B",
+"rows": 16
+},
+{
+"id": 156,
+"jp": "兵士Ｂ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 157,
+"jp": "フォルゴーレ",
+"en": "Folgore Squad Leader",
+"rows": 0,
+"note": "unconfirmed: Folgore",
+"box": "Folgore Sq. Leader"
+},
+{
+"id": 158,
+"jp": "軍分隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 159,
+"jp": "フォルゴーレ",
+"en": "Folgore Volunteer A",
+"rows": 48,
+"box": "Folgore Vol. A"
+},
+{
+"id": 160,
+"jp": "軍義勇兵Ａ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 161,
+"jp": "フォルゴーレ",
+"en": "Folgore Volunteer B",
+"rows": 48,
+"box": "Folgore Vol. B"
+},
+{
+"id": 162,
+"jp": "軍義勇兵Ｂ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 163,
+"jp": "機改",
+"en": "Machine",
+"rows": 28
+},
+{
+"id": 164,
+"jp": "ロードス軍分",
+"en": "Rhodes Squad Leader",
+"rows": 2,
+"box": "Rhodes Sq. Leader"
+},
+{
+"id": 165,
+"jp": "隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 166,
+"jp": "ロムルス軍分",
+"en": "Romulus Squad Leader",
+"rows": 4,
+"box": "Romulus Sq. Leader"
+},
+{
+"id": 167,
+"jp": "隊長",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 168,
+"jp": "ラインメタル",
+"en": "Rheinmetall Soldier A",
+"rows": 18,
+"box": "Rhein. Soldier A"
+},
+{
+"id": 169,
+"jp": "軍兵士Ａ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 170,
+"jp": "ラインメタル",
+"en": "Rheinmetall Soldier B",
+"rows": 2,
+"box": "Rhein. Soldier B"
+},
+{
+"id": 171,
+"jp": "軍兵士Ｂ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 172,
+"jp": "ラインメタル",
+"en": "Rheinmetall Airborne Trooper",
+"rows": 4,
+"box": "Rhein. Air Trooper"
+},
+{
+"id": 173,
+"jp": "軍空テイ隊員",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 174,
+"jp": "ラインメタル",
+"en": "Rheinmetall Soldier A",
+"rows": 99,
+"box": "Rhein. Soldier A"
+},
+{
+"id": 175,
+"jp": "軍人Ａ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+},
+{
+"id": 176,
+"jp": "ラインメタル",
+"en": "Rheinmetall Soldier B",
+"rows": 51,
+"box": "Rhein. Soldier B"
+},
+{
+"id": 177,
+"jp": "軍人Ｂ",
+"en": "",
+"rows": 0,
+"note": "second half of the previous entry (the name spans two entries)"
+}
+]

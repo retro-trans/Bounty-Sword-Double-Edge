@@ -1,0 +1,20 @@
+# K062: Machine Soldier battle on the way in (Kane-lead and Sera-lead variants, party Void lines). Draft, self-checked only (no review pass yet).
+EN = {
+0: "\"Tch! The Machine Soldiers again?{n} Cut them down and more show up.{n} Damn it, there's no end to this!\"",
+1: "\"But thanks to these{n} Machine Soldiers...\"",
+2: "\"The other countries' armies, and{n} Ixion's bunch too, still haven't{n} managed to find all 12 rings...\"",
+3: "\"In that sense they're a help, I guess.\"",
+4: "\"What shall we do?\"",
+5: "\"Nothing for it but to force{n} our way through.\"",
+6: "\"Right!\"",
+7: "\"The enemy's waiting for us to move.{n} It's a chance to mop them up with{n} Voids. Work clean and finish it fast!\"",
+8: "\"The enemy is all bunched up{n} togetheeer! Voids to the front!{n} It's our chance to beat them in one gooo!\"",
+9: "\"Indeed, judging by the enemy's{n} abilities, making active use of Voids{n} should give us the upper hand.\"",
+10: "\"Leave the Voids to me! As an expert{n} in Item Studies, I'll handle them{n} 100% perfectly, just you watch!\"",
+11: "\"Affirmative. Accurate analysis.{n} Against that enemy formation,{n} Voids will be effective.\"",
+12: "\"I have confidence in my handling{n} of Voids. Pray watch closely{n} how I fight...\"",
+13: "\"Mm...\"",
+14: "\"Oh my! Voids, is it!? Li'l Tethys{n} can handle them too, cheeky as that{n} is! Leave this one to her, if you please!\"",
+15: "\"All right! In the end, Machine{n} Soldiers are nothing but toys{n} to the likes of us!\"",
+16: "\"Phew! We somehow managed to wiiin!{n} Thank you all so much for{n} your hard wooork!\"",
+}

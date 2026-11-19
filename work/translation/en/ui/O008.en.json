@@ -1,0 +1,29 @@
+[
+ {
+  "id": "O008_000208",
+  "file": "O008",
+  "off": 520,
+  "slots": 87,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "31ddc0ef557b"
+ },
+ {
+  "id": "O008_0002b8",
+  "file": "O008",
+  "off": 696,
+  "slots": 21,
+  "raw_prefix": 20,
+  "en": "-",
+  "src": "4594dfdf6e9c"
+ },
+ {
+  "id": "O008_00030c",
+  "file": "O008",
+  "off": 780,
+  "slots": 21,
+  "raw_prefix": 20,
+  "en": "-",
+  "src": "fa817336600e"
+ }
+]

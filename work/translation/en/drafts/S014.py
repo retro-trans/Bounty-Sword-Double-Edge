@@ -1,0 +1,22 @@
+# S014: Sera vs Kane, the debate on human nature and the duel (Sera's side). Draft, self-checked only.
+EN = {
+0: "\"Looks like we've met agaain.\"",
+6: "But we can't back down!",
+8: "\"Buut we can't back down either!\"",
+9: "\"Oho?\"",
+10: "\"We have to get the rings of the{n} Twelve Gods no matter what, and seal{n} the Almighty Treasure as soon as we can.\"",
+11: "\"Good attitude...\"",
+31: "\"They care for the weak, share their{n} wealth, and live by supporting each{n} other. That's the wisdom they have.\"",
+45: "\"......\"",
+46: "\"Sorry, but chat time's over.\"",
+55: "\"What did you say?\"",
+56: "\"You've regretted being born into{n} this world all this tiiime.\"",
+85: "\"......\"",
+94: "\"The knight of darkness,{n} the Dark Knight...\"",
+95: "\"If we meet again,{n} it may cost me my life.\"",
+96: "\"Please, Hector...{n} protect me just a little longer.\"",
+97: "\"You all right, {name:6}?\"",
+98: "\"Yes...{w:1} somehow...\"",
+99: "\"But...{w:1} everyone else...{w:1} is badly hurt.{n} ...I hate to lose the time, but let's...{n} {w:1}rest here for a little while...\"",
+100: "\"Wait!?\"",
+}

@@ -1,0 +1,21 @@
+# S118: ring duel between Sera and Kane from Sera's side; party battle lines; Hector; win and loss endings.
+EN = {
+0: "\"My, my, so we meet agaain.\"",
+3: "\"Then there's no way but to fight.{n} Don't you think so, old lady?\"",
+4: "\"The 'old lady' part asiiide...\"",
+5: "\"Understoood...\"",
+6: "\"Avoiding a fight only ends up{n} putting off a problem that has{n} to be solved anywaaay!\"",
+7: "\"Well, that's about the size of it.\"",
+10: "\"Don't you flinch, {name:6}!{n} You can win this! You're the one{n} I picked, after all!\"",
+11: "\"Leave it to me, {name:6}.{n} You saved me, and I shall{n} never let you die.\"",
+12: "\"Is this... where I die...?{n} ...Yes... a death on the battlefield{n} is fitting... for me, who killed my sister.\"",
+17: "\"Mm...\"",
+38: "\"That is not all!{n} I came so that the same kind{n} of sorrow is never repeated!\"",
+52: "\"So I couldn't...{w:1} win after{w:1} all...\"",
+53: "\"Sorry, but the ",
+67: "\"We managed to win, but...\"",
+68: "\"If I had any choice at all,{n} I wouldn't want to fight anymore.\"",
+69: "\"Protect me... Hector...\"",
+70: "\"Everyone else...{w:1} is wounded too.{n} Let's...{w:1} rest here for a while.\"",
+71: "\"Wait!?\"",
+}

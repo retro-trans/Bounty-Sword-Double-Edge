@@ -1,0 +1,26 @@
+work/source/
+work/emulator/
+work/output/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+__pycache__/
+*.bin
+*.cue
+
+# Screenshots and RAM/VRAM grabs of the game (game imagery, and many show the Japanese script)
+work/ui/
+*.png
+!docs/*.png
+# Emulator data, saves, backups
+*.sav
+*.mcd
+*.bak
+*.xdelta
+# Local release inputs and staging
+release-local.json
+release/
+# Translation working files without Japanese text (needed by the build tools)
+!work/translation/en/owners.json
+!work/translation/en/units.json
+!work/translation/en/left.json
+!work/translation/en/ui/overrides.json

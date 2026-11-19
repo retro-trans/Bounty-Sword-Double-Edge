@@ -1,0 +1,2150 @@
+[
+ {
+  "jp": "ヴォイド",
+  "en": "Void",
+  "type": "term",
+  "note": "the combat machines of this game; 238 unique rows"
+ },
+ {
+  "jp": "ヴォイドマスター",
+  "en": "Void Master",
+  "type": "title",
+  "note": ""
+ },
+ {
+  "jp": "ヴォイドキャリア",
+  "en": "Void Carrier",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "ヴォイド職人",
+  "en": "Void artisan",
+  "type": "role",
+  "note": ""
+ },
+ {
+  "jp": "エスパードール",
+  "en": "Esper Doll",
+  "type": "term",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "ロムルス",
+  "en": "Romulus",
+  "type": "place",
+  "note": "Republic of Romulus; the hero's army"
+ },
+ {
+  "jp": "ロムルス共和国",
+  "en": "Republic of Romulus",
+  "type": "place",
+  "note": ""
+ },
+ {
+  "jp": "ロードス",
+  "en": "Rhodes",
+  "type": "place",
+  "note": "unconfirmed: could be Lodoss"
+ },
+ {
+  "jp": "アッシリア",
+  "en": "Assyria",
+  "type": "place",
+  "note": ""
+ },
+ {
+  "jp": "ラインメタル",
+  "en": "Rheinmetall",
+  "type": "place",
+  "note": "same spelling as Bounty Sword First"
+ },
+ {
+  "jp": "フォルゴーレ",
+  "en": "Folgore",
+  "type": "organization",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "エウロペア",
+  "en": "Europea",
+  "type": "place",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "アヴァロン",
+  "en": "Avalon",
+  "type": "place",
+  "note": ""
+ },
+ {
+  "jp": "アスガルド",
+  "en": "Asgard",
+  "type": "place",
+  "note": ""
+ },
+ {
+  "jp": "オルドバ",
+  "en": "Ordoba",
+  "type": "place",
+  "note": "same spelling as Bounty Sword First"
+ },
+ {
+  "jp": "ジャポネ",
+  "en": "Japone",
+  "type": "place",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "サラマンダー",
+  "en": "Salamander",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "ダークナイト",
+  "en": "Dark Knight",
+  "type": "class",
+  "note": ""
+ },
+ {
+  "jp": "ホーリーナイト",
+  "en": "Holy Knight",
+  "type": "class",
+  "note": ""
+ },
+ {
+  "jp": "ドラゴンナイト",
+  "en": "Dragon Knight",
+  "type": "class",
+  "note": ""
+ },
+ {
+  "jp": "バウンティソード",
+  "en": "Bounty Sword",
+  "type": "title",
+  "note": ""
+ },
+ {
+  "jp": "バウンティハンター",
+  "en": "bounty hunter",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "グングニル",
+  "en": "Gungnir",
+  "type": "item",
+  "note": ""
+ },
+ {
+  "jp": "イフィッシュ",
+  "en": "Ifish",
+  "type": "place",
+  "note": "an island, Sera's home (K050_0081): 'the isle of Ifish'"
+ },
+ {
+  "jp": "ヒギンズ",
+  "en": "Higgins",
+  "type": "name",
+  "note": ""
+ },
+ {
+  "jp": "デニスン",
+  "en": "Dennison",
+  "type": "name",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "クローヴィス",
+  "en": "Clovis",
+  "type": "name",
+  "note": ""
+ },
+ {
+  "jp": "ジャハラザード",
+  "en": "Jaharazad",
+  "type": "name",
+  "note": "unconfirmed"
+ },
+ {
+  "jp": "シグルド",
+  "en": "Sigurd",
+  "type": "name",
+  "note": ""
+ },
+ {
+  "jp": "黄道十二神",
+  "en": "Zodiac Twelve Gods",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "黄道十二半神",
+  "en": "Zodiac Demigods",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "特務機関",
+  "en": "Special Service Agency",
+  "type": "organization",
+  "note": "the hero's unit in the Romulus army"
+ },
+ {
+  "jp": "特務少尉",
+  "en": "Special Service Second Lieutenant",
+  "type": "title",
+  "note": ""
+ },
+ {
+  "jp": "特務大尉",
+  "en": "Special Service Captain",
+  "type": "title",
+  "note": ""
+ },
+ {
+  "jp": "非武装地帯",
+  "en": "demilitarized zone",
+  "type": "term",
+  "note": ""
+ },
+ {
+  "jp": "船の街",
+  "en": "Ship Town",
+  "type": "place",
+  "note": "unconfirmed: literal"
+ },
+ {
+  "jp": "機人",
+  "en": "Machine Man",
+  "type": "term",
+  "note": "plural Machine Men; Kane's coinage on 機神 Machine God (kishin -> kijin); was Automaton (decided 2026-11-18)"
+ },
+ {
+  "jp": "機改兵",
+  "en": "Machine Soldier",
+  "type": "term",
+  "note": "機改 is this world's spelling of \"machine\" (two translators, K003/K010); was Cyborg Soldier"
+ },
+ {
+  "jp": "エスパー少女隊",
+  "en": "Esper Girl Corps",
+  "type": "organization",
+  "note": "canonical; not 'Squad'"
+ },
+ {
+  "jp": "精神改造",
+  "en": "mind conditioning",
+  "type": "term",
+  "note": "canonical; not 'mind alteration'"
+ },
+ {
+  "jp": "全能の秘宝",
+  "en": "the Almighty Treasure",
+  "type": "term",
+  "note": "canonical (3 of 4 translators); not 'Treasure of Omnipotence'"
+ },
+ {
+  "jp": "機神",
+  "en": "Machine God",
+  "type": "term",
+  "note": "from K008; same as the first game's project"
+ },
+ {
+  "jp": "重機使い",
+  "en": "heavy gunner",
+  "type": "term",
+  "note": "unconfirmed (K008_0123): heavy machine gun user vs heavy machinery operator"
+ },
+ {
+  "jp": "Ｄ暗号",
+  "en": "D-code",
+  "type": "term",
+  "note": "from K008"
+ },
+ {
+  "jp": "ラインメタル水軍",
+  "en": "Rheinmetall navy",
+  "type": "organization",
+  "note": "from K008"
+ },
+ {
+  "jp": "魔導士",
+  "en": "mage",
+  "type": "class",
+  "note": "canonical; not 'sorcerer'"
+ },
+ {
+  "jp": "属国",
+  "en": "vassal",
+  "type": "term",
+  "note": "from K008"
+ },
+ {
+  "jp": "王子様",
+  "en": "my prince",
+  "type": "term",
+  "note": "Alice's address for Kane (K008); Ixion's echo is bare 'Prince?'"
+ },
+ {
+  "jp": "機改",
+  "en": "machine",
+  "type": "term",
+  "note": "in-world spelling of 機械; 防衛機改 = Defense Machine, 飛行機改 = flying machine"
+ },
+ {
+  "jp": "祝福の島",
+  "en": "Blessed Isle",
+  "type": "place",
+  "note": "canonical; not 'Island of Blessing'"
+ },
+ {
+  "jp": "アヴァロンの鋼鉄島",
+  "en": "Steel Island of Avalon",
+  "type": "place",
+  "note": "canonical; 鋼鉄島 = Steel Island, 鋼鉄の島 = island of steel"
+ },
+ {
+  "jp": "古代神族",
+  "en": "Ancient Gods",
+  "type": "term",
+  "note": "canonical; not \"ancient god race\""
+ },
+ {
+  "jp": "重機動部隊",
+  "en": "heavy mobile unit",
+  "type": "term",
+  "note": "K010"
+ },
+ {
+  "jp": "１２の鍵",
+  "en": "Twelve Keys",
+  "type": "term",
+  "note": "K010"
+ },
+ {
+  "jp": "神の代理人",
+  "en": "agent of the gods",
+  "type": "term",
+  "note": "K010"
+ },
+ {
+  "jp": "王立動物園",
+  "en": "Royal Zoo",
+  "type": "place",
+  "note": "K010"
+ },
+ {
+  "jp": "重砲台",
+  "en": "heavy gun battery",
+  "type": "term",
+  "note": "K011"
+ },
+ {
+  "jp": "トランプ兵",
+  "en": "card soldiers",
+  "type": "term",
+  "note": "K011"
+ },
+ {
+  "jp": "ナイト",
+  "en": "Knight",
+  "type": "class",
+  "note": "katakana form capitalised; kanji 騎士 = knight"
+ },
+ {
+  "jp": "鋼鉄島",
+  "en": "Steel Island",
+  "type": "place",
+  "note": ""
+ },
+ {
+  "jp": "十二神の指輪",
+  "en": "ring of the Twelve Gods",
+  "type": "item",
+  "note": "K013"
+ },
+ {
+  "jp": "従軍僧侶",
+  "en": "army chaplain",
+  "type": "term",
+  "note": "K013; 僧侶 alone = priest"
+ },
+ {
+  "jp": "軍曹",
+  "en": "Sergeant",
+  "type": "title",
+  "note": "K001"
+ },
+ {
+  "jp": "曹長",
+  "en": "Sergeant Major",
+  "type": "title",
+  "note": "K001"
+ },
+ {
+  "jp": "国防軍",
+  "en": "Defense Force",
+  "type": "organization",
+  "note": "K001"
+ },
+ {
+  "jp": "アヴァロン海",
+  "en": "Sea of Avalon",
+  "type": "place",
+  "note": "K001"
+ },
+ {
+  "jp": "諜報部",
+  "en": "intelligence branch",
+  "type": "organization",
+  "note": "K009"
+ },
+ {
+  "jp": "防衛機改",
+  "en": "Defense Machines",
+  "type": "term",
+  "note": "canonical; not 'Defense Cyborgs'"
+ },
+ {
+  "jp": "飛行機改",
+  "en": "flying machines",
+  "type": "term",
+  "note": "canonical; not 'flying cyborgs'"
+ },
+ {
+  "jp": "アッシリア神国",
+  "en": "Holy Nation of Assyria",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "ヴォイド鉱石",
+  "en": "Void ore",
+  "type": "term",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "フォルゴーレ連邦",
+  "en": "Folgore Federation",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "ロードス王国",
+  "en": "Kingdom of Rhodes",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "神祖連邦オルドバ",
+  "en": "Progenitor Federation of Ordoba",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "神祖皇帝",
+  "en": "Progenitor Emperor",
+  "type": "title",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "超機神",
+  "en": "Super Machine God",
+  "type": "term",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "魔導占い",
+  "en": "sorcery fortune-telling",
+  "type": "term",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "密林の台地",
+  "en": "Jungle Plateau",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "氷河の台地",
+  "en": "Glacier Plateau",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "火山の台地",
+  "en": "Volcano Plateau",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "荒野の台地",
+  "en": "Wasteland Plateau",
+  "type": "place",
+  "note": "from K002/K004"
+ },
+ {
+  "jp": "戦況確認",
+  "en": "Check Situation",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "勝利条件",
+  "en": "Victory Conditions",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "戦闘開始",
+  "en": "Start Battle",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "自由行動",
+  "en": "Free Action",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "作戦",
+  "en": "Tactics",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "移動指示",
+  "en": "Move Order",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "その場で攻撃",
+  "en": "Attack in Place",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "待機",
+  "en": "Standby",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "敵接近時",
+  "en": "Enemy Nearby",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "自動回復",
+  "en": "Auto Heal",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "回復手段",
+  "en": "Heal Method",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "精神力",
+  "en": "SP (spirit points)",
+  "type": "menu",
+  "note": "from K002/K004 drafts; menu terms are provisional until the UI is translated"
+ },
+ {
+  "jp": "結晶光子脳ユニット",
+  "en": "Crystal Photon Brain Unit",
+  "type": "item",
+  "note": "K022"
+ },
+ {
+  "jp": "エッジコート",
+  "en": "Edgecourt",
+  "type": "place",
+  "note": "K024; unconfirmed"
+ },
+ {
+  "jp": "消費者センター",
+  "en": "consumer center",
+  "type": "term",
+  "note": "K024"
+ },
+ {
+  "jp": "ポンコツ",
+  "en": "clunker",
+  "type": "term",
+  "note": "K022; ガラクタ = junk"
+ },
+ {
+  "jp": "入会料",
+  "en": "joining fee",
+  "type": "term",
+  "note": "K024"
+ },
+ {
+  "jp": "聖騎士",
+  "en": "sacred knight",
+  "type": "class",
+  "note": "kanji form (K050); katakana ホーリーナイト = Holy Knight"
+ },
+ {
+  "jp": "関所",
+  "en": "checkpoint",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "特務機関本部",
+  "en": "Special Service HQ",
+  "type": "organization",
+  "note": "K047"
+ },
+ {
+  "jp": "十二賢人制度",
+  "en": "Twelve Sages system",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "アイテム学",
+  "en": "Item Studies",
+  "type": "term",
+  "note": "canonical capitalised (K045, K064)"
+ },
+ {
+  "jp": "神暦",
+  "en": "Divine Calendar",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "ラインメタル連合共和王国",
+  "en": "United Republican Kingdom of Rheinmetall",
+  "type": "place",
+  "note": "K047"
+ },
+ {
+  "jp": "第三次エウロペア大戦",
+  "en": "Third Great Europea War",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "精神改造薬",
+  "en": "mind conditioning drug",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "女ガンマン",
+  "en": "woman gunslinger",
+  "type": "term",
+  "note": "K047"
+ },
+ {
+  "jp": "天空神ウラヌス",
+  "en": "Sky God Uranus",
+  "type": "name",
+  "note": "K047"
+ },
+ {
+  "jp": "太陽神アポロン",
+  "en": "Sun God Apollo",
+  "type": "name",
+  "note": "K047"
+ },
+ {
+  "jp": "海神ポセイドン",
+  "en": "Sea God Poseidon",
+  "type": "name",
+  "note": "K047"
+ },
+ {
+  "jp": "風水師",
+  "en": "geomancer",
+  "type": "class",
+  "note": "K039"
+ },
+ {
+  "jp": "気",
+  "en": "ki",
+  "type": "term",
+  "note": "K039; 闘気 = fighting ki"
+ },
+ {
+  "jp": "サムライ",
+  "en": "samurai",
+  "type": "class",
+  "note": "K039"
+ },
+ {
+  "jp": "特殊陸戦隊",
+  "en": "Special Ground Force",
+  "type": "organization",
+  "note": "K040"
+ },
+ {
+  "jp": "グングニル隊",
+  "en": "Gungnir Unit",
+  "type": "organization",
+  "note": "K040"
+ },
+ {
+  "jp": "バストーニュ攻防戦",
+  "en": "battle of Bastogne",
+  "type": "term",
+  "note": "K040; McAuliffe's reply is rendered 'Nuts!' (historical reference)"
+ },
+ {
+  "jp": "軍神アレス",
+  "en": "War God Ares",
+  "type": "name",
+  "note": "K040"
+ },
+ {
+  "jp": "重機",
+  "en": "heavy MG",
+  "type": "term",
+  "note": "canonical (K033/K037/K054/K057); fix \"heavy gun\" in K028/K030/K068/K069"
+ },
+ {
+  "jp": "機動トウテキ隊",
+  "en": "Mobile Grenadier Corps",
+  "type": "organization",
+  "note": "K037"
+ },
+ {
+  "jp": "重機大隊",
+  "en": "Heavy MG Battalion",
+  "type": "organization",
+  "note": "K037"
+ },
+ {
+  "jp": "自由解放区",
+  "en": "Free Liberated Zone",
+  "type": "place",
+  "note": "K038"
+ },
+ {
+  "jp": "非武装中立地帯",
+  "en": "demilitarized neutral zone",
+  "type": "term",
+  "note": "K038"
+ },
+ {
+  "jp": "オリハルコン鉱石",
+  "en": "Orichalcum Ore",
+  "type": "item",
+  "note": "K038"
+ },
+ {
+  "jp": "東の国",
+  "en": "the land in the east",
+  "type": "place",
+  "note": "K038; singular assumed"
+ },
+ {
+  "jp": "真実のフルート",
+  "en": "Flute of Truth",
+  "type": "item",
+  "note": "K030"
+ },
+ {
+  "jp": "吟遊詩人",
+  "en": "minstrel",
+  "type": "class",
+  "note": "K030"
+ },
+ {
+  "jp": "超統一アイテム理論",
+  "en": "Super Unified Item Theory",
+  "type": "term",
+  "note": "K030"
+ },
+ {
+  "jp": "アイテム理論",
+  "en": "Item Theory",
+  "type": "term",
+  "note": "K028"
+ },
+ {
+  "jp": "火竜サラマンダー",
+  "en": "the fire dragon Salamander",
+  "type": "name",
+  "note": "K032"
+ },
+ {
+  "jp": "ハイドラ",
+  "en": "Hydra",
+  "type": "name",
+  "note": "K032"
+ },
+ {
+  "jp": "陸戦隊",
+  "en": "landing force",
+  "type": "organization",
+  "note": "K028"
+ },
+ {
+  "jp": "魔導タイプ",
+  "en": "mage-type",
+  "type": "term",
+  "note": "K026"
+ },
+ {
+  "jp": "風水の術",
+  "en": "feng shui arts",
+  "type": "term",
+  "note": "K032"
+ },
+ {
+  "jp": "ファウストどの",
+  "en": "Master Faust",
+  "type": "term",
+  "note": "K032; Ozunu's address"
+ },
+ {
+  "jp": "技術大佐",
+  "en": "Technical Colonel",
+  "type": "title",
+  "note": "K045"
+ },
+ {
+  "jp": "ラインメタル王立大学",
+  "en": "Royal University of Rheinmetall",
+  "type": "place",
+  "note": "K045"
+ },
+ {
+  "jp": "電撃爆雷ハングアップ",
+  "en": "Shock Depth Charge, Hang-Up",
+  "type": "item",
+  "note": "K045"
+ },
+ {
+  "jp": "キャビン機関",
+  "en": "Cabin engine",
+  "type": "term",
+  "note": "K045; unconfirmed literal reading"
+ },
+ {
+  "jp": "魔法使い",
+  "en": "wizard",
+  "type": "class",
+  "note": "K045"
+ },
+ {
+  "jp": "飛行機の村",
+  "en": "Airplane Village",
+  "type": "place",
+  "note": "K064; modelled on Ship Town"
+ },
+ {
+  "jp": "アイテムマスター",
+  "en": "Item Master",
+  "type": "title",
+  "note": "K064"
+ },
+ {
+  "jp": "ツチミカド家",
+  "en": "house of Tsuchimikado",
+  "type": "name",
+  "note": "K067"
+ },
+ {
+  "jp": "闇使い",
+  "en": "wielder of darkness",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "シャドウマスター",
+  "en": "Shadow Master",
+  "type": "title",
+  "note": "K067"
+ },
+ {
+  "jp": "皇子",
+  "en": "Prince",
+  "type": "title",
+  "note": "K067: Prince Ozunu"
+ },
+ {
+  "jp": "父皇",
+  "en": "your father the Emperor",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "朝テイ",
+  "en": "imperial court",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "ニンジャ",
+  "en": "ninja",
+  "type": "class",
+  "note": "K067"
+ },
+ {
+  "jp": "ツチグモ",
+  "en": "Tsuchigumo",
+  "type": "name",
+  "note": "K067"
+ },
+ {
+  "jp": "ウツセミの術",
+  "en": "Utsusemi technique",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "影分身",
+  "en": "Shadow Clones",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "王道楽土",
+  "en": "paradise of righteous rule",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "王道",
+  "en": "way of kings",
+  "type": "term",
+  "note": "K067"
+ },
+ {
+  "jp": "義勇兵",
+  "en": "volunteers",
+  "type": "term",
+  "note": "K021"
+ },
+ {
+  "jp": "聖職者",
+  "en": "cleric",
+  "type": "term",
+  "note": "K014"
+ },
+ {
+  "jp": "特務部隊",
+  "en": "Special Service unit",
+  "type": "organization",
+  "note": "K021"
+ },
+ {
+  "jp": "巨人族",
+  "en": "Giants",
+  "type": "term",
+  "note": "K021"
+ },
+ {
+  "jp": "リビングトラップ",
+  "en": "Living Trap",
+  "type": "term",
+  "note": "K021"
+ },
+ {
+  "jp": "復活のタリスマン",
+  "en": "Talisman of Revival",
+  "type": "item",
+  "note": "K017"
+ },
+ {
+  "jp": "ヒールワンド",
+  "en": "Heal Wand",
+  "type": "item",
+  "note": "K017"
+ },
+ {
+  "jp": "イフィッシュの島",
+  "en": "Isle of Ifish",
+  "type": "place",
+  "note": "K014/K050"
+ },
+ {
+  "jp": "自由ロードス軍",
+  "en": "Free Rhodes Army",
+  "type": "organization",
+  "note": "K057"
+ },
+ {
+  "jp": "撃滅のパーシファル",
+  "en": "Parsifal the Annihilator",
+  "type": "name",
+  "note": "K057"
+ },
+ {
+  "jp": "グリフォン",
+  "en": "griffon",
+  "type": "term",
+  "note": "K056"
+ },
+ {
+  "jp": "航空機改",
+  "en": "air machines",
+  "type": "term",
+  "note": "K056"
+ },
+ {
+  "jp": "特殊航空部隊",
+  "en": "special air unit",
+  "type": "organization",
+  "note": "K056"
+ },
+ {
+  "jp": "雑兵",
+  "en": "rabble",
+  "type": "term",
+  "note": "K004/K056"
+ },
+ {
+  "jp": "殺人光線",
+  "en": "death ray",
+  "type": "term",
+  "note": "K069"
+ },
+ {
+  "jp": "超Ａ級ドロイド",
+  "en": "super A-class droid",
+  "type": "term",
+  "note": "K022/K069"
+ },
+ {
+  "jp": "時神クロノス",
+  "en": "Time God Cronus",
+  "type": "name",
+  "note": "K069"
+ },
+ {
+  "jp": "ヒト",
+  "en": "humans",
+  "type": "term",
+  "note": "Ymir's katakana word (K068/K069)"
+ },
+ {
+  "jp": "エリュシオン",
+  "en": "Elysion",
+  "type": "name",
+  "note": "K063: the mad emperor of 100 years ago"
+ },
+ {
+  "jp": "力のみなもと",
+  "en": "Source of Power",
+  "type": "item",
+  "note": "K060; also Source of Defense / Magic / Dexterity / Life; provisional until the item table is translated"
+ },
+ {
+  "jp": "黄道十二神の指輪",
+  "en": "ring of the Zodiac Twelve Gods",
+  "type": "item",
+  "note": "canonical (K060); bare 十二神の指輪 = ring of the Twelve Gods"
+ },
+ {
+  "jp": "大災",
+  "en": "the Great Calamity",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "星の神罰",
+  "en": "the stars' divine punishment",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "電子加速装置",
+  "en": "electron accelerator",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "光子メモリー",
+  "en": "photon memory",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "創造主",
+  "en": "the Creators",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "ロボさん",
+  "en": "Mr. Robot",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "欠陥品",
+  "en": "defective",
+  "type": "term",
+  "note": "K054"
+ },
+ {
+  "jp": "ベントレィ",
+  "en": "Bentley",
+  "type": "name",
+  "note": "K083; Diane's dead lover; car-name pattern assumed"
+ },
+ {
+  "jp": "戦場の死刑執行人",
+  "en": "the Battlefield Executioner",
+  "type": "title",
+  "note": "K083; Jaguar's nickname"
+ },
+ {
+  "jp": "死人使い",
+  "en": "wielder of the dead",
+  "type": "term",
+  "note": "K083"
+ },
+ {
+  "jp": "反政府軍",
+  "en": "rebel army",
+  "type": "organization",
+  "note": "K083"
+ },
+ {
+  "jp": "暗黒の秘術",
+  "en": "the dark arts",
+  "type": "term",
+  "note": "K083"
+ },
+ {
+  "jp": "少女テイ進隊",
+  "en": "Girls' Raiding Corps",
+  "type": "organization",
+  "note": "K071"
+ },
+ {
+  "jp": "ケルベロス隊",
+  "en": "Cerberus Unit",
+  "type": "organization",
+  "note": "K071"
+ },
+ {
+  "jp": "博愛主義",
+  "en": "love-for-all",
+  "type": "term",
+  "note": "K071"
+ },
+ {
+  "jp": "ババァ",
+  "en": "old hag",
+  "type": "term",
+  "note": "harsher than オバサン = old lady (K052/K060/K063/K071)"
+ },
+ {
+  "jp": "空テイ師団",
+  "en": "Airborne Division",
+  "type": "organization",
+  "note": "K070"
+ },
+ {
+  "jp": "王立空軍",
+  "en": "Royal Air Force",
+  "type": "organization",
+  "note": "K070"
+ },
+ {
+  "jp": "姿なき破壊集団",
+  "en": "the Unseen Destroyers",
+  "type": "organization",
+  "note": "K070"
+ },
+ {
+  "jp": "生体改造兵器",
+  "en": "bioweapon",
+  "type": "term",
+  "note": "K008/K070"
+ },
+ {
+  "jp": "生体改造",
+  "en": "bio-modification",
+  "type": "term",
+  "note": "K070"
+ },
+ {
+  "jp": "大魔導士",
+  "en": "great mage",
+  "type": "class",
+  "note": "K070"
+ },
+ {
+  "jp": "機改人形",
+  "en": "machine dolls",
+  "type": "term",
+  "note": "K070"
+ },
+ {
+  "jp": "殺人人形",
+  "en": "murder doll",
+  "type": "term",
+  "note": "K008/K037/K070"
+ },
+ {
+  "jp": "総合戦闘力",
+  "en": "Total combat power",
+  "type": "term",
+  "note": "K032/K070"
+ },
+ {
+  "jp": "バケモノ",
+  "en": "monster",
+  "type": "term",
+  "note": "K070"
+ },
+ {
+  "jp": "イグドラシール",
+  "en": "Yggdrasil",
+  "type": "name",
+  "note": "K086"
+ },
+ {
+  "jp": "宇宙の樹",
+  "en": "Cosmic Tree",
+  "type": "term",
+  "note": "K086"
+ },
+ {
+  "jp": "世界樹",
+  "en": "World Tree",
+  "type": "term",
+  "note": "K086"
+ },
+ {
+  "jp": "知恵の樹",
+  "en": "Tree of Wisdom",
+  "type": "term",
+  "note": "K086"
+ },
+ {
+  "jp": "妖精の森",
+  "en": "Fairy Forest",
+  "type": "place",
+  "note": "K086"
+ },
+ {
+  "jp": "番人",
+  "en": "warden",
+  "type": "term",
+  "note": "K086; 番人のおじさん = Mister Warden"
+ },
+ {
+  "jp": "勇将",
+  "en": "the valiant General",
+  "type": "title",
+  "note": "K084: the valiant General Sigurd"
+ },
+ {
+  "jp": "テティスたち",
+  "en": "the Tethys",
+  "type": "term",
+  "note": "K086: the fairies' species name, plural"
+ },
+ {
+  "jp": "美神アフロディーテ",
+  "en": "Beauty God Aphrodite",
+  "type": "name",
+  "note": "K073"
+ },
+ {
+  "jp": "ドラゴンゾンビ",
+  "en": "dragon zombie",
+  "type": "term",
+  "note": "K073"
+ },
+ {
+  "jp": "スケルトン",
+  "en": "skeleton",
+  "type": "term",
+  "note": "K073"
+ },
+ {
+  "jp": "イフィッシュ島",
+  "en": "Isle of Ifish",
+  "type": "place",
+  "note": "K074"
+ },
+ {
+  "jp": "死の台地",
+  "en": "Death Plateau",
+  "type": "place",
+  "note": "K066"
+ },
+ {
+  "jp": "闇の台地",
+  "en": "Dark Plateau",
+  "type": "place",
+  "note": "K066/K076"
+ },
+ {
+  "jp": "魔の台地",
+  "en": "Demon Plateau",
+  "type": "place",
+  "note": "K066"
+ },
+ {
+  "jp": "血の台地",
+  "en": "Blood Plateau",
+  "type": "place",
+  "note": "K066"
+ },
+ {
+  "jp": "斬の台地",
+  "en": "Severed Plateau",
+  "type": "place",
+  "note": "K066; glyph 1320 corrected to 斬 in the charmap"
+ },
+ {
+  "jp": "ガスティール",
+  "en": "Gasteel",
+  "type": "name",
+  "note": "K066"
+ },
+ {
+  "jp": "ボーディア",
+  "en": "Bodia",
+  "type": "name",
+  "note": "K066"
+ },
+ {
+  "jp": "エセルレッド",
+  "en": "Ethelred",
+  "type": "name",
+  "note": "K066"
+ },
+ {
+  "jp": "行商人",
+  "en": "peddler",
+  "type": "term",
+  "note": "K066/K079"
+ },
+ {
+  "jp": "西洋の騎士",
+  "en": "knight of the West",
+  "type": "term",
+  "note": "K066"
+ },
+ {
+  "jp": "神の巨人",
+  "en": "giant of the gods",
+  "type": "term",
+  "note": "K066"
+ },
+ {
+  "jp": "遺伝子",
+  "en": "genes",
+  "type": "term",
+  "note": "K078"
+ },
+ {
+  "jp": "品種改良",
+  "en": "selective breeding",
+  "type": "term",
+  "note": "K078"
+ },
+ {
+  "jp": "宇宙樹",
+  "en": "Cosmic Tree",
+  "type": "term",
+  "note": "K078/K086"
+ },
+ {
+  "jp": "大神官",
+  "en": "high priest",
+  "type": "title",
+  "note": "K079"
+ },
+ {
+  "jp": "殺気",
+  "en": "bloodlust",
+  "type": "term",
+  "note": "K066/K067; K066_0388-0390 use 'killing intent' for a pun"
+ },
+ {
+  "jp": "魔導砲台",
+  "en": "sorcery battery",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "魔導火砲",
+  "en": "sorcery cannon fire",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "自動砲台",
+  "en": "automatic battery",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "完全自動砲台",
+  "en": "full-auto battery",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "ソニックライディング",
+  "en": "Sonic Riding",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "アンチ・マジック・フィールド",
+  "en": "anti-magic field",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "砲兵大隊",
+  "en": "artillery battalion",
+  "type": "organization",
+  "note": "K081"
+ },
+ {
+  "jp": "艦砲",
+  "en": "naval gun",
+  "type": "term",
+  "note": "K081"
+ },
+ {
+  "jp": "ヴォイド使い",
+  "en": "Void wielder",
+  "type": "term",
+  "note": "K082"
+ },
+ {
+  "jp": "念動",
+  "en": "telekinesis",
+  "type": "term",
+  "note": "K082"
+ },
+ {
+  "jp": "ジャハラザード老",
+  "en": "Elder Jaharazad",
+  "type": "name",
+  "note": "K082"
+ },
+ {
+  "jp": "旅の人",
+  "en": "traveler",
+  "type": "term",
+  "note": "K082"
+ },
+ {
+  "jp": "パーツを買う",
+  "en": "Buy parts",
+  "type": "menu",
+  "note": "K082; 売る = Sell parts, やめる = Quit"
+ },
+ {
+  "jp": "アプソリュート。フィールド",
+  "en": "the Absolute Field",
+  "type": "term",
+  "note": "K093"
+ },
+ {
+  "jp": "ゴーギャン",
+  "en": "Gauguin",
+  "type": "name",
+  "note": "K093"
+ },
+ {
+  "jp": "魔法防壁",
+  "en": "magic barrier",
+  "type": "term",
+  "note": "K093; 対魔法防壁 = anti-magic barrier"
+ },
+ {
+  "jp": "魔獣",
+  "en": "magic beasts",
+  "type": "term",
+  "note": "K093"
+ },
+ {
+  "jp": "ネエちゃん",
+  "en": "gal",
+  "type": "term",
+  "note": "K013/K091"
+ },
+ {
+  "jp": "ご主人様",
+  "en": "Master",
+  "type": "term",
+  "note": "Tethys's address for Kane (K086/K107)"
+ },
+ {
+  "jp": "若奥様",
+  "en": "young Mistress",
+  "type": "term",
+  "note": "Tethys's address for Sera (K086/K107)"
+ },
+ {
+  "jp": "ペテン師",
+  "en": "fraud",
+  "type": "term",
+  "note": "K002/K030/K107"
+ },
+ {
+  "jp": "中枢",
+  "en": "the core",
+  "type": "term",
+  "note": "K107: the core of the island of steel"
+ },
+ {
+  "jp": "魂の器",
+  "en": "vessel for the soul",
+  "type": "term",
+  "note": "K105"
+ },
+ {
+  "jp": "感情のゆらぎ",
+  "en": "fluctuation of emotion",
+  "type": "term",
+  "note": "K105"
+ },
+ {
+  "jp": "光の壁",
+  "en": "wall of light",
+  "type": "term",
+  "note": "K105"
+ },
+ {
+  "jp": "闇の空間",
+  "en": "space of darkness",
+  "type": "term",
+  "note": "K106"
+ },
+ {
+  "jp": "悪神",
+  "en": "evil god",
+  "type": "term",
+  "note": "K106"
+ },
+ {
+  "jp": "殺意",
+  "en": "bloodlust",
+  "type": "term",
+  "note": "K105; same English as 殺気, check"
+ },
+ {
+  "jp": "斬殺の騎士",
+  "en": "the Slaughter Knight",
+  "type": "title",
+  "note": "K102"
+ },
+ {
+  "jp": "暗黒街",
+  "en": "the underworld",
+  "type": "place",
+  "note": "K102/K103"
+ },
+ {
+  "jp": "牡羊座の指輪",
+  "en": "Aries ring",
+  "type": "item",
+  "note": "K104; the twelve rings use the Latin zodiac names: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces"
+ },
+ {
+  "jp": "報奨の剣",
+  "en": "the sword of reward",
+  "type": "item",
+  "note": "K104"
+ },
+ {
+  "jp": "時の管理人",
+  "en": "keepers of time",
+  "type": "term",
+  "note": "K104"
+ },
+ {
+  "jp": "天則",
+  "en": "the law of heaven",
+  "type": "term",
+  "note": "K104"
+ },
+ {
+  "jp": "不良品",
+  "en": "a defective",
+  "type": "term",
+  "note": "K104"
+ },
+ {
+  "jp": "失敗作",
+  "en": "failures",
+  "type": "term",
+  "note": "K104"
+ },
+ {
+  "jp": "年増",
+  "en": "past her prime",
+  "type": "term",
+  "note": "K099"
+ },
+ {
+  "jp": "後家さん",
+  "en": "widow",
+  "type": "term",
+  "note": "K099"
+ },
+ {
+  "jp": "若いツバメ",
+  "en": "boy toy",
+  "type": "term",
+  "note": "K099"
+ },
+ {
+  "jp": "奥様",
+  "en": "missus",
+  "type": "term",
+  "note": "Diana to Sera (K047/K099)"
+ },
+ {
+  "jp": "ダンナ",
+  "en": "hubby",
+  "type": "term",
+  "note": "Diana (K047/K099); Kane says 'your husband'"
+ },
+ {
+  "jp": "混迷の島",
+  "en": "island of chaos",
+  "type": "term",
+  "note": "K099"
+ },
+ {
+  "jp": "争いの火種",
+  "en": "spark of strife",
+  "type": "term",
+  "note": "K099"
+ },
+ {
+  "jp": "エスパードールＮＥＸＴ",
+  "en": "Esper Doll NEXT",
+  "type": "term",
+  "note": "K094"
+ },
+ {
+  "jp": "科学士",
+  "en": "scientists",
+  "type": "term",
+  "note": "K094"
+ },
+ {
+  "jp": "オリジナル",
+  "en": "Original",
+  "type": "term",
+  "note": "K094: the NEXT dolls' word for Alice and Ayame"
+ },
+ {
+  "jp": "究極のアイテム理論",
+  "en": "the Ultimate Item Theory",
+  "type": "term",
+  "note": "K095"
+ },
+ {
+  "jp": "知神マーキュリー",
+  "en": "Wisdom God Mercury",
+  "type": "name",
+  "note": "K094"
+ },
+ {
+  "jp": "氷の台地",
+  "en": "Ice Plateau",
+  "type": "place",
+  "note": "K159; distinct from Glacier Plateau"
+ },
+ {
+  "jp": "炎の台地",
+  "en": "Flame Plateau",
+  "type": "place",
+  "note": "K159; distinct from Volcano Plateau"
+ },
+ {
+  "jp": "エリア",
+  "en": "Area",
+  "type": "term",
+  "note": "K159: Area 1-4"
+ },
+ {
+  "jp": "テレポーター",
+  "en": "teleporter",
+  "type": "term",
+  "note": "K026/K159"
+ },
+ {
+  "jp": "神の手",
+  "en": "Hand of God",
+  "type": "term",
+  "note": "K159"
+ },
+ {
+  "jp": "関門",
+  "en": "gateway",
+  "type": "term",
+  "note": "K159"
+ },
+ {
+  "jp": "超鋼製のプレート",
+  "en": "plate of super-steel",
+  "type": "item",
+  "note": "K101"
+ },
+ {
+  "jp": "残留思念",
+  "en": "lingering will",
+  "type": "term",
+  "note": "K101"
+ },
+ {
+  "jp": "生命の波動",
+  "en": "pulse of life",
+  "type": "term",
+  "note": "K101"
+ },
+ {
+  "jp": "実験場",
+  "en": "testing ground",
+  "type": "term",
+  "note": "K101"
+ },
+ {
+  "jp": "出来損ない",
+  "en": "botched job",
+  "type": "term",
+  "note": "K101; K104 'failures'"
+ },
+ {
+  "jp": "神祖竜族",
+  "en": "Progenitor Dragon race",
+  "type": "term",
+  "note": "K096"
+ },
+ {
+  "jp": "原初竜族",
+  "en": "primordial dragon race",
+  "type": "term",
+  "note": "K096"
+ },
+ {
+  "jp": "古代竜族",
+  "en": "ancient dragon",
+  "type": "term",
+  "note": "K096"
+ },
+ {
+  "jp": "竜族",
+  "en": "dragon race",
+  "type": "term",
+  "note": "K073/K096"
+ },
+ {
+  "jp": "山の民",
+  "en": "mountain folk",
+  "type": "term",
+  "note": "K096"
+ },
+ {
+  "jp": "昆虫機人",
+  "en": "Insect Machine Man",
+  "type": "term",
+  "note": "K097"
+ },
+ {
+  "jp": "死者の国",
+  "en": "land of the dead",
+  "type": "place",
+  "note": "K097"
+ },
+ {
+  "jp": "死神のカマ",
+  "en": "the Grim Reaper's scythe",
+  "type": "term",
+  "note": "K097"
+ },
+ {
+  "jp": "宇宙卵",
+  "en": "the Cosmic Egg",
+  "type": "term",
+  "note": "K108"
+ },
+ {
+  "jp": "必殺技",
+  "en": "special moves",
+  "type": "term",
+  "note": "K108"
+ },
+ {
+  "jp": "爆裂弾",
+  "en": "blast rounds",
+  "type": "term",
+  "note": "K118"
+ },
+ {
+  "jp": "１３Ｂユニット",
+  "en": "13B unit",
+  "type": "term",
+  "note": "K118"
+ },
+ {
+  "jp": "エグリス",
+  "en": "Eglise",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "ベルトラン",
+  "en": "Bertrand",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "クロムウェル",
+  "en": "Cromwell",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "カーリック",
+  "en": "Carrick",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "フォレアーズ",
+  "en": "Forears",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "アーガス",
+  "en": "Argus",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "ベネット",
+  "en": "Bennett",
+  "type": "name",
+  "note": "K161"
+ },
+ {
+  "jp": "キャンプ",
+  "en": "Camp",
+  "type": "menu",
+  "note": "K161 map menu; also 移動 = Move, 探索 = Search, 情報 = Info; check against the UI"
+ },
+ {
+  "jp": "瞬殺のサーブラウ",
+  "en": "Cerbera the Instant Killer",
+  "type": "name",
+  "note": "K111"
+ },
+ {
+  "jp": "特Ａ級ドロイド",
+  "en": "special A-class droid",
+  "type": "term",
+  "note": "K111"
+ },
+ {
+  "jp": "スペルマスター",
+  "en": "Spell Master",
+  "type": "title",
+  "note": "S008"
+ },
+ {
+  "jp": "オルドバ王国",
+  "en": "Kingdom of Ordoba",
+  "type": "place",
+  "note": "S008; the old kingdom, before it became the Progenitor Federation of Ordoba"
+ },
+ {
+  "jp": "陸戦部隊",
+  "en": "landing force",
+  "type": "organization",
+  "note": "S004"
+ },
+ {
+  "jp": "ヘヴィガンナー",
+  "en": "Heavy Gunner",
+  "type": "class",
+  "note": "K130"
+ },
+ {
+  "jp": "ルイス",
+  "en": "Lewis",
+  "type": "name",
+  "note": "K132"
+ },
+ {
+  "jp": "ヘクトール様",
+  "en": "Lord Hector",
+  "type": "term",
+  "note": "S000"
+ },
+ {
+  "jp": "防衛機",
+  "en": "Defense Machines",
+  "type": "term",
+  "note": "S002"
+ },
+ {
+  "jp": "ヴォイド使いの資格",
+  "en": "Void wielder's license",
+  "type": "term",
+  "note": "S002"
+ },
+ {
+  "jp": "ダチュラ熱",
+  "en": "Datura fever",
+  "type": "term",
+  "note": "S095"
+ },
+ {
+  "jp": "魔の伝染病",
+  "en": "the demon plague",
+  "type": "term",
+  "note": "S095"
+ },
+ {
+  "jp": "おネエさん",
+  "en": "big sister",
+  "type": "term",
+  "note": "Sera's correction of 'old lady' (S050)"
+ },
+ {
+  "jp": "水賊",
+  "en": "pirates",
+  "type": "term",
+  "note": "S102"
+ },
+ {
+  "jp": "彼岸の向こう側",
+  "en": "the far shore",
+  "type": "term",
+  "note": "S103"
+ },
+ {
+  "jp": "ドラグーン",
+  "en": "dragoons",
+  "type": "term",
+  "note": "S040"
+ },
+ {
+  "jp": "飛竜",
+  "en": "wyverns",
+  "type": "term",
+  "note": "S040"
+ },
+ {
+  "jp": "技術立国",
+  "en": "the nation of technology",
+  "type": "term",
+  "note": "S045"
+ },
+ {
+  "jp": "ロリコン",
+  "en": "lolicon",
+  "type": "term",
+  "note": "K064/S045"
+ },
+ {
+  "jp": "赤外線劣化",
+  "en": "infrared degradation",
+  "type": "term",
+  "note": "S047"
+ },
+ {
+  "jp": "賞金稼ぎ",
+  "en": "bounty collector",
+  "type": "term",
+  "note": "S161; contrasted with バウンティハンター = bounty hunter"
+ },
+ {
+  "jp": "ユミル様",
+  "en": "Lord Ymir",
+  "type": "term",
+  "note": "S106"
+ },
+ {
+  "jp": "解体",
+  "en": "dismantle",
+  "type": "menu",
+  "note": "shop (W077)"
+ },
+ {
+  "jp": "下取り",
+  "en": "trade in",
+  "type": "menu",
+  "note": "shop"
+ },
+ {
+  "jp": "掘り出し物",
+  "en": "bargains",
+  "type": "term",
+  "note": "shop"
+ },
+ {
+  "jp": "闇の大地の道具屋",
+  "en": "Dark Land Seller",
+  "type": "name",
+  "note": "shop window short form"
+ },
+ {
+  "jp": "旅の職人",
+  "en": "Artisan",
+  "type": "name",
+  "note": "shop window short form of Traveling Artisan"
+ },
+ {
+  "jp": "千雷のナイフ",
+  "en": "Bolt Dagger",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "封印のナイフ",
+  "en": "Seal Dagger",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "てまりうた",
+  "en": "Ball Song",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "かぞえうた",
+  "en": "Count Song",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "みじんの術",
+  "en": "Pulverize",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "カゲヌイ",
+  "en": "Kagenui",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "大口径レーザー",
+  "en": "Big-Bore Laser",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "カーリマン",
+  "en": "Kaliman",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "マシーナリィ",
+  "en": "Machinery",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "フォルゴーレ兵",
+  "en": "Folgore Troop",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "バズーガ兵",
+  "en": "Bazooka",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "マナの実",
+  "en": "Mana Nut",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "マナのエキス",
+  "en": "Mana Extract",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "マグネティックＳＬＤ",
+  "en": "Magnetic Shield",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "Ｖバリア",
+  "en": "V Shield",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "ボディビル全書",
+  "en": "Bodybuild Book",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "ゴッドハンド自伝",
+  "en": "God Hand Memoir",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "幻惑のナイフ",
+  "en": "Daze Dagger",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "ミネウチ",
+  "en": "Back Cut",
+  "type": "ui",
+  "note": "O001 UI (slot-limited form)"
+ },
+ {
+  "jp": "機改機人",
+  "en": "Clockwork Machine Man",
+  "type": "term",
+  "note": "K069 gear-driven giant; 機改 = machine rule"
+ },
+ {
+  "jp": "流動機人",
+  "en": "Fluid Machine Man",
+  "type": "term",
+  "note": "K068"
+ },
+ {
+  "jp": "植物機人",
+  "en": "Plant Machine Man",
+  "type": "term",
+  "note": "K078"
+ },
+ {
+  "jp": "合成機人",
+  "en": "Composite Machine Man",
+  "type": "term",
+  "note": "K093"
+ }
+]

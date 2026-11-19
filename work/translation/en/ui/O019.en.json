@@ -1,0 +1,38 @@
+[
+ {
+  "id": "O019_00026a",
+  "file": "O019",
+  "off": 618,
+  "slots": 29,
+  "raw_prefix": 3,
+  "en": "-",
+  "src": "fbafd4a6ec11"
+ },
+ {
+  "id": "O019_0002ac",
+  "file": "O019",
+  "off": 684,
+  "slots": 13,
+  "raw_prefix": 7,
+  "en": "-",
+  "src": "736b3c3ef074"
+ },
+ {
+  "id": "O019_0002d6",
+  "file": "O019",
+  "off": 726,
+  "slots": 8,
+  "raw_prefix": 6,
+  "en": "-",
+  "src": "0b645e74f722"
+ },
+ {
+  "id": "O019_0002f4",
+  "file": "O019",
+  "off": 756,
+  "slots": 5,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "e1467c2e43df"
+ }
+]

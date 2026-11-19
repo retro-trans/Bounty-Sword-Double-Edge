@@ -1,0 +1,65 @@
+[
+ {
+  "id": "O023_00092a",
+  "file": "O023",
+  "off": 2346,
+  "slots": 22,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "c1669b3dcef4"
+ },
+ {
+  "id": "O023_000b98",
+  "file": "O023",
+  "off": 2968,
+  "slots": 20,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "76a357fefc51"
+ },
+ {
+  "id": "O023_000be2",
+  "file": "O023",
+  "off": 3042,
+  "slots": 47,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "2933401b13ef"
+ },
+ {
+  "id": "O023_000d0a",
+  "file": "O023",
+  "off": 3338,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "1db56846e111"
+ },
+ {
+  "id": "O023_000d6e",
+  "file": "O023",
+  "off": 3438,
+  "slots": 29,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "3d6097d29ed6"
+ },
+ {
+  "id": "O023_000dd6",
+  "file": "O023",
+  "off": 3542,
+  "slots": 22,
+  "raw_prefix": 5,
+  "en": "-",
+  "src": "d1a53b33471f"
+ },
+ {
+  "id": "O023_000fca",
+  "file": "O023",
+  "off": 4042,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "786d2126c232"
+ }
+]

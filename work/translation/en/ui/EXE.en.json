@@ -1,0 +1,6836 @@
+[
+ {
+  "id": "EXE_013bac",
+  "file": "EXE",
+  "off": 80812,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "48d7fa715711"
+ },
+ {
+  "id": "EXE_01a722",
+  "file": "EXE",
+  "off": 108322,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "7817599b27f6"
+ },
+ {
+  "id": "EXE_041aec",
+  "file": "EXE",
+  "off": 269036,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Long Sword",
+  "kind": "item_name",
+  "src": "9ef8b92e4967"
+ },
+ {
+  "id": "EXE_041b00",
+  "file": "EXE",
+  "off": 269056,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A long sword made of iron",
+  "kind": "item_help",
+  "src": "ff33aa71b294"
+ },
+ {
+  "id": "EXE_041b38",
+  "file": "EXE",
+  "off": 269112,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Saber",
+  "kind": "item_name",
+  "src": "2aec12054f05"
+ },
+ {
+  "id": "EXE_041b4c",
+  "file": "EXE",
+  "off": 269132,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Light, long, one-handed blade",
+  "kind": "item_help",
+  "src": "1b53833f63ca"
+ },
+ {
+  "id": "EXE_041b84",
+  "file": "EXE",
+  "off": 269188,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Falchion",
+  "kind": "item_name",
+  "src": "f41d6e97cd4d"
+ },
+ {
+  "id": "EXE_041b98",
+  "file": "EXE",
+  "off": 269208,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A sword made for chopping",
+  "kind": "item_help",
+  "src": "cfb8b44b2a2c"
+ },
+ {
+  "id": "EXE_041bd0",
+  "file": "EXE",
+  "off": 269264,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Broadsword",
+  "kind": "item_name",
+  "src": "023c6fb8286b"
+ },
+ {
+  "id": "EXE_041be4",
+  "file": "EXE",
+  "off": 269284,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wide-bladed steel sword",
+  "kind": "item_help",
+  "src": "e0debc0215f9"
+ },
+ {
+  "id": "EXE_041c1c",
+  "file": "EXE",
+  "off": 269340,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Claymore",
+  "kind": "item_name",
+  "src": "723c38e579a6"
+ },
+ {
+  "id": "EXE_041c30",
+  "file": "EXE",
+  "off": 269360,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A large two-handed sword",
+  "kind": "item_help",
+  "src": "fedc5da8accb"
+ },
+ {
+  "id": "EXE_041c68",
+  "file": "EXE",
+  "off": 269416,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Bastard Sword",
+  "kind": "item_name",
+  "src": "7d37127d17e2"
+ },
+ {
+  "id": "EXE_041c7c",
+  "file": "EXE",
+  "off": 269436,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Good for both cuts and thrusts",
+  "kind": "item_help",
+  "src": "0c57b664f16f"
+ },
+ {
+  "id": "EXE_041cb4",
+  "file": "EXE",
+  "off": 269492,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steel Sword",
+  "kind": "item_name",
+  "src": "2d06d3b3e333"
+ },
+ {
+  "id": "EXE_041cc8",
+  "file": "EXE",
+  "off": 269512,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A sword made of steel",
+  "kind": "item_help",
+  "src": "cf05a3e4db51"
+ },
+ {
+  "id": "EXE_041d00",
+  "file": "EXE",
+  "off": 269568,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Katana",
+  "kind": "item_name",
+  "src": "2580be296677"
+ },
+ {
+  "id": "EXE_041d14",
+  "file": "EXE",
+  "off": 269588,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An Eastern blade",
+  "kind": "item_help",
+  "src": "75eedc65eaca"
+ },
+ {
+  "id": "EXE_041d4c",
+  "file": "EXE",
+  "off": 269644,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Kusanagi",
+  "kind": "item_name",
+  "src": "efc568ed46b3"
+ },
+ {
+  "id": "EXE_041d60",
+  "file": "EXE",
+  "off": 269664,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A blade forged in the far east",
+  "kind": "item_help",
+  "src": "9af696923ed3"
+ },
+ {
+  "id": "EXE_041d98",
+  "file": "EXE",
+  "off": 269720,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Zanbato",
+  "kind": "item_name",
+  "src": "9ed5c6268ec5"
+ },
+ {
+  "id": "EXE_041dac",
+  "file": "EXE",
+  "off": 269740,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A moon-shaped blade",
+  "kind": "item_help",
+  "src": "eee263c88f5b"
+ },
+ {
+  "id": "EXE_041de4",
+  "file": "EXE",
+  "off": 269796,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Blade",
+  "kind": "item_name",
+  "src": "ba0b343c31dc"
+ },
+ {
+  "id": "EXE_041df8",
+  "file": "EXE",
+  "off": 269816,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A blade made of mithril",
+  "kind": "item_help",
+  "src": "8637a923f158"
+ },
+ {
+  "id": "EXE_041e30",
+  "file": "EXE",
+  "off": 269872,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rune Blade",
+  "kind": "item_name",
+  "src": "a8be8e0e5212"
+ },
+ {
+  "id": "EXE_041e44",
+  "file": "EXE",
+  "off": 269892,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sword forged by secret methods",
+  "kind": "item_help",
+  "src": "028148832604"
+ },
+ {
+  "id": "EXE_041e7c",
+  "file": "EXE",
+  "off": 269948,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Great Sword",
+  "kind": "item_name",
+  "src": "75c85cd4ed0b"
+ },
+ {
+  "id": "EXE_041e90",
+  "file": "EXE",
+  "off": 269968,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A huge sword",
+  "kind": "item_help",
+  "src": "24c0cc5ad276"
+ },
+ {
+  "id": "EXE_041ec8",
+  "file": "EXE",
+  "off": 270024,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Master Sword",
+  "kind": "item_name",
+  "src": "b7d9ce1c3b96"
+ },
+ {
+  "id": "EXE_041edc",
+  "file": "EXE",
+  "off": 270044,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sword that cuts down all foes",
+  "kind": "item_help",
+  "src": "b391b381ffb2"
+ },
+ {
+  "id": "EXE_041f14",
+  "file": "EXE",
+  "off": 270100,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Dynast Blade",
+  "kind": "item_name",
+  "src": "fad7805bc66b"
+ },
+ {
+  "id": "EXE_041f28",
+  "file": "EXE",
+  "off": 270120,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sword of a world-grasping king",
+  "kind": "item_help",
+  "src": "fcbfabdbe141"
+ },
+ {
+  "id": "EXE_041f60",
+  "file": "EXE",
+  "off": 270176,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Muramasa",
+  "kind": "item_name",
+  "src": "f752f07287b4"
+ },
+ {
+  "id": "EXE_041f74",
+  "file": "EXE",
+  "off": 270196,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A cursed blade from the east",
+  "kind": "item_help",
+  "src": "4c734e3d4791"
+ },
+ {
+  "id": "EXE_041fac",
+  "file": "EXE",
+  "off": 270252,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Masamune",
+  "kind": "item_name",
+  "src": "1b2376640892"
+ },
+ {
+  "id": "EXE_041fc0",
+  "file": "EXE",
+  "off": 270272,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A famed blade of Japone",
+  "kind": "item_help",
+  "src": "5e60fdcc624e"
+ },
+ {
+  "id": "EXE_041ff8",
+  "file": "EXE",
+  "off": 270328,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Light Saber",
+  "kind": "item_name",
+  "src": "c0174bf5253c"
+ },
+ {
+  "id": "EXE_04200c",
+  "file": "EXE",
+  "off": 270348,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sword powered by light energy",
+  "kind": "item_help",
+  "src": "40cc523dda1d"
+ },
+ {
+  "id": "EXE_042044",
+  "file": "EXE",
+  "off": 270404,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gram",
+  "kind": "item_name",
+  "src": "03ae3fb6236a"
+ },
+ {
+  "id": "EXE_042058",
+  "file": "EXE",
+  "off": 270424,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Holy sword: cuts all to bits",
+  "kind": "item_help",
+  "src": "b7d700023570"
+ },
+ {
+  "id": "EXE_042090",
+  "file": "EXE",
+  "off": 270480,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Answerer",
+  "kind": "item_name",
+  "src": "52777f6ea9ba"
+ },
+ {
+  "id": "EXE_0420a4",
+  "file": "EXE",
+  "off": 270500,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Light God's own divine sword",
+  "kind": "item_help",
+  "src": "b6014ccba558"
+ },
+ {
+  "id": "EXE_0420dc",
+  "file": "EXE",
+  "off": 270556,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Bounty Sword",
+  "kind": "item_name",
+  "src": "76cc171057a4"
+ },
+ {
+  "id": "EXE_0420f0",
+  "file": "EXE",
+  "off": 270576,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sword the gods give the chosen",
+  "kind": "item_help",
+  "src": "b3a6664502fe"
+ },
+ {
+  "id": "EXE_042128",
+  "file": "EXE",
+  "off": 270632,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gold Sword",
+  "kind": "item_name",
+  "src": "59a60e310aa8"
+ },
+ {
+  "id": "EXE_04213c",
+  "file": "EXE",
+  "off": 270652,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A golden sword",
+  "kind": "item_help",
+  "src": "aae1c6a0bf78"
+ },
+ {
+  "id": "EXE_042174",
+  "file": "EXE",
+  "off": 270708,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Platinum Sword",
+  "kind": "item_name",
+  "src": "ab9dfa1b3b27"
+ },
+ {
+  "id": "EXE_042188",
+  "file": "EXE",
+  "off": 270728,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Platinum sword. Sells high",
+  "kind": "item_help",
+  "src": "c510a8d47764"
+ },
+ {
+  "id": "EXE_0421c0",
+  "file": "EXE",
+  "off": 270784,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Sword 3",
+  "kind": "item_name",
+  "src": "f6eb05e180da"
+ },
+ {
+  "id": "EXE_0421d4",
+  "file": "EXE",
+  "off": 270804,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sword 3 help",
+  "kind": "item_help",
+  "src": "916b01b0294c"
+ },
+ {
+  "id": "EXE_04220c",
+  "file": "EXE",
+  "off": 270860,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Sword 4",
+  "kind": "item_name",
+  "src": "9a46487ba913"
+ },
+ {
+  "id": "EXE_042220",
+  "file": "EXE",
+  "off": 270880,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sword 4 help",
+  "kind": "item_help",
+  "src": "e4fc9d4e8fd5"
+ },
+ {
+  "id": "EXE_042258",
+  "file": "EXE",
+  "off": 270936,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Musket",
+  "kind": "item_name",
+  "src": "2215094436f8"
+ },
+ {
+  "id": "EXE_04226c",
+  "file": "EXE",
+  "off": 270956,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An easy-to-handle gun",
+  "kind": "item_help",
+  "src": "76ae7bcf9888"
+ },
+ {
+  "id": "EXE_0422a4",
+  "file": "EXE",
+  "off": 271012,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Musket Mod",
+  "kind": "item_name",
+  "src": "6158c134fa10"
+ },
+ {
+  "id": "EXE_0422b8",
+  "file": "EXE",
+  "off": 271032,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A custom-spec musket",
+  "kind": "item_help",
+  "src": "46a743669f9c"
+ },
+ {
+  "id": "EXE_0422f0",
+  "file": "EXE",
+  "off": 271088,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Musket Snipe",
+  "kind": "item_name",
+  "src": "cbfd8e959204"
+ },
+ {
+  "id": "EXE_042304",
+  "file": "EXE",
+  "off": 271108,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A long-range rifle",
+  "kind": "item_help",
+  "src": "ece4f568ca32"
+ },
+ {
+  "id": "EXE_04233c",
+  "file": "EXE",
+  "off": 271164,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Musket",
+  "kind": "item_name",
+  "src": "03f2c64ab96b"
+ },
+ {
+  "id": "EXE_042350",
+  "file": "EXE",
+  "off": 271184,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A larger musket",
+  "kind": "item_help",
+  "src": "7d5850d97738"
+ },
+ {
+  "id": "EXE_042388",
+  "file": "EXE",
+  "off": 271240,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Musket Mod",
+  "kind": "item_name",
+  "src": "d095d55e2613"
+ },
+ {
+  "id": "EXE_04239c",
+  "file": "EXE",
+  "off": 271260,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Heavy-type gun made to carry",
+  "kind": "item_help",
+  "src": "f4f44782e721"
+ },
+ {
+  "id": "EXE_0423d4",
+  "file": "EXE",
+  "off": 271316,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Snake Snipe",
+  "kind": "item_name",
+  "src": "5ef0eb70f232"
+ },
+ {
+  "id": "EXE_0423e8",
+  "file": "EXE",
+  "off": 271336,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A long-barreled rifle",
+  "kind": "item_help",
+  "src": "b4e78c0dfea3"
+ },
+ {
+  "id": "EXE_042420",
+  "file": "EXE",
+  "off": 271392,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fold Snipe",
+  "kind": "item_name",
+  "src": "f9e733561009"
+ },
+ {
+  "id": "EXE_042434",
+  "file": "EXE",
+  "off": 271412,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A rifle that folds up small",
+  "kind": "item_help",
+  "src": "455ecc61f3d1"
+ },
+ {
+  "id": "EXE_04246c",
+  "file": "EXE",
+  "off": 271468,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Talbo AT",
+  "kind": "item_name",
+  "src": "e2bf17779f3a"
+ },
+ {
+  "id": "EXE_042480",
+  "file": "EXE",
+  "off": 271488,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An easy-to-handle auto rifle",
+  "kind": "item_help",
+  "src": "e2c8d295a572"
+ },
+ {
+  "id": "EXE_0424b8",
+  "file": "EXE",
+  "off": 271544,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Night Snipe",
+  "kind": "item_name",
+  "src": "322cc2f11e11"
+ },
+ {
+  "id": "EXE_0424cc",
+  "file": "EXE",
+  "off": 271564,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Rifle with night-vision scope",
+  "kind": "item_help",
+  "src": "a52c8760654f"
+ },
+ {
+  "id": "EXE_042504",
+  "file": "EXE",
+  "off": 271620,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rail Gun",
+  "kind": "item_name",
+  "src": "c48be5455ad3"
+ },
+ {
+  "id": "EXE_042518",
+  "file": "EXE",
+  "off": 271640,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A heavy automatic rifle",
+  "kind": "item_help",
+  "src": "3824e5c2be6d"
+ },
+ {
+  "id": "EXE_042550",
+  "file": "EXE",
+  "off": 271696,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Talbo AT Mod",
+  "kind": "item_name",
+  "src": "c5bea82effc4"
+ },
+ {
+  "id": "EXE_042564",
+  "file": "EXE",
+  "off": 271716,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Talbo with improved cartridges",
+  "kind": "item_help",
+  "src": "4bf873e0fef0"
+ },
+ {
+  "id": "EXE_04259c",
+  "file": "EXE",
+  "off": 271772,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magnum ZERO",
+  "kind": "item_name",
+  "src": "dc01fac6e20e"
+ },
+ {
+  "id": "EXE_0425b0",
+  "file": "EXE",
+  "off": 271792,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Takes Type-0 magnum rounds",
+  "kind": "item_help",
+  "src": "5eae55c2ab6b"
+ },
+ {
+  "id": "EXE_0425e8",
+  "file": "EXE",
+  "off": 271848,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rail Gun Mod",
+  "kind": "item_name",
+  "src": "8a38e7dc75e2"
+ },
+ {
+  "id": "EXE_0425fc",
+  "file": "EXE",
+  "off": 271868,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A large rail gun",
+  "kind": "item_help",
+  "src": "6405eb3c5519"
+ },
+ {
+  "id": "EXE_042634",
+  "file": "EXE",
+  "off": 271924,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magnum ZERO Mod",
+  "kind": "item_name",
+  "src": "7f35038745ff"
+ },
+ {
+  "id": "EXE_042648",
+  "file": "EXE",
+  "off": 271944,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An easy-to-handle magnum",
+  "kind": "item_help",
+  "src": "89baf9a429e4"
+ },
+ {
+  "id": "EXE_042680",
+  "file": "EXE",
+  "off": 272000,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Laser Snipe",
+  "kind": "item_name",
+  "src": "c828e5e0e259"
+ },
+ {
+  "id": "EXE_042694",
+  "file": "EXE",
+  "off": 272020,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Rifle with a cyber-pointer",
+  "kind": "item_help",
+  "src": "8b389d8525bf"
+ },
+ {
+  "id": "EXE_0426cc",
+  "file": "EXE",
+  "off": 272076,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Laser Musket",
+  "kind": "item_name",
+  "src": "a13f39db7743"
+ },
+ {
+  "id": "EXE_0426e0",
+  "file": "EXE",
+  "off": 272096,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Musket with a cyber-pointer",
+  "kind": "item_help",
+  "src": "de3b4abbd53b"
+ },
+ {
+  "id": "EXE_042718",
+  "file": "EXE",
+  "off": 272152,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Orgamort AT",
+  "kind": "item_name",
+  "src": "972562e7c3fe"
+ },
+ {
+  "id": "EXE_04272c",
+  "file": "EXE",
+  "off": 272172,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A one-handed automatic rifle",
+  "kind": "item_help",
+  "src": "8a29ac5a1f70"
+ },
+ {
+  "id": "EXE_042764",
+  "file": "EXE",
+  "off": 272228,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Highlander Talbo",
+  "kind": "item_name",
+  "src": "acdd4cfb5284"
+ },
+ {
+  "id": "EXE_042778",
+  "file": "EXE",
+  "off": 272248,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "The world's finest musket",
+  "kind": "item_help",
+  "src": "e3b4de61c4b5"
+ },
+ {
+  "id": "EXE_0427b0",
+  "file": "EXE",
+  "off": 272304,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Orga Hunter",
+  "kind": "item_name",
+  "src": "2a1ab4c004bc"
+ },
+ {
+  "id": "EXE_0427c4",
+  "file": "EXE",
+  "off": 272324,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A powerful shotgun",
+  "kind": "item_help",
+  "src": "ef5a7a971afc"
+ },
+ {
+  "id": "EXE_0427fc",
+  "file": "EXE",
+  "off": 272380,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Highlander Magnum",
+  "kind": "item_name",
+  "src": "4570284420f9"
+ },
+ {
+  "id": "EXE_042810",
+  "file": "EXE",
+  "off": 272400,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "The most powerful magnum",
+  "kind": "item_help",
+  "src": "7f61804c991f"
+ },
+ {
+  "id": "EXE_042848",
+  "file": "EXE",
+  "off": 272456,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Kaleido Magnum",
+  "kind": "item_name",
+  "src": "ddc58c27f421"
+ },
+ {
+  "id": "EXE_04285c",
+  "file": "EXE",
+  "off": 272476,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A magnum anyone can wield",
+  "kind": "item_help",
+  "src": "bb3d2522b336"
+ },
+ {
+  "id": "EXE_042894",
+  "file": "EXE",
+  "off": 272532,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Highlander Snipe",
+  "kind": "item_name",
+  "src": "4adabbaa9496"
+ },
+ {
+  "id": "EXE_0428a8",
+  "file": "EXE",
+  "off": 272552,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "The world's finest rifle",
+  "kind": "item_help",
+  "src": "ee55f2890351"
+ },
+ {
+  "id": "EXE_0428e0",
+  "file": "EXE",
+  "off": 272608,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Highlander Snipe",
+  "kind": "item_name",
+  "src": "4adabbaa9496"
+ },
+ {
+  "id": "EXE_0428f4",
+  "file": "EXE",
+  "off": 272628,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "The world's finest rifle",
+  "kind": "item_help",
+  "src": "ee55f2890351"
+ },
+ {
+  "id": "EXE_04292c",
+  "file": "EXE",
+  "off": 272684,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Warrior's Gun",
+  "kind": "item_name",
+  "src": "d596880e8c90"
+ },
+ {
+  "id": "EXE_042940",
+  "file": "EXE",
+  "off": 272704,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A gun that pierces all things",
+  "kind": "item_help",
+  "src": "50cf71ff5d0d"
+ },
+ {
+  "id": "EXE_042978",
+  "file": "EXE",
+  "off": 272760,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Gun 1",
+  "kind": "item_name",
+  "src": "17ec60315641"
+ },
+ {
+  "id": "EXE_04298c",
+  "file": "EXE",
+  "off": 272780,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Gun 1 help",
+  "kind": "item_help",
+  "src": "cd822a75d860"
+ },
+ {
+  "id": "EXE_0429c4",
+  "file": "EXE",
+  "off": 272836,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Dagger",
+  "kind": "item_name",
+  "src": "c7004b409a10"
+ },
+ {
+  "id": "EXE_0429d8",
+  "file": "EXE",
+  "off": 272856,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A small sword",
+  "kind": "item_help",
+  "src": "2c3e15a52a2f"
+ },
+ {
+  "id": "EXE_042a10",
+  "file": "EXE",
+  "off": 272912,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Main Gauche",
+  "kind": "item_name",
+  "src": "bb25a06d09da"
+ },
+ {
+  "id": "EXE_042a24",
+  "file": "EXE",
+  "off": 272932,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Dagger to catch enemy blades",
+  "kind": "item_help",
+  "src": "4dd5610d398e"
+ },
+ {
+  "id": "EXE_042a5c",
+  "file": "EXE",
+  "off": 272988,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Machaira",
+  "kind": "item_name",
+  "src": "500f8d1bf5f0"
+ },
+ {
+  "id": "EXE_042a70",
+  "file": "EXE",
+  "off": 273008,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A small curved sword",
+  "kind": "item_help",
+  "src": "ef3311055387"
+ },
+ {
+  "id": "EXE_042aa8",
+  "file": "EXE",
+  "off": 273064,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gladius",
+  "kind": "item_name",
+  "src": "41157ecc64bb"
+ },
+ {
+  "id": "EXE_042abc",
+  "file": "EXE",
+  "off": 273084,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An easy-to-use mid-size sword",
+  "kind": "item_help",
+  "src": "aec04180d5bc"
+ },
+ {
+  "id": "EXE_042af4",
+  "file": "EXE",
+  "off": 273140,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Baselard",
+  "kind": "item_name",
+  "src": "aacbdf2c6841"
+ },
+ {
+  "id": "EXE_042b08",
+  "file": "EXE",
+  "off": 273160,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wide blade",
+  "kind": "item_help",
+  "src": "439372def3c7"
+ },
+ {
+  "id": "EXE_042b40",
+  "file": "EXE",
+  "off": 273216,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Swordbreaker",
+  "kind": "item_name",
+  "src": "fad782a47397"
+ },
+ {
+  "id": "EXE_042b54",
+  "file": "EXE",
+  "off": 273236,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Blade that breaks foes' swords",
+  "kind": "item_help",
+  "src": "998d611b3faf"
+ },
+ {
+  "id": "EXE_042b8c",
+  "file": "EXE",
+  "off": 273292,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Jamadhar",
+  "kind": "item_name",
+  "src": "3abacf1f42af"
+ },
+ {
+  "id": "EXE_042ba0",
+  "file": "EXE",
+  "off": 273312,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A one-handed stabbing weapon",
+  "kind": "item_help",
+  "src": "5a9427b8fa6a"
+ },
+ {
+  "id": "EXE_042bd8",
+  "file": "EXE",
+  "off": 273368,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Harpe",
+  "kind": "item_name",
+  "src": "d4cbb9547a1c"
+ },
+ {
+  "id": "EXE_042bec",
+  "file": "EXE",
+  "off": 273388,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Legendary evil-god slayer",
+  "kind": "item_help",
+  "src": "124f58b0872f"
+ },
+ {
+  "id": "EXE_042c24",
+  "file": "EXE",
+  "off": 273444,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Knife 1",
+  "kind": "item_name",
+  "src": "60e43477eeab"
+ },
+ {
+  "id": "EXE_042c38",
+  "file": "EXE",
+  "off": 273464,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Knife 1 help",
+  "kind": "item_help",
+  "src": "f7136ea12976"
+ },
+ {
+  "id": "EXE_042c70",
+  "file": "EXE",
+  "off": 273520,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Knife 2",
+  "kind": "item_name",
+  "src": "ae25ee6a3030"
+ },
+ {
+  "id": "EXE_042c84",
+  "file": "EXE",
+  "off": 273540,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Knife 2 help",
+  "kind": "item_help",
+  "src": "4edd73d5e9c9"
+ },
+ {
+  "id": "EXE_042cbc",
+  "file": "EXE",
+  "off": 273596,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Wooden Aid Kit",
+  "kind": "item_name",
+  "src": "44248b7369ab"
+ },
+ {
+  "id": "EXE_042cd0",
+  "file": "EXE",
+  "off": 273616,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A first aid kit made of wood",
+  "kind": "item_help",
+  "src": "fbcc36913a9c"
+ },
+ {
+  "id": "EXE_042d08",
+  "file": "EXE",
+  "off": 273672,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Iron Aid Kit",
+  "kind": "item_name",
+  "src": "837c3905cf49"
+ },
+ {
+  "id": "EXE_042d1c",
+  "file": "EXE",
+  "off": 273692,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A first aid kit made of iron",
+  "kind": "item_help",
+  "src": "7470204377b7"
+ },
+ {
+  "id": "EXE_042d54",
+  "file": "EXE",
+  "off": 273748,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Aid Kit",
+  "kind": "item_name",
+  "src": "f3b4f65bf381"
+ },
+ {
+  "id": "EXE_042d68",
+  "file": "EXE",
+  "off": 273768,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "First aid kit made of mithril",
+  "kind": "item_help",
+  "src": "102ebe313f19"
+ },
+ {
+  "id": "EXE_042da0",
+  "file": "EXE",
+  "off": 273824,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Aluminum Aid Kit",
+  "kind": "item_name",
+  "src": "5b656920d9cd"
+ },
+ {
+  "id": "EXE_042db4",
+  "file": "EXE",
+  "off": 273844,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Light, sturdy aluminum aid kit",
+  "kind": "item_help",
+  "src": "6fb44b0a27de"
+ },
+ {
+  "id": "EXE_042dec",
+  "file": "EXE",
+  "off": 273900,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Titanium Aid Kit",
+  "kind": "item_name",
+  "src": "68c56a151ead"
+ },
+ {
+  "id": "EXE_042e00",
+  "file": "EXE",
+  "off": 273920,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "First aid kit made of titanium",
+  "kind": "item_help",
+  "src": "10c71673e1dd"
+ },
+ {
+  "id": "EXE_042e38",
+  "file": "EXE",
+  "off": 273976,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ancient Aid Kit",
+  "kind": "item_name",
+  "src": "13abc24beeac"
+ },
+ {
+  "id": "EXE_042e4c",
+  "file": "EXE",
+  "off": 273996,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Aid kit dug from ancient ruins",
+  "kind": "item_help",
+  "src": "80dac5f387f6"
+ },
+ {
+  "id": "EXE_042e84",
+  "file": "EXE",
+  "off": 274052,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Aid Kit 1",
+  "kind": "item_name",
+  "src": "3e981a8e26f0"
+ },
+ {
+  "id": "EXE_042e98",
+  "file": "EXE",
+  "off": 274072,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Aid Kit 1 help",
+  "kind": "item_help",
+  "src": "4c24f3d99ac1"
+ },
+ {
+  "id": "EXE_042ed0",
+  "file": "EXE",
+  "off": 274128,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Aid Kit 2",
+  "kind": "item_name",
+  "src": "f5e7fe95dfbd"
+ },
+ {
+  "id": "EXE_042ee4",
+  "file": "EXE",
+  "off": 274148,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Aid Kit 2 help",
+  "kind": "item_help",
+  "src": "c176dc9cb7f4"
+ },
+ {
+  "id": "EXE_042f1c",
+  "file": "EXE",
+  "off": 274204,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Platypus",
+  "kind": "item_name",
+  "src": "c5f023610881"
+ },
+ {
+  "id": "EXE_042f30",
+  "file": "EXE",
+  "off": 274224,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A stuffed platypus",
+  "kind": "item_help",
+  "src": "e934f6dd8840"
+ },
+ {
+  "id": "EXE_042f68",
+  "file": "EXE",
+  "off": 274280,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Teddy Bear",
+  "kind": "item_name",
+  "src": "000e89966d6c"
+ },
+ {
+  "id": "EXE_042f7c",
+  "file": "EXE",
+  "off": 274300,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A stuffed teddy bear",
+  "kind": "item_help",
+  "src": "04b12aa59cb0"
+ },
+ {
+  "id": "EXE_042fb4",
+  "file": "EXE",
+  "off": 274356,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Plush 1",
+  "kind": "item_name",
+  "src": "e18825fdf9c4"
+ },
+ {
+  "id": "EXE_042fc8",
+  "file": "EXE",
+  "off": 274376,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Plush 1 help",
+  "kind": "item_help",
+  "src": "54878ec2ccb1"
+ },
+ {
+  "id": "EXE_043000",
+  "file": "EXE",
+  "off": 274432,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Temari",
+  "kind": "item_name",
+  "src": "8870c6bd0bc8"
+ },
+ {
+  "id": "EXE_043014",
+  "file": "EXE",
+  "off": 274452,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A temari ball made of bamboo",
+  "kind": "item_help",
+  "src": "2aae7d208ab7"
+ },
+ {
+  "id": "EXE_04304c",
+  "file": "EXE",
+  "off": 274508,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Twill Temari",
+  "kind": "item_name",
+  "src": "822c3dd338f7"
+ },
+ {
+  "id": "EXE_043060",
+  "file": "EXE",
+  "off": 274528,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A ball woven from twill",
+  "kind": "item_help",
+  "src": "6d81ee010fbe"
+ },
+ {
+  "id": "EXE_043098",
+  "file": "EXE",
+  "off": 274584,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Temari 1",
+  "kind": "item_name",
+  "src": "4c41b5813000"
+ },
+ {
+  "id": "EXE_0430ac",
+  "file": "EXE",
+  "off": 274604,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Temari 1 help",
+  "kind": "item_help",
+  "src": "0da5a5ceb565"
+ },
+ {
+  "id": "EXE_0430e4",
+  "file": "EXE",
+  "off": 274660,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Temari 2",
+  "kind": "item_name",
+  "src": "2863ed5dfd17"
+ },
+ {
+  "id": "EXE_0430f8",
+  "file": "EXE",
+  "off": 274680,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Temari 2 help",
+  "kind": "item_help",
+  "src": "c89aca37f5a9"
+ },
+ {
+  "id": "EXE_043130",
+  "file": "EXE",
+  "off": 274736,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Tree Spirit Orb",
+  "kind": "item_name",
+  "src": "94f6b731227e"
+ },
+ {
+  "id": "EXE_043144",
+  "file": "EXE",
+  "off": 274756,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Orb housing a tree spirit",
+  "kind": "item_help",
+  "src": "9426d7ca5960"
+ },
+ {
+  "id": "EXE_04317c",
+  "file": "EXE",
+  "off": 274812,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Wind Spirit Orb",
+  "kind": "item_name",
+  "src": "a6243d56e86e"
+ },
+ {
+  "id": "EXE_043190",
+  "file": "EXE",
+  "off": 274832,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Orb housing a wind spirit",
+  "kind": "item_help",
+  "src": "7e023b2df18b"
+ },
+ {
+  "id": "EXE_0431c8",
+  "file": "EXE",
+  "off": 274888,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Water Spirit Orb",
+  "kind": "item_name",
+  "src": "031444a86280"
+ },
+ {
+  "id": "EXE_0431dc",
+  "file": "EXE",
+  "off": 274908,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Orb housing a water spirit",
+  "kind": "item_help",
+  "src": "0d3e87a35bb4"
+ },
+ {
+  "id": "EXE_043214",
+  "file": "EXE",
+  "off": 274964,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Moon Spirit Orb",
+  "kind": "item_name",
+  "src": "cd1f529c46b4"
+ },
+ {
+  "id": "EXE_043228",
+  "file": "EXE",
+  "off": 274984,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Prayer beads with moon's magic",
+  "kind": "item_help",
+  "src": "f52dba764b3c"
+ },
+ {
+  "id": "EXE_043260",
+  "file": "EXE",
+  "off": 275040,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Star Spirit Orb",
+  "kind": "item_name",
+  "src": "dd6acc3f9573"
+ },
+ {
+  "id": "EXE_043274",
+  "file": "EXE",
+  "off": 275060,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Holy orb sealing star energy",
+  "kind": "item_help",
+  "src": "28febfdf84ed"
+ },
+ {
+  "id": "EXE_0432ac",
+  "file": "EXE",
+  "off": 275116,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Lucifer's Staff",
+  "kind": "item_name",
+  "src": "bc297e3005b8"
+ },
+ {
+  "id": "EXE_0432c0",
+  "file": "EXE",
+  "off": 275136,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Faust's own staff",
+  "kind": "item_help",
+  "src": "2803fc0f5357"
+ },
+ {
+  "id": "EXE_0432f8",
+  "file": "EXE",
+  "off": 275192,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Orb 2",
+  "kind": "item_name",
+  "src": "d9a280668787"
+ },
+ {
+  "id": "EXE_04330c",
+  "file": "EXE",
+  "off": 275212,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Orb 2 help",
+  "kind": "item_help",
+  "src": "332494d016e4"
+ },
+ {
+  "id": "EXE_043344",
+  "file": "EXE",
+  "off": 275268,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Staff",
+  "kind": "item_name",
+  "src": "df6ed73ed4b8"
+ },
+ {
+  "id": "EXE_043358",
+  "file": "EXE",
+  "off": 275288,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A staff made of mithril",
+  "kind": "item_help",
+  "src": "795878ddb760"
+ },
+ {
+  "id": "EXE_043390",
+  "file": "EXE",
+  "off": 275344,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Demon Staff",
+  "kind": "item_name",
+  "src": "e0faeb284375"
+ },
+ {
+  "id": "EXE_0433a4",
+  "file": "EXE",
+  "off": 275364,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Staff scorched by dark flames",
+  "kind": "item_help",
+  "src": "27329948efe4"
+ },
+ {
+  "id": "EXE_0433dc",
+  "file": "EXE",
+  "off": 275420,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fuscina",
+  "kind": "item_name",
+  "src": "997eaa8635e3"
+ },
+ {
+  "id": "EXE_0433f0",
+  "file": "EXE",
+  "off": 275440,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Weapon exclusive to FD-3S",
+  "kind": "item_help",
+  "src": "4b5bae6ea82a"
+ },
+ {
+  "id": "EXE_043428",
+  "file": "EXE",
+  "off": 275496,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Field Jacket",
+  "kind": "item_name",
+  "src": "865ddf7a55b2"
+ },
+ {
+  "id": "EXE_04343c",
+  "file": "EXE",
+  "off": 275516,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Light clothing for the field",
+  "kind": "item_help",
+  "src": "34899cbf3dd1"
+ },
+ {
+  "id": "EXE_043474",
+  "file": "EXE",
+  "off": 275572,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Leather Vest",
+  "kind": "item_name",
+  "src": "80fb6c896993"
+ },
+ {
+  "id": "EXE_043488",
+  "file": "EXE",
+  "off": 275592,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A vest made of leather",
+  "kind": "item_help",
+  "src": "b24689e8df41"
+ },
+ {
+  "id": "EXE_0434c0",
+  "file": "EXE",
+  "off": 275648,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Leather Suit",
+  "kind": "item_name",
+  "src": "67003b881a4c"
+ },
+ {
+  "id": "EXE_0434d4",
+  "file": "EXE",
+  "off": 275668,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A suit made of leather",
+  "kind": "item_help",
+  "src": "6033ef984e51"
+ },
+ {
+  "id": "EXE_04350c",
+  "file": "EXE",
+  "off": 275724,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ring Armor",
+  "kind": "item_name",
+  "src": "2efd0a78afb6"
+ },
+ {
+  "id": "EXE_043520",
+  "file": "EXE",
+  "off": 275744,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Rings sewn onto leather armor",
+  "kind": "item_help",
+  "src": "f69bd4c1fe6b"
+ },
+ {
+  "id": "EXE_043558",
+  "file": "EXE",
+  "off": 275800,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Survival Vest",
+  "kind": "item_name",
+  "src": "b148c0e20056"
+ },
+ {
+  "id": "EXE_04356c",
+  "file": "EXE",
+  "off": 275820,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A camouflage vest",
+  "kind": "item_help",
+  "src": "18ce6bbb1e12"
+ },
+ {
+  "id": "EXE_0435a4",
+  "file": "EXE",
+  "off": 275876,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Survival Suit",
+  "kind": "item_name",
+  "src": "11cf7a6b5eaa"
+ },
+ {
+  "id": "EXE_0435b8",
+  "file": "EXE",
+  "off": 275896,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A field camouflage suit",
+  "kind": "item_help",
+  "src": "269d90b9f190"
+ },
+ {
+  "id": "EXE_0435f0",
+  "file": "EXE",
+  "off": 275952,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Battle Suit",
+  "kind": "item_name",
+  "src": "21ba6b56cbd8"
+ },
+ {
+  "id": "EXE_043604",
+  "file": "EXE",
+  "off": 275972,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mass-produced combat clothing",
+  "kind": "item_help",
+  "src": "c14d15dcc789"
+ },
+ {
+  "id": "EXE_04363c",
+  "file": "EXE",
+  "off": 276028,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ghillie Suit",
+  "kind": "item_name",
+  "src": "886561f26e8b"
+ },
+ {
+  "id": "EXE_043650",
+  "file": "EXE",
+  "off": 276048,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Clothes sewn with camo netting",
+  "kind": "item_help",
+  "src": "b78b0b6f8fbf"
+ },
+ {
+  "id": "EXE_043688",
+  "file": "EXE",
+  "off": 276104,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Soft Armor",
+  "kind": "item_name",
+  "src": "5d72ec36944a"
+ },
+ {
+  "id": "EXE_04369c",
+  "file": "EXE",
+  "off": 276124,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Light full-body protection",
+  "kind": "item_help",
+  "src": "7a9fe5996ab2"
+ },
+ {
+  "id": "EXE_0436d4",
+  "file": "EXE",
+  "off": 276180,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Anti-Bullet",
+  "kind": "item_name",
+  "src": "ce2266f0cb25"
+ },
+ {
+  "id": "EXE_0436e8",
+  "file": "EXE",
+  "off": 276200,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bulletproof; soaks gun impacts",
+  "kind": "item_help",
+  "src": "96220c6c7257"
+ },
+ {
+  "id": "EXE_043720",
+  "file": "EXE",
+  "off": 276256,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ceramic Vest",
+  "kind": "item_name",
+  "src": "719182bdf228"
+ },
+ {
+  "id": "EXE_043734",
+  "file": "EXE",
+  "off": 276276,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A vest lined with ceramic",
+  "kind": "item_help",
+  "src": "a9c48042fa12"
+ },
+ {
+  "id": "EXE_04376c",
+  "file": "EXE",
+  "off": 276332,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ceramic Armor",
+  "kind": "item_name",
+  "src": "64ebcd86d254"
+ },
+ {
+  "id": "EXE_043780",
+  "file": "EXE",
+  "off": 276352,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Protective wear of ceramic",
+  "kind": "item_help",
+  "src": "8c8cedb94125"
+ },
+ {
+  "id": "EXE_0437b8",
+  "file": "EXE",
+  "off": 276408,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rune Ceramic",
+  "kind": "item_name",
+  "src": "e2472dd22931"
+ },
+ {
+  "id": "EXE_0437cc",
+  "file": "EXE",
+  "off": 276428,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ceramic carved with runes",
+  "kind": "item_help",
+  "src": "416aa1cc50df"
+ },
+ {
+  "id": "EXE_043804",
+  "file": "EXE",
+  "off": 276484,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Kevlar Vest",
+  "kind": "item_name",
+  "src": "1e70facc3f39"
+ },
+ {
+  "id": "EXE_043818",
+  "file": "EXE",
+  "off": 276504,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A vest of special fiber",
+  "kind": "item_help",
+  "src": "b8e14c5ac2fa"
+ },
+ {
+  "id": "EXE_043850",
+  "file": "EXE",
+  "off": 276560,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Kevlar Suit",
+  "kind": "item_name",
+  "src": "9e77743c1774"
+ },
+ {
+  "id": "EXE_043864",
+  "file": "EXE",
+  "off": 276580,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A suit of special fiber",
+  "kind": "item_help",
+  "src": "fbade60c1864"
+ },
+ {
+  "id": "EXE_04389c",
+  "file": "EXE",
+  "off": 276636,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spectra Vest",
+  "kind": "item_name",
+  "src": "cc8bf64d1834"
+ },
+ {
+  "id": "EXE_0438b0",
+  "file": "EXE",
+  "off": 276656,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A vest of Spectra fiber",
+  "kind": "item_help",
+  "src": "fc8a5e8fd57a"
+ },
+ {
+  "id": "EXE_0438e8",
+  "file": "EXE",
+  "off": 276712,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spectra Plate",
+  "kind": "item_name",
+  "src": "00790d24db76"
+ },
+ {
+  "id": "EXE_0438fc",
+  "file": "EXE",
+  "off": 276732,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A plate of Spectra fiber",
+  "kind": "item_help",
+  "src": "8401dfb7afe5"
+ },
+ {
+  "id": "EXE_043934",
+  "file": "EXE",
+  "off": 276788,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Imperial Armor",
+  "kind": "item_name",
+  "src": "767173c1ed67"
+ },
+ {
+  "id": "EXE_043948",
+  "file": "EXE",
+  "off": 276808,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Emperor armor; anti-magic, but",
+  "kind": "item_help",
+  "src": "e22080e70f64"
+ },
+ {
+  "id": "EXE_043980",
+  "file": "EXE",
+  "off": 276864,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Anti-Magic Suit",
+  "kind": "item_name",
+  "src": "63f11cced35a"
+ },
+ {
+  "id": "EXE_043994",
+  "file": "EXE",
+  "off": 276884,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A suit that nullifies magic",
+  "kind": "item_help",
+  "src": "5983215c928a"
+ },
+ {
+  "id": "EXE_0439cc",
+  "file": "EXE",
+  "off": 276940,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ancient Armor",
+  "kind": "item_name",
+  "src": "fc7e10ea1441"
+ },
+ {
+  "id": "EXE_0439e0",
+  "file": "EXE",
+  "off": 276960,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Armor dug from ancient ruins",
+  "kind": "item_help",
+  "src": "e01ff8222bca"
+ },
+ {
+  "id": "EXE_043a18",
+  "file": "EXE",
+  "off": 277016,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Armor 1",
+  "kind": "item_name",
+  "src": "071b774c9994"
+ },
+ {
+  "id": "EXE_043a2c",
+  "file": "EXE",
+  "off": 277036,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Armor 1 help",
+  "kind": "item_help",
+  "src": "303dd39f5ccc"
+ },
+ {
+  "id": "EXE_043a64",
+  "file": "EXE",
+  "off": 277092,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Armor 2",
+  "kind": "item_name",
+  "src": "f8ff5c0eb018"
+ },
+ {
+  "id": "EXE_043a78",
+  "file": "EXE",
+  "off": 277112,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Armor 2 help",
+  "kind": "item_help",
+  "src": "4971768969b3"
+ },
+ {
+  "id": "EXE_043ab0",
+  "file": "EXE",
+  "off": 277168,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Armor 3",
+  "kind": "item_name",
+  "src": "ca993de2009f"
+ },
+ {
+  "id": "EXE_043ac4",
+  "file": "EXE",
+  "off": 277188,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Armor 3 help",
+  "kind": "item_help",
+  "src": "df898e868153"
+ },
+ {
+  "id": "EXE_043afc",
+  "file": "EXE",
+  "off": 277244,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Armor 4",
+  "kind": "item_name",
+  "src": "4c364bbf47e7"
+ },
+ {
+  "id": "EXE_043b10",
+  "file": "EXE",
+  "off": 277264,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Armor 4 help",
+  "kind": "item_help",
+  "src": "8bc593725b13"
+ },
+ {
+  "id": "EXE_043b48",
+  "file": "EXE",
+  "off": 277320,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Armor 5",
+  "kind": "item_name",
+  "src": "073057239e5f"
+ },
+ {
+  "id": "EXE_043b5c",
+  "file": "EXE",
+  "off": 277340,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Armor 5 help",
+  "kind": "item_help",
+  "src": "64e21c18855b"
+ },
+ {
+  "id": "EXE_043b94",
+  "file": "EXE",
+  "off": 277396,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Black Cloak",
+  "kind": "item_name",
+  "src": "7cba7390f0e5"
+ },
+ {
+  "id": "EXE_043ba8",
+  "file": "EXE",
+  "off": 277416,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A long jet-black cloak",
+  "kind": "item_help",
+  "src": "7df03a7d8974"
+ },
+ {
+  "id": "EXE_043be0",
+  "file": "EXE",
+  "off": 277472,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Silk Dress",
+  "kind": "item_name",
+  "src": "55505530e21d"
+ },
+ {
+  "id": "EXE_043bf4",
+  "file": "EXE",
+  "off": 277492,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A glittering silk dress",
+  "kind": "item_help",
+  "src": "649aa5ab84f7"
+ },
+ {
+  "id": "EXE_043c2c",
+  "file": "EXE",
+  "off": 277548,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Tsumugi Furisode",
+  "kind": "item_name",
+  "src": "e5fde4fe3f40"
+ },
+ {
+  "id": "EXE_043c40",
+  "file": "EXE",
+  "off": 277568,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A furisode of spun silk",
+  "kind": "item_help",
+  "src": "1daac6536dfa"
+ },
+ {
+  "id": "EXE_043c78",
+  "file": "EXE",
+  "off": 277624,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Carbon Coat",
+  "kind": "item_name",
+  "src": "cb2d0d74befd"
+ },
+ {
+  "id": "EXE_043c8c",
+  "file": "EXE",
+  "off": 277644,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A coat exclusive to FD-3S",
+  "kind": "item_help",
+  "src": "3fbd7026c476"
+ },
+ {
+  "id": "EXE_043cc4",
+  "file": "EXE",
+  "off": 277700,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Carbon Coat S",
+  "kind": "item_name",
+  "src": "db09f4469a57"
+ },
+ {
+  "id": "EXE_043cd8",
+  "file": "EXE",
+  "off": 277720,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Long coat exclusive to FD-3S",
+  "kind": "item_help",
+  "src": "7542335dee9c"
+ },
+ {
+  "id": "EXE_043d10",
+  "file": "EXE",
+  "off": 277776,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Worn-Out Suit",
+  "kind": "item_name",
+  "src": "058c45250f8a"
+ },
+ {
+  "id": "EXE_043d24",
+  "file": "EXE",
+  "off": 277796,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A suit worn to tatters",
+  "kind": "item_help",
+  "src": "392d380eb2d9"
+ },
+ {
+  "id": "EXE_043d5c",
+  "file": "EXE",
+  "off": 277852,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Tao Robe",
+  "kind": "item_name",
+  "src": "8c35474ac21f"
+ },
+ {
+  "id": "EXE_043d70",
+  "file": "EXE",
+  "off": 277872,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ancient robe worn by Taoists",
+  "kind": "item_help",
+  "src": "bbb00d3776af"
+ },
+ {
+  "id": "EXE_043da8",
+  "file": "EXE",
+  "off": 277928,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "White Uniform",
+  "kind": "item_name",
+  "src": "c557e3852818"
+ },
+ {
+  "id": "EXE_043dbc",
+  "file": "EXE",
+  "off": 277948,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A nurse's uniform",
+  "kind": "item_help",
+  "src": "e9899a3fdb75"
+ },
+ {
+  "id": "EXE_043df4",
+  "file": "EXE",
+  "off": 278004,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Phantom Robe",
+  "kind": "item_name",
+  "src": "3407f69e4a07"
+ },
+ {
+  "id": "EXE_043e08",
+  "file": "EXE",
+  "off": 278024,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Erases the wearer's shadow",
+  "kind": "item_help",
+  "src": "287105320545"
+ },
+ {
+  "id": "EXE_043e40",
+  "file": "EXE",
+  "off": 278080,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Saint's Robe",
+  "kind": "item_name",
+  "src": "841441aabfc6"
+ },
+ {
+  "id": "EXE_043e54",
+  "file": "EXE",
+  "off": 278100,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A robe sealed with holy power",
+  "kind": "item_help",
+  "src": "fba2765fd73a"
+ },
+ {
+  "id": "EXE_043e8c",
+  "file": "EXE",
+  "off": 278156,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Herb",
+  "kind": "item_name",
+  "src": "5d65803d90d0"
+ },
+ {
+  "id": "EXE_043ea0",
+  "file": "EXE",
+  "off": 278176,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores a little HP",
+  "kind": "item_help",
+  "src": "a1c3765c8cd7"
+ },
+ {
+  "id": "EXE_043ed8",
+  "file": "EXE",
+  "off": 278232,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Compound Remedy",
+  "kind": "item_name",
+  "src": "ef38b9025de1"
+ },
+ {
+  "id": "EXE_043eec",
+  "file": "EXE",
+  "off": 278252,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores a fair amount of HP",
+  "kind": "item_help",
+  "src": "5a4fa3190331"
+ },
+ {
+  "id": "EXE_043f24",
+  "file": "EXE",
+  "off": 278308,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heal Sealstone",
+  "kind": "item_name",
+  "src": "fa6e04953083"
+ },
+ {
+  "id": "EXE_043f38",
+  "file": "EXE",
+  "off": 278328,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Fully restores HP",
+  "kind": "item_help",
+  "src": "981874c9588f"
+ },
+ {
+  "id": "EXE_043f70",
+  "file": "EXE",
+  "off": 278384,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Flame Sealstone",
+  "kind": "item_name",
+  "src": "deb0e44e78c0"
+ },
+ {
+  "id": "EXE_043f84",
+  "file": "EXE",
+  "off": 278404,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Fire Storm sealed in a stone",
+  "kind": "item_help",
+  "src": "ebf392882691"
+ },
+ {
+  "id": "EXE_043fbc",
+  "file": "EXE",
+  "off": 278460,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Shock Sealstone",
+  "kind": "item_name",
+  "src": "924942ac5d4a"
+ },
+ {
+  "id": "EXE_043fd0",
+  "file": "EXE",
+  "off": 278480,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Thunder Storm sealed in stone",
+  "kind": "item_help",
+  "src": "cf2625de4115"
+ },
+ {
+  "id": "EXE_044008",
+  "file": "EXE",
+  "off": 278536,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Icicle Sealstone",
+  "kind": "item_name",
+  "src": "2edee25f6b76"
+ },
+ {
+  "id": "EXE_04401c",
+  "file": "EXE",
+  "off": 278556,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ice power: paralysis + damage",
+  "kind": "item_help",
+  "src": "e018d43b80c1"
+ },
+ {
+  "id": "EXE_044054",
+  "file": "EXE",
+  "off": 278612,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Warp Sealstone",
+  "kind": "item_name",
+  "src": "6ef7b3c8bf86"
+ },
+ {
+  "id": "EXE_044068",
+  "file": "EXE",
+  "off": 278632,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Warp magic sealed in a stone",
+  "kind": "item_help",
+  "src": "22679d9723a1"
+ },
+ {
+  "id": "EXE_0440a0",
+  "file": "EXE",
+  "off": 278688,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Purifying Incense",
+  "kind": "item_name",
+  "src": "370f1de50f7f"
+ },
+ {
+  "id": "EXE_0440b4",
+  "file": "EXE",
+  "off": 278708,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Cures bad status",
+  "kind": "item_help",
+  "src": "7ea2bd71a481"
+ },
+ {
+  "id": "EXE_0440ec",
+  "file": "EXE",
+  "off": 278764,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Antidote",
+  "kind": "item_name",
+  "src": "a7e0b2428603"
+ },
+ {
+  "id": "EXE_044100",
+  "file": "EXE",
+  "off": 278784,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Cures poison",
+  "kind": "item_help",
+  "src": "e11f1dede3fd"
+ },
+ {
+  "id": "EXE_044138",
+  "file": "EXE",
+  "off": 278840,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Cure-All Sealstone",
+  "kind": "item_name",
+  "src": "92bf8c60e6b0"
+ },
+ {
+  "id": "EXE_04414c",
+  "file": "EXE",
+  "off": 278860,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores HP of all allies",
+  "kind": "item_help",
+  "src": "7accbf4035c2"
+ },
+ {
+  "id": "EXE_044184",
+  "file": "EXE",
+  "off": 278916,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Void Repairer",
+  "kind": "item_name",
+  "src": "ea15f022abd8"
+ },
+ {
+  "id": "EXE_044198",
+  "file": "EXE",
+  "off": 278936,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Rebuilds self-destructed Voids",
+  "kind": "item_help",
+  "src": "cff2bdfd7efe"
+ },
+ {
+  "id": "EXE_0441d0",
+  "file": "EXE",
+  "off": 278992,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Barrier Sealstone",
+  "kind": "item_name",
+  "src": "6126f37f1efa"
+ },
+ {
+  "id": "EXE_0441e4",
+  "file": "EXE",
+  "off": 279012,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises DF temporarily",
+  "kind": "item_help",
+  "src": "b69d67c23e82"
+ },
+ {
+  "id": "EXE_04421c",
+  "file": "EXE",
+  "off": 279068,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Revival Talisman",
+  "kind": "item_name",
+  "src": "7644ab21266c"
+ },
+ {
+  "id": "EXE_044230",
+  "file": "EXE",
+  "off": 279088,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Revives holder on the spot",
+  "kind": "item_help",
+  "src": "50ce139a6191"
+ },
+ {
+  "id": "EXE_044268",
+  "file": "EXE",
+  "off": 279144,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sands of Time",
+  "kind": "item_name",
+  "src": "e3462ae99999"
+ },
+ {
+  "id": "EXE_04427c",
+  "file": "EXE",
+  "off": 279164,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Stops time for all but user",
+  "kind": "item_help",
+  "src": "2c12f31ed206"
+ },
+ {
+  "id": "EXE_0442b4",
+  "file": "EXE",
+  "off": 279220,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Haste Sealstone",
+  "kind": "item_name",
+  "src": "9f06e22508ad"
+ },
+ {
+  "id": "EXE_0442c8",
+  "file": "EXE",
+  "off": 279240,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises AS and MS",
+  "kind": "item_help",
+  "src": "356e6d310776"
+ },
+ {
+  "id": "EXE_044300",
+  "file": "EXE",
+  "off": 279296,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Wild God Sealstone",
+  "kind": "item_name",
+  "src": "b0aaabc3570d"
+ },
+ {
+  "id": "EXE_044314",
+  "file": "EXE",
+  "off": 279316,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises attack power",
+  "kind": "item_help",
+  "src": "469879239afb"
+ },
+ {
+  "id": "EXE_04434c",
+  "file": "EXE",
+  "off": 279372,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steroid Power",
+  "kind": "item_name",
+  "src": "8a489808bc4c"
+ },
+ {
+  "id": "EXE_044360",
+  "file": "EXE",
+  "off": 279392,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises attack. But...!?",
+  "kind": "item_help",
+  "src": "09dc1fc12eca"
+ },
+ {
+  "id": "EXE_044398",
+  "file": "EXE",
+  "off": 279448,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steroid Speed",
+  "kind": "item_name",
+  "src": "48f4b00dd48e"
+ },
+ {
+  "id": "EXE_0443ac",
+  "file": "EXE",
+  "off": 279468,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises AS and MS. However...",
+  "kind": "item_help",
+  "src": "091b31cb105c"
+ },
+ {
+  "id": "EXE_0443e4",
+  "file": "EXE",
+  "off": 279524,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steroid Guard",
+  "kind": "item_name",
+  "src": "3a8644fef1c1"
+ },
+ {
+  "id": "EXE_0443f8",
+  "file": "EXE",
+  "off": 279544,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises defense, but...",
+  "kind": "item_help",
+  "src": "9f9481a76b2c"
+ },
+ {
+  "id": "EXE_044430",
+  "file": "EXE",
+  "off": 279600,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mana Nut",
+  "kind": "item_name",
+  "src": "eb9426500585"
+ },
+ {
+  "id": "EXE_044444",
+  "file": "EXE",
+  "off": 279620,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores a little SP",
+  "kind": "item_help",
+  "src": "3f80175beb2d"
+ },
+ {
+  "id": "EXE_04447c",
+  "file": "EXE",
+  "off": 279676,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mana Extract",
+  "kind": "item_name",
+  "src": "6bebdc95ddbd"
+ },
+ {
+  "id": "EXE_044490",
+  "file": "EXE",
+  "off": 279696,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores a fair amount of SP",
+  "kind": "item_help",
+  "src": "e64d299c719b"
+ },
+ {
+  "id": "EXE_0444c8",
+  "file": "EXE",
+  "off": 279752,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magnetic Shield",
+  "kind": "item_name",
+  "src": "336fa4c1c8ed"
+ },
+ {
+  "id": "EXE_0444dc",
+  "file": "EXE",
+  "off": 279772,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Halves damage from guns",
+  "kind": "item_help",
+  "src": "d331fb383d46"
+ },
+ {
+  "id": "EXE_044514",
+  "file": "EXE",
+  "off": 279828,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Hang-Up",
+  "kind": "item_name",
+  "src": "01c029159377"
+ },
+ {
+  "id": "EXE_044528",
+  "file": "EXE",
+  "off": 279848,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Lethal damage to all Voids",
+  "kind": "item_help",
+  "src": "c7687d445f1b"
+ },
+ {
+  "id": "EXE_044560",
+  "file": "EXE",
+  "off": 279904,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Power",
+  "kind": "item_name",
+  "src": "60fde210c77d"
+ },
+ {
+  "id": "EXE_044574",
+  "file": "EXE",
+  "off": 279924,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "AT +1. Use at camp",
+  "kind": "item_help",
+  "src": "37363010cbc9"
+ },
+ {
+  "id": "EXE_0445ac",
+  "file": "EXE",
+  "off": 279980,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Defense",
+  "kind": "item_name",
+  "src": "e0cbb87c702a"
+ },
+ {
+  "id": "EXE_0445c0",
+  "file": "EXE",
+  "off": 280000,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "DF +1. Use at camp",
+  "kind": "item_help",
+  "src": "baa7019589fe"
+ },
+ {
+  "id": "EXE_0445f8",
+  "file": "EXE",
+  "off": 280056,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Magic",
+  "kind": "item_name",
+  "src": "fb16c9f16301"
+ },
+ {
+  "id": "EXE_04460c",
+  "file": "EXE",
+  "off": 280076,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "MG +1. Use at camp",
+  "kind": "item_help",
+  "src": "570d5d7fd4ce"
+ },
+ {
+  "id": "EXE_044644",
+  "file": "EXE",
+  "off": 280132,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Dexterity",
+  "kind": "item_name",
+  "src": "3c8fa2d75ae2"
+ },
+ {
+  "id": "EXE_044658",
+  "file": "EXE",
+  "off": 280152,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "DX +1. Use at camp",
+  "kind": "item_help",
+  "src": "a2e524fbd245"
+ },
+ {
+  "id": "EXE_044690",
+  "file": "EXE",
+  "off": 280208,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Life",
+  "kind": "item_name",
+  "src": "45335c573f74"
+ },
+ {
+  "id": "EXE_0446a4",
+  "file": "EXE",
+  "off": 280228,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "HP +5. Use at camp",
+  "kind": "item_help",
+  "src": "58a1cf5e6cf4"
+ },
+ {
+  "id": "EXE_0446dc",
+  "file": "EXE",
+  "off": 280284,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Spirit",
+  "kind": "item_name",
+  "src": "89e6459ade5b"
+ },
+ {
+  "id": "EXE_0446f0",
+  "file": "EXE",
+  "off": 280304,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "SP +10. Use at camp",
+  "kind": "item_help",
+  "src": "387b95241f41"
+ },
+ {
+  "id": "EXE_044728",
+  "file": "EXE",
+  "off": 280360,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Movement",
+  "kind": "item_name",
+  "src": "0eeed48e29bd"
+ },
+ {
+  "id": "EXE_04473c",
+  "file": "EXE",
+  "off": 280380,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "MS +1. Use at camp",
+  "kind": "item_help",
+  "src": "5417291b1b1b"
+ },
+ {
+  "id": "EXE_044774",
+  "file": "EXE",
+  "off": 280436,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Source of Speed",
+  "kind": "item_name",
+  "src": "0179bb6c3f02"
+ },
+ {
+  "id": "EXE_044788",
+  "file": "EXE",
+  "off": 280456,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "AS +1. Use at camp",
+  "kind": "item_help",
+  "src": "85beca033f64"
+ },
+ {
+  "id": "EXE_0447c0",
+  "file": "EXE",
+  "off": 280512,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Item 3",
+  "kind": "item_name",
+  "src": "4cd05b8d21f9"
+ },
+ {
+  "id": "EXE_0447d4",
+  "file": "EXE",
+  "off": 280532,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Item 3 help",
+  "kind": "item_help",
+  "src": "ddd56cb5a281"
+ },
+ {
+  "id": "EXE_04480c",
+  "file": "EXE",
+  "off": 280588,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Item 4",
+  "kind": "item_name",
+  "src": "30d4e02dfe7a"
+ },
+ {
+  "id": "EXE_044820",
+  "file": "EXE",
+  "off": 280608,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Item 4 help",
+  "kind": "item_help",
+  "src": "02caf9f5ae48"
+ },
+ {
+  "id": "EXE_044858",
+  "file": "EXE",
+  "off": 280664,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Item 5",
+  "kind": "item_name",
+  "src": "85cb03b086cf"
+ },
+ {
+  "id": "EXE_04486c",
+  "file": "EXE",
+  "off": 280684,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Item 5 help",
+  "kind": "item_help",
+  "src": "da50cd96f657"
+ },
+ {
+  "id": "EXE_0448a4",
+  "file": "EXE",
+  "off": 280740,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Item 6",
+  "kind": "item_name",
+  "src": "2dfbfdec72a9"
+ },
+ {
+  "id": "EXE_0448b8",
+  "file": "EXE",
+  "off": 280760,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Item 6 help",
+  "kind": "item_help",
+  "src": "19d927d0af77"
+ },
+ {
+  "id": "EXE_0448f0",
+  "file": "EXE",
+  "off": 280816,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Herbal Studies",
+  "kind": "item_name",
+  "src": "57643ffb25d8"
+ },
+ {
+  "id": "EXE_044904",
+  "file": "EXE",
+  "off": 280836,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores HP",
+  "kind": "item_help",
+  "src": "7598c267c789"
+ },
+ {
+  "id": "EXE_04493c",
+  "file": "EXE",
+  "off": 280892,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Pharmacopoeia",
+  "kind": "item_name",
+  "src": "710a59561f50"
+ },
+ {
+  "id": "EXE_044950",
+  "file": "EXE",
+  "off": 280912,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Cures bad status",
+  "kind": "item_help",
+  "src": "7620a900aaf9"
+ },
+ {
+  "id": "EXE_044988",
+  "file": "EXE",
+  "off": 280968,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fire Picture Book",
+  "kind": "item_name",
+  "src": "a0235689c027"
+ },
+ {
+  "id": "EXE_04499c",
+  "file": "EXE",
+  "off": 280988,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Fire Storm effect when used",
+  "kind": "item_help",
+  "src": "147510ee0678"
+ },
+ {
+  "id": "EXE_0449d4",
+  "file": "EXE",
+  "off": 281044,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ice Picture Book",
+  "kind": "item_name",
+  "src": "ff6feef8401b"
+ },
+ {
+  "id": "EXE_0449e8",
+  "file": "EXE",
+  "off": 281064,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ice power: paralysis + damage",
+  "kind": "item_help",
+  "src": "e018d43b80c1"
+ },
+ {
+  "id": "EXE_044a20",
+  "file": "EXE",
+  "off": 281120,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Bodybuild Book",
+  "kind": "item_name",
+  "src": "fda372b27804"
+ },
+ {
+  "id": "EXE_044a34",
+  "file": "EXE",
+  "off": 281140,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises DF of 1 unit in range",
+  "kind": "item_help",
+  "src": "7eed8c85b98c"
+ },
+ {
+  "id": "EXE_044a6c",
+  "file": "EXE",
+  "off": 281196,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "God Hand Memoir",
+  "kind": "item_name",
+  "src": "685a38c81254"
+ },
+ {
+  "id": "EXE_044a80",
+  "file": "EXE",
+  "off": 281216,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises AT of 1 adjacent unit",
+  "kind": "item_help",
+  "src": "712d1971bf5f"
+ },
+ {
+  "id": "EXE_044ab8",
+  "file": "EXE",
+  "off": 281272,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ultra Relativity 1",
+  "kind": "item_name",
+  "src": "2421f6679058"
+ },
+ {
+  "id": "EXE_044acc",
+  "file": "EXE",
+  "off": 281292,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "AS/MS down, 1 adjacent unit",
+  "kind": "item_help",
+  "src": "cbac01d620b9"
+ },
+ {
+  "id": "EXE_044b04",
+  "file": "EXE",
+  "off": 281348,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ultra Relativity 2",
+  "kind": "item_name",
+  "src": "0a1abe363dfa"
+ },
+ {
+  "id": "EXE_044b18",
+  "file": "EXE",
+  "off": 281368,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Speeds up 1 adjacent unit",
+  "kind": "item_help",
+  "src": "a148fa9e66e2"
+ },
+ {
+  "id": "EXE_044b50",
+  "file": "EXE",
+  "off": 281424,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Void Manual",
+  "kind": "item_name",
+  "src": "0770c9fa07b4"
+ },
+ {
+  "id": "EXE_044b64",
+  "file": "EXE",
+  "off": 281444,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises DF of all user's Voids",
+  "kind": "item_help",
+  "src": "3f1324ae9bea"
+ },
+ {
+  "id": "EXE_044b9c",
+  "file": "EXE",
+  "off": 281500,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "New Void Manual",
+  "kind": "item_name",
+  "src": "86abd6c58a6c"
+ },
+ {
+  "id": "EXE_044bb0",
+  "file": "EXE",
+  "off": 281520,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Raises AT of all user's Voids",
+  "kind": "item_help",
+  "src": "73474723e489"
+ },
+ {
+  "id": "EXE_044be8",
+  "file": "EXE",
+  "off": 281576,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "True Void Manual",
+  "kind": "item_name",
+  "src": "3da197c66dbf"
+ },
+ {
+  "id": "EXE_044bfc",
+  "file": "EXE",
+  "off": 281596,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "AS/MS up for all user's Voids",
+  "kind": "item_help",
+  "src": "8943284de7ce"
+ },
+ {
+  "id": "EXE_044c34",
+  "file": "EXE",
+  "off": 281652,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fighter A",
+  "kind": "item_name",
+  "src": "2381684fea99"
+ },
+ {
+  "id": "EXE_044c48",
+  "file": "EXE",
+  "off": 281672,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal Void head, mass-prod.",
+  "kind": "item_help",
+  "src": "6c77261d0df2"
+ },
+ {
+  "id": "EXE_044c80",
+  "file": "EXE",
+  "off": 281728,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fighter B",
+  "kind": "item_name",
+  "src": "480a0ab6556f"
+ },
+ {
+  "id": "EXE_044c94",
+  "file": "EXE",
+  "off": 281748,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal Void head, custom-made",
+  "kind": "item_help",
+  "src": "8e216b071ba7"
+ },
+ {
+  "id": "EXE_044ccc",
+  "file": "EXE",
+  "off": 281804,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Soldier A",
+  "kind": "item_name",
+  "src": "a99142eb95ee"
+ },
+ {
+  "id": "EXE_044ce0",
+  "file": "EXE",
+  "off": 281824,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Attack Void head, mass-prod.",
+  "kind": "item_help",
+  "src": "0edb0c03e85b"
+ },
+ {
+  "id": "EXE_044d18",
+  "file": "EXE",
+  "off": 281880,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Soldier B",
+  "kind": "item_name",
+  "src": "80246de1c3c3"
+ },
+ {
+  "id": "EXE_044d2c",
+  "file": "EXE",
+  "off": 281900,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Attack Void head, custom",
+  "kind": "item_help",
+  "src": "b18e9f9513e7"
+ },
+ {
+  "id": "EXE_044d64",
+  "file": "EXE",
+  "off": 281956,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Soldier S",
+  "kind": "item_name",
+  "src": "3f7bd6ef34a7"
+ },
+ {
+  "id": "EXE_044d78",
+  "file": "EXE",
+  "off": 281976,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Balance-focused Void head",
+  "kind": "item_help",
+  "src": "008436f5f6f0"
+ },
+ {
+  "id": "EXE_044db0",
+  "file": "EXE",
+  "off": 282032,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gladiator A",
+  "kind": "item_name",
+  "src": "1f8f3b434147"
+ },
+ {
+  "id": "EXE_044dc4",
+  "file": "EXE",
+  "off": 282052,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Frontline head, mass-produced",
+  "kind": "item_help",
+  "src": "9b56825d5d7b"
+ },
+ {
+  "id": "EXE_044dfc",
+  "file": "EXE",
+  "off": 282108,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gladiator B",
+  "kind": "item_name",
+  "src": "5deedaa20164"
+ },
+ {
+  "id": "EXE_044e10",
+  "file": "EXE",
+  "off": 282128,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Frontline head, custom-made",
+  "kind": "item_help",
+  "src": "23ffc6b4f0e3"
+ },
+ {
+  "id": "EXE_044e48",
+  "file": "EXE",
+  "off": 282184,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gladiator Sp",
+  "kind": "item_name",
+  "src": "b03e683072e7"
+ },
+ {
+  "id": "EXE_044e5c",
+  "file": "EXE",
+  "off": 282204,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Frontline head, special spec",
+  "kind": "item_help",
+  "src": "4cd1d3b80d68"
+ },
+ {
+  "id": "EXE_044e94",
+  "file": "EXE",
+  "off": 282260,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Round Head 1",
+  "kind": "item_name",
+  "src": "6a5a8d375020"
+ },
+ {
+  "id": "EXE_044ea8",
+  "file": "EXE",
+  "off": 282280,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Rnd Head 1 help",
+  "kind": "item_help",
+  "src": "ba4488bcd5c9"
+ },
+ {
+  "id": "EXE_044ee0",
+  "file": "EXE",
+  "off": 282336,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Round Head 2",
+  "kind": "item_name",
+  "src": "8ab70cd9fd46"
+ },
+ {
+  "id": "EXE_044ef4",
+  "file": "EXE",
+  "off": 282356,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Rnd Head 2 help",
+  "kind": "item_help",
+  "src": "091176247875"
+ },
+ {
+  "id": "EXE_044f2c",
+  "file": "EXE",
+  "off": 282412,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Defender A",
+  "kind": "item_name",
+  "src": "9864f66c8a93"
+ },
+ {
+  "id": "EXE_044f40",
+  "file": "EXE",
+  "off": 282432,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Defense Void head, mass-prod.",
+  "kind": "item_help",
+  "src": "8d412bfdbda7"
+ },
+ {
+  "id": "EXE_044f78",
+  "file": "EXE",
+  "off": 282488,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Defender B",
+  "kind": "item_name",
+  "src": "f478f8d5bd12"
+ },
+ {
+  "id": "EXE_044f8c",
+  "file": "EXE",
+  "off": 282508,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Defense Void head, to order",
+  "kind": "item_help",
+  "src": "9dfe97f5ac49"
+ },
+ {
+  "id": "EXE_044fc4",
+  "file": "EXE",
+  "off": 282564,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Defender S",
+  "kind": "item_name",
+  "src": "c337a6f4a252"
+ },
+ {
+  "id": "EXE_044fd8",
+  "file": "EXE",
+  "off": 282584,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Custom-spec defense head",
+  "kind": "item_help",
+  "src": "5e57dcb720ed"
+ },
+ {
+  "id": "EXE_045010",
+  "file": "EXE",
+  "off": 282640,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Interceptor A",
+  "kind": "item_name",
+  "src": "58f40da83f7c"
+ },
+ {
+  "id": "EXE_045024",
+  "file": "EXE",
+  "off": 282660,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Intercept head, mass-produced",
+  "kind": "item_help",
+  "src": "d7331a74876a"
+ },
+ {
+  "id": "EXE_04505c",
+  "file": "EXE",
+  "off": 282716,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Interceptor B",
+  "kind": "item_name",
+  "src": "9a465be120a7"
+ },
+ {
+  "id": "EXE_045070",
+  "file": "EXE",
+  "off": 282736,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Intercept Void head, to order",
+  "kind": "item_help",
+  "src": "4f00c469f815"
+ },
+ {
+  "id": "EXE_0450a8",
+  "file": "EXE",
+  "off": 282792,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Interceptor Sp",
+  "kind": "item_name",
+  "src": "02890add6386"
+ },
+ {
+  "id": "EXE_0450bc",
+  "file": "EXE",
+  "off": 282812,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Intercept head, special spec",
+  "kind": "item_help",
+  "src": "744b2dc3a96c"
+ },
+ {
+  "id": "EXE_0450f4",
+  "file": "EXE",
+  "off": 282868,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Guardian",
+  "kind": "item_name",
+  "src": "3429c862e479"
+ },
+ {
+  "id": "EXE_045108",
+  "file": "EXE",
+  "off": 282888,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Special head guarding master",
+  "kind": "item_help",
+  "src": "4e2b64d76123"
+ },
+ {
+  "id": "EXE_045140",
+  "file": "EXE",
+  "off": 282944,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Head 1",
+  "kind": "item_name",
+  "src": "739e3fc6a374"
+ },
+ {
+  "id": "EXE_045154",
+  "file": "EXE",
+  "off": 282964,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Head 1 help",
+  "kind": "item_help",
+  "src": "7059d1ebe895"
+ },
+ {
+  "id": "EXE_04518c",
+  "file": "EXE",
+  "off": 283020,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Head 2",
+  "kind": "item_name",
+  "src": "fd858a05ba63"
+ },
+ {
+  "id": "EXE_0451a0",
+  "file": "EXE",
+  "off": 283040,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Head 2 help",
+  "kind": "item_help",
+  "src": "8dd292c3b1ce"
+ },
+ {
+  "id": "EXE_0451d8",
+  "file": "EXE",
+  "off": 283096,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Head 3",
+  "kind": "item_name",
+  "src": "51f11d43dbca"
+ },
+ {
+  "id": "EXE_0451ec",
+  "file": "EXE",
+  "off": 283116,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Head 3 help",
+  "kind": "item_help",
+  "src": "f9c4a0c99d2b"
+ },
+ {
+  "id": "EXE_045224",
+  "file": "EXE",
+  "off": 283172,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Caster A",
+  "kind": "item_name",
+  "src": "cd7f5223589e"
+ },
+ {
+  "id": "EXE_045238",
+  "file": "EXE",
+  "off": 283192,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic Void head, mass-produced",
+  "kind": "item_help",
+  "src": "b8138f5682de"
+ },
+ {
+  "id": "EXE_045270",
+  "file": "EXE",
+  "off": 283248,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Caster B",
+  "kind": "item_name",
+  "src": "17dd5b8774cc"
+ },
+ {
+  "id": "EXE_045284",
+  "file": "EXE",
+  "off": 283268,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-focus custom-spec head",
+  "kind": "item_help",
+  "src": "d44988fd45e1"
+ },
+ {
+  "id": "EXE_0452bc",
+  "file": "EXE",
+  "off": 283324,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sorcerer A",
+  "kind": "item_name",
+  "src": "637a7deae954"
+ },
+ {
+  "id": "EXE_0452d0",
+  "file": "EXE",
+  "off": 283344,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic type; Void ore: Copper",
+  "kind": "item_help",
+  "src": "a1cbccbeff38"
+ },
+ {
+  "id": "EXE_045308",
+  "file": "EXE",
+  "off": 283400,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sorcerer B",
+  "kind": "item_name",
+  "src": "36486d063fb0"
+ },
+ {
+  "id": "EXE_04531c",
+  "file": "EXE",
+  "off": 283420,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic type; Void ore: Polar",
+  "kind": "item_help",
+  "src": "f7864075d423"
+ },
+ {
+  "id": "EXE_045354",
+  "file": "EXE",
+  "off": 283476,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sorcerer Sp",
+  "kind": "item_name",
+  "src": "70bd90c687d2"
+ },
+ {
+  "id": "EXE_045368",
+  "file": "EXE",
+  "off": 283496,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic type; Void ore: Agnas",
+  "kind": "item_help",
+  "src": "8fa39d576ad4"
+ },
+ {
+  "id": "EXE_0453a0",
+  "file": "EXE",
+  "off": 283552,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Wizard",
+  "kind": "item_name",
+  "src": "c8bb09f2f71b"
+ },
+ {
+  "id": "EXE_0453b4",
+  "file": "EXE",
+  "off": 283572,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-type rune-spec Void head",
+  "kind": "item_help",
+  "src": "8cbf891d743d"
+ },
+ {
+  "id": "EXE_0453ec",
+  "file": "EXE",
+  "off": 283628,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Warlock",
+  "kind": "item_name",
+  "src": "6768018c097f"
+ },
+ {
+  "id": "EXE_045400",
+  "file": "EXE",
+  "off": 283648,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic type; Void ore: Luna",
+  "kind": "item_help",
+  "src": "4692c78a4f75"
+ },
+ {
+  "id": "EXE_045438",
+  "file": "EXE",
+  "off": 283704,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 1",
+  "kind": "item_name",
+  "src": "31fecc9f239d"
+ },
+ {
+  "id": "EXE_04544c",
+  "file": "EXE",
+  "off": 283724,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 1 help",
+  "kind": "item_help",
+  "src": "ab42133495fc"
+ },
+ {
+  "id": "EXE_045484",
+  "file": "EXE",
+  "off": 283780,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 2",
+  "kind": "item_name",
+  "src": "fdecf621bac8"
+ },
+ {
+  "id": "EXE_045498",
+  "file": "EXE",
+  "off": 283800,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 2 help",
+  "kind": "item_help",
+  "src": "2fab38fdceeb"
+ },
+ {
+  "id": "EXE_0454d0",
+  "file": "EXE",
+  "off": 283856,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 3",
+  "kind": "item_name",
+  "src": "b8130794277e"
+ },
+ {
+  "id": "EXE_0454e4",
+  "file": "EXE",
+  "off": 283876,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Head 3 help",
+  "kind": "item_help",
+  "src": "95c28b46b686"
+ },
+ {
+  "id": "EXE_04551c",
+  "file": "EXE",
+  "off": 283932,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 01",
+  "kind": "item_name",
+  "src": "3455854d9e43"
+ },
+ {
+  "id": "EXE_045530",
+  "file": "EXE",
+  "off": 283952,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mass-produced body",
+  "kind": "item_help",
+  "src": "e762584f0139"
+ },
+ {
+  "id": "EXE_045568",
+  "file": "EXE",
+  "off": 284008,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 01 Mod",
+  "kind": "item_name",
+  "src": "ac1c47a693bf"
+ },
+ {
+  "id": "EXE_04557c",
+  "file": "EXE",
+  "off": 284028,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mass-produced body, modified",
+  "kind": "item_help",
+  "src": "f8e510ab5951"
+ },
+ {
+  "id": "EXE_0455b4",
+  "file": "EXE",
+  "off": 284084,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 02",
+  "kind": "item_name",
+  "src": "366b5e25818d"
+ },
+ {
+  "id": "EXE_0455c8",
+  "file": "EXE",
+  "off": 284104,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Top low-end body",
+  "kind": "item_help",
+  "src": "53975cf1430a"
+ },
+ {
+  "id": "EXE_045600",
+  "file": "EXE",
+  "off": 284160,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 03",
+  "kind": "item_name",
+  "src": "83421b5fa0ee"
+ },
+ {
+  "id": "EXE_045614",
+  "file": "EXE",
+  "off": 284180,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mid-end body",
+  "kind": "item_help",
+  "src": "1fe56d024ab0"
+ },
+ {
+  "id": "EXE_04564c",
+  "file": "EXE",
+  "off": 284236,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 03C",
+  "kind": "item_name",
+  "src": "1d2f2a0b3eaf"
+ },
+ {
+  "id": "EXE_045660",
+  "file": "EXE",
+  "off": 284256,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mid-end body, reinforced type",
+  "kind": "item_help",
+  "src": "65f7db3db3ef"
+ },
+ {
+  "id": "EXE_045698",
+  "file": "EXE",
+  "off": 284312,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 05",
+  "kind": "item_name",
+  "src": "2c4645a753be"
+ },
+ {
+  "id": "EXE_0456ac",
+  "file": "EXE",
+  "off": 284332,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Mid-end high-spec body",
+  "kind": "item_help",
+  "src": "367b6b8b3d46"
+ },
+ {
+  "id": "EXE_0456e4",
+  "file": "EXE",
+  "off": 284388,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 06",
+  "kind": "item_name",
+  "src": "4d017119560a"
+ },
+ {
+  "id": "EXE_0456f8",
+  "file": "EXE",
+  "off": 284408,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "High-end body",
+  "kind": "item_help",
+  "src": "41dc8faf52c9"
+ },
+ {
+  "id": "EXE_045730",
+  "file": "EXE",
+  "off": 284464,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Body 09",
+  "kind": "item_name",
+  "src": "2c350fb92306"
+ },
+ {
+  "id": "EXE_045744",
+  "file": "EXE",
+  "off": 284484,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "High-end special body",
+  "kind": "item_help",
+  "src": "7be392c02c0c"
+ },
+ {
+  "id": "EXE_04577c",
+  "file": "EXE",
+  "off": 284540,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Round Body 1",
+  "kind": "item_name",
+  "src": "e06aa393663a"
+ },
+ {
+  "id": "EXE_045790",
+  "file": "EXE",
+  "off": 284560,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Rnd Body 1 help",
+  "kind": "item_help",
+  "src": "b8ba6fc52a58"
+ },
+ {
+  "id": "EXE_0457c8",
+  "file": "EXE",
+  "off": 284616,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Round Body 2",
+  "kind": "item_name",
+  "src": "87dcfd689b2d"
+ },
+ {
+  "id": "EXE_0457dc",
+  "file": "EXE",
+  "off": 284636,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Rnd Body 2 help",
+  "kind": "item_help",
+  "src": "001010332811"
+ },
+ {
+  "id": "EXE_045814",
+  "file": "EXE",
+  "off": 284692,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 04",
+  "kind": "item_name",
+  "src": "03960a65b62a"
+ },
+ {
+  "id": "EXE_045828",
+  "file": "EXE",
+  "off": 284712,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Heavy-armor body, mass-prod.",
+  "kind": "item_help",
+  "src": "89a06628c497"
+ },
+ {
+  "id": "EXE_045860",
+  "file": "EXE",
+  "off": 284768,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 05",
+  "kind": "item_name",
+  "src": "457969e7c7ac"
+ },
+ {
+  "id": "EXE_045874",
+  "file": "EXE",
+  "off": 284788,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Heavy-armor body, custom-made",
+  "kind": "item_help",
+  "src": "c775b6e0e617"
+ },
+ {
+  "id": "EXE_0458ac",
+  "file": "EXE",
+  "off": 284844,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 06",
+  "kind": "item_name",
+  "src": "ccf9840c1a17"
+ },
+ {
+  "id": "EXE_0458c0",
+  "file": "EXE",
+  "off": 284864,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Heavy-armor body, improved",
+  "kind": "item_help",
+  "src": "3e9ff21dbcc7"
+ },
+ {
+  "id": "EXE_0458f8",
+  "file": "EXE",
+  "off": 284920,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 06C",
+  "kind": "item_name",
+  "src": "0d1b905cfbf8"
+ },
+ {
+  "id": "EXE_04590c",
+  "file": "EXE",
+  "off": 284940,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Reinforced improved armor body",
+  "kind": "item_help",
+  "src": "083383a29d39"
+ },
+ {
+  "id": "EXE_045944",
+  "file": "EXE",
+  "off": 284996,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 08",
+  "kind": "item_name",
+  "src": "52b9fa5f2655"
+ },
+ {
+  "id": "EXE_045958",
+  "file": "EXE",
+  "off": 285016,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Custom-spec heavy-armor body",
+  "kind": "item_help",
+  "src": "5ecad5003f0f"
+ },
+ {
+  "id": "EXE_045990",
+  "file": "EXE",
+  "off": 285072,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 10",
+  "kind": "item_name",
+  "src": "10ac48573e25"
+ },
+ {
+  "id": "EXE_0459a4",
+  "file": "EXE",
+  "off": 285092,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "High-end heavy-armor body",
+  "kind": "item_help",
+  "src": "9ad3f9724462"
+ },
+ {
+  "id": "EXE_0459dc",
+  "file": "EXE",
+  "off": 285148,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Body 11",
+  "kind": "item_name",
+  "src": "4eee7c8ea90c"
+ },
+ {
+  "id": "EXE_0459f0",
+  "file": "EXE",
+  "off": 285168,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Special-spec reinforced armor",
+  "kind": "item_help",
+  "src": "46992842e796"
+ },
+ {
+  "id": "EXE_045a28",
+  "file": "EXE",
+  "off": 285224,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Body 1",
+  "kind": "item_name",
+  "src": "54a03642e014"
+ },
+ {
+  "id": "EXE_045a3c",
+  "file": "EXE",
+  "off": 285244,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Body 1 help",
+  "kind": "item_help",
+  "src": "eb1849d0c8a6"
+ },
+ {
+  "id": "EXE_045a74",
+  "file": "EXE",
+  "off": 285300,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Body 2",
+  "kind": "item_name",
+  "src": "1b7b54604507"
+ },
+ {
+  "id": "EXE_045a88",
+  "file": "EXE",
+  "off": 285320,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Body 2 help",
+  "kind": "item_help",
+  "src": "2c780d66d9f1"
+ },
+ {
+  "id": "EXE_045ac0",
+  "file": "EXE",
+  "off": 285376,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Square Body 3",
+  "kind": "item_name",
+  "src": "67874cab2962"
+ },
+ {
+  "id": "EXE_045ad4",
+  "file": "EXE",
+  "off": 285396,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Sq. Body 3 help",
+  "kind": "item_help",
+  "src": "b2d24bb733e9"
+ },
+ {
+  "id": "EXE_045b0c",
+  "file": "EXE",
+  "off": 285452,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 00",
+  "kind": "item_name",
+  "src": "895f20c1923c"
+ },
+ {
+  "id": "EXE_045b20",
+  "file": "EXE",
+  "off": 285472,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-defense body, mass-prod.",
+  "kind": "item_help",
+  "src": "14a724948806"
+ },
+ {
+  "id": "EXE_045b58",
+  "file": "EXE",
+  "off": 285528,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 00SS",
+  "kind": "item_name",
+  "src": "2e18cbfa3a78"
+ },
+ {
+  "id": "EXE_045b6c",
+  "file": "EXE",
+  "off": 285548,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-defense body, custom",
+  "kind": "item_help",
+  "src": "c804c6607f26"
+ },
+ {
+  "id": "EXE_045ba4",
+  "file": "EXE",
+  "off": 285604,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 01",
+  "kind": "item_name",
+  "src": "db4483f08434"
+ },
+ {
+  "id": "EXE_045bb8",
+  "file": "EXE",
+  "off": 285624,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-armor body, standard",
+  "kind": "item_help",
+  "src": "a2c895a6744f"
+ },
+ {
+  "id": "EXE_045bf0",
+  "file": "EXE",
+  "off": 285680,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 02",
+  "kind": "item_name",
+  "src": "75f53a218b2e"
+ },
+ {
+  "id": "EXE_045c04",
+  "file": "EXE",
+  "off": 285700,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-armor mid-end body",
+  "kind": "item_help",
+  "src": "797d542c21b5"
+ },
+ {
+  "id": "EXE_045c3c",
+  "file": "EXE",
+  "off": 285756,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 04",
+  "kind": "item_name",
+  "src": "d86a068ad7c4"
+ },
+ {
+  "id": "EXE_045c50",
+  "file": "EXE",
+  "off": 285776,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-armor high-end body",
+  "kind": "item_help",
+  "src": "b218fa4aa5d7"
+ },
+ {
+  "id": "EXE_045c88",
+  "file": "EXE",
+  "off": 285832,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magic Body 06P",
+  "kind": "item_name",
+  "src": "43c6d98869d0"
+ },
+ {
+  "id": "EXE_045c9c",
+  "file": "EXE",
+  "off": 285852,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Magic-armor rune-spec body",
+  "kind": "item_help",
+  "src": "138e579b03c3"
+ },
+ {
+  "id": "EXE_045cd4",
+  "file": "EXE",
+  "off": 285908,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 1",
+  "kind": "item_name",
+  "src": "293823d0fc55"
+ },
+ {
+  "id": "EXE_045ce8",
+  "file": "EXE",
+  "off": 285928,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 1 help",
+  "kind": "item_help",
+  "src": "8c457a1d95c9"
+ },
+ {
+  "id": "EXE_045d20",
+  "file": "EXE",
+  "off": 285984,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 2",
+  "kind": "item_name",
+  "src": "37a6dca25076"
+ },
+ {
+  "id": "EXE_045d34",
+  "file": "EXE",
+  "off": 286004,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 2 help",
+  "kind": "item_help",
+  "src": "c59abf2a9de7"
+ },
+ {
+  "id": "EXE_045d6c",
+  "file": "EXE",
+  "off": 286060,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 3",
+  "kind": "item_name",
+  "src": "fb547ca9a070"
+ },
+ {
+  "id": "EXE_045d80",
+  "file": "EXE",
+  "off": 286080,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 3 help",
+  "kind": "item_help",
+  "src": "2f9852184e6b"
+ },
+ {
+  "id": "EXE_045db8",
+  "file": "EXE",
+  "off": 286136,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 4",
+  "kind": "item_name",
+  "src": "ddd13f0f18e7"
+ },
+ {
+  "id": "EXE_045dcc",
+  "file": "EXE",
+  "off": 286156,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Tri Body 4 help",
+  "kind": "item_help",
+  "src": "68814709534b"
+ },
+ {
+  "id": "EXE_045e04",
+  "file": "EXE",
+  "off": 286212,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Leg",
+  "kind": "item_name",
+  "src": "5059e9050239"
+ },
+ {
+  "id": "EXE_045e18",
+  "file": "EXE",
+  "off": 286232,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bipedal, mass-produced",
+  "kind": "item_help",
+  "src": "1a256fff6d5b"
+ },
+ {
+  "id": "EXE_045e50",
+  "file": "EXE",
+  "off": 286288,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Leg Mod",
+  "kind": "item_name",
+  "src": "bd69af335f8d"
+ },
+ {
+  "id": "EXE_045e64",
+  "file": "EXE",
+  "off": 286308,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bipedal, mass-prod., modified",
+  "kind": "item_help",
+  "src": "5566603bc030"
+ },
+ {
+  "id": "EXE_045e9c",
+  "file": "EXE",
+  "off": 286364,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Leg 01",
+  "kind": "item_name",
+  "src": "ebbbb65dddf7"
+ },
+ {
+  "id": "EXE_045eb0",
+  "file": "EXE",
+  "off": 286384,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bipedal, lightweight type",
+  "kind": "item_help",
+  "src": "67c82ea8fa8f"
+ },
+ {
+  "id": "EXE_045ee8",
+  "file": "EXE",
+  "off": 286440,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Leg 02",
+  "kind": "item_name",
+  "src": "ba46128dd774"
+ },
+ {
+  "id": "EXE_045efc",
+  "file": "EXE",
+  "off": 286460,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bipedal, light, custom-spec",
+  "kind": "item_help",
+  "src": "eb1f3b055780"
+ },
+ {
+  "id": "EXE_045f34",
+  "file": "EXE",
+  "off": 286516,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Special Leg",
+  "kind": "item_name",
+  "src": "d99187274854"
+ },
+ {
+  "id": "EXE_045f48",
+  "file": "EXE",
+  "off": 286536,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Bipedal, special spec",
+  "kind": "item_help",
+  "src": "12843137e368"
+ },
+ {
+  "id": "EXE_045f80",
+  "file": "EXE",
+  "off": 286592,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Biped 1",
+  "kind": "item_name",
+  "src": "18c5d91cd57f"
+ },
+ {
+  "id": "EXE_045f94",
+  "file": "EXE",
+  "off": 286612,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Biped 1 help",
+  "kind": "item_help",
+  "src": "76cb829a7318"
+ },
+ {
+  "id": "EXE_045fcc",
+  "file": "EXE",
+  "off": 286668,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Biped 2",
+  "kind": "item_name",
+  "src": "f67b54e1b584"
+ },
+ {
+  "id": "EXE_045fe0",
+  "file": "EXE",
+  "off": 286688,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Biped 2 help",
+  "kind": "item_help",
+  "src": "7f74e66de313"
+ },
+ {
+  "id": "EXE_046018",
+  "file": "EXE",
+  "off": 286744,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Biped 3",
+  "kind": "item_name",
+  "src": "53e9abe1caa1"
+ },
+ {
+  "id": "EXE_04602c",
+  "file": "EXE",
+  "off": 286764,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Biped 3 help",
+  "kind": "item_help",
+  "src": "4ae0077b79d9"
+ },
+ {
+  "id": "EXE_046064",
+  "file": "EXE",
+  "off": 286820,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Biped 4",
+  "kind": "item_name",
+  "src": "30fc1f937189"
+ },
+ {
+  "id": "EXE_046078",
+  "file": "EXE",
+  "off": 286840,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Biped 4 help",
+  "kind": "item_help",
+  "src": "dfe86422032b"
+ },
+ {
+  "id": "EXE_0460b0",
+  "file": "EXE",
+  "off": 286896,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Biped 5",
+  "kind": "item_name",
+  "src": "671cc555e592"
+ },
+ {
+  "id": "EXE_0460c4",
+  "file": "EXE",
+  "off": 286916,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Biped 5 help",
+  "kind": "item_help",
+  "src": "91e57202d84b"
+ },
+ {
+  "id": "EXE_0460fc",
+  "file": "EXE",
+  "off": 286972,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Wheel",
+  "kind": "item_name",
+  "src": "a4d87b372a34"
+ },
+ {
+  "id": "EXE_046110",
+  "file": "EXE",
+  "off": 286992,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void wheel, mass-produced",
+  "kind": "item_help",
+  "src": "abda5b5dee01"
+ },
+ {
+  "id": "EXE_046148",
+  "file": "EXE",
+  "off": 287048,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Wheel+",
+  "kind": "item_name",
+  "src": "6054022b03d9"
+ },
+ {
+  "id": "EXE_04615c",
+  "file": "EXE",
+  "off": 287068,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void wheel, custom-made",
+  "kind": "item_help",
+  "src": "1b2168eb9820"
+ },
+ {
+  "id": "EXE_046194",
+  "file": "EXE",
+  "off": 287124,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Wheel 01",
+  "kind": "item_name",
+  "src": "503d15f2ddc3"
+ },
+ {
+  "id": "EXE_0461a8",
+  "file": "EXE",
+  "off": 287144,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Speed-focused wheel",
+  "kind": "item_help",
+  "src": "391373a8b94e"
+ },
+ {
+  "id": "EXE_0461e0",
+  "file": "EXE",
+  "off": 287200,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Wheel 02",
+  "kind": "item_name",
+  "src": "d413be08c37c"
+ },
+ {
+  "id": "EXE_0461f4",
+  "file": "EXE",
+  "off": 287220,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Speed-focused, custom-spec",
+  "kind": "item_help",
+  "src": "b2e9c42cfcbd"
+ },
+ {
+  "id": "EXE_04622c",
+  "file": "EXE",
+  "off": 287276,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "FX Wheel",
+  "kind": "item_name",
+  "src": "520c7a07a21b"
+ },
+ {
+  "id": "EXE_046240",
+  "file": "EXE",
+  "off": 287296,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Wheel of reinforced ceramic",
+  "kind": "item_help",
+  "src": "d079a2a37bd4"
+ },
+ {
+  "id": "EXE_046278",
+  "file": "EXE",
+  "off": 287352,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 1",
+  "kind": "item_name",
+  "src": "805300327115"
+ },
+ {
+  "id": "EXE_04628c",
+  "file": "EXE",
+  "off": 287372,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 1 help",
+  "kind": "item_help",
+  "src": "d28521023f08"
+ },
+ {
+  "id": "EXE_0462c4",
+  "file": "EXE",
+  "off": 287428,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 2",
+  "kind": "item_name",
+  "src": "a4b796ba32e5"
+ },
+ {
+  "id": "EXE_0462d8",
+  "file": "EXE",
+  "off": 287448,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 2 help",
+  "kind": "item_help",
+  "src": "1306c0d28c1b"
+ },
+ {
+  "id": "EXE_046310",
+  "file": "EXE",
+  "off": 287504,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 3",
+  "kind": "item_name",
+  "src": "8cb5b489ee32"
+ },
+ {
+  "id": "EXE_046324",
+  "file": "EXE",
+  "off": 287524,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 3 help",
+  "kind": "item_help",
+  "src": "b35fccd105d0"
+ },
+ {
+  "id": "EXE_04635c",
+  "file": "EXE",
+  "off": 287580,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 4",
+  "kind": "item_name",
+  "src": "1236c61f7c06"
+ },
+ {
+  "id": "EXE_046370",
+  "file": "EXE",
+  "off": 287600,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 4 help",
+  "kind": "item_help",
+  "src": "edb0d0f2175c"
+ },
+ {
+  "id": "EXE_0463a8",
+  "file": "EXE",
+  "off": 287656,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 5",
+  "kind": "item_name",
+  "src": "94aa00f3c87a"
+ },
+ {
+  "id": "EXE_0463bc",
+  "file": "EXE",
+  "off": 287676,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wheel 5 help",
+  "kind": "item_help",
+  "src": "2c0a64b00353"
+ },
+ {
+  "id": "EXE_0463f4",
+  "file": "EXE",
+  "off": 287732,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Floater",
+  "kind": "item_name",
+  "src": "443b5421987c"
+ },
+ {
+  "id": "EXE_046408",
+  "file": "EXE",
+  "off": 287752,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void hover, mass-produced",
+  "kind": "item_help",
+  "src": "c34eb24bdd52"
+ },
+ {
+  "id": "EXE_046440",
+  "file": "EXE",
+  "off": 287808,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Normal Floater+",
+  "kind": "item_name",
+  "src": "2dc0ef12153f"
+ },
+ {
+  "id": "EXE_046454",
+  "file": "EXE",
+  "off": 287828,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void hover, limited edition",
+  "kind": "item_help",
+  "src": "529fa2c16876"
+ },
+ {
+  "id": "EXE_04648c",
+  "file": "EXE",
+  "off": 287884,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Floater 1",
+  "kind": "item_name",
+  "src": "cee6490b28d5"
+ },
+ {
+  "id": "EXE_0464a0",
+  "file": "EXE",
+  "off": 287904,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "All-range hover, mass-produced",
+  "kind": "item_help",
+  "src": "bbdc0a1a64e5"
+ },
+ {
+  "id": "EXE_0464d8",
+  "file": "EXE",
+  "off": 287960,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Speed Floater 2",
+  "kind": "item_name",
+  "src": "3afab313e10e"
+ },
+ {
+  "id": "EXE_0464ec",
+  "file": "EXE",
+  "off": 287980,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "All-range hover, custom-spec",
+  "kind": "item_help",
+  "src": "ae6091d04380"
+ },
+ {
+  "id": "EXE_046524",
+  "file": "EXE",
+  "off": 288036,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Power Floater",
+  "kind": "item_name",
+  "src": "20834d748c42"
+ },
+ {
+  "id": "EXE_046538",
+  "file": "EXE",
+  "off": 288056,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Hover with a boosted engine",
+  "kind": "item_help",
+  "src": "cb39130fafb8"
+ },
+ {
+  "id": "EXE_046570",
+  "file": "EXE",
+  "off": 288112,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Omega Floater",
+  "kind": "item_name",
+  "src": "f85c9bfb4ab5"
+ },
+ {
+  "id": "EXE_046584",
+  "file": "EXE",
+  "off": 288132,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Hover based on Magne Theory",
+  "kind": "item_help",
+  "src": "ecb9da66e5c0"
+ },
+ {
+  "id": "EXE_0465bc",
+  "file": "EXE",
+  "off": 288188,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Floater 1",
+  "kind": "item_name",
+  "src": "e84f5317202d"
+ },
+ {
+  "id": "EXE_0465d0",
+  "file": "EXE",
+  "off": 288208,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Floater 1 help",
+  "kind": "item_help",
+  "src": "fe6533d057e5"
+ },
+ {
+  "id": "EXE_046608",
+  "file": "EXE",
+  "off": 288264,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Floater 2",
+  "kind": "item_name",
+  "src": "db1c1122f9bb"
+ },
+ {
+  "id": "EXE_04661c",
+  "file": "EXE",
+  "off": 288284,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Floater 2 help",
+  "kind": "item_help",
+  "src": "203543041900"
+ },
+ {
+  "id": "EXE_046654",
+  "file": "EXE",
+  "off": 288340,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Floater 3",
+  "kind": "item_name",
+  "src": "bb9d564a6b96"
+ },
+ {
+  "id": "EXE_046668",
+  "file": "EXE",
+  "off": 288360,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Floater 3 help",
+  "kind": "item_help",
+  "src": "9a2cbfa84284"
+ },
+ {
+  "id": "EXE_0466a0",
+  "file": "EXE",
+  "off": 288416,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Floater 4",
+  "kind": "item_name",
+  "src": "9d2b084aa924"
+ },
+ {
+  "id": "EXE_0466b4",
+  "file": "EXE",
+  "off": 288436,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Floater 4 help",
+  "kind": "item_help",
+  "src": "2daa80665372"
+ },
+ {
+  "id": "EXE_0466ec",
+  "file": "EXE",
+  "off": 288492,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Iron Hanger V",
+  "kind": "item_name",
+  "src": "ed9c321393db"
+ },
+ {
+  "id": "EXE_046700",
+  "file": "EXE",
+  "off": 288512,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An iron sword for Voids",
+  "kind": "item_help",
+  "src": "51effd75dada"
+ },
+ {
+  "id": "EXE_046738",
+  "file": "EXE",
+  "off": 288568,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Damascus Hanger V",
+  "kind": "item_name",
+  "src": "5a089ad5284f"
+ },
+ {
+  "id": "EXE_04674c",
+  "file": "EXE",
+  "off": 288588,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A keen-edged sword for Voids",
+  "kind": "item_help",
+  "src": "0a577a1d386e"
+ },
+ {
+  "id": "EXE_046784",
+  "file": "EXE",
+  "off": 288644,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steel Hanger V",
+  "kind": "item_name",
+  "src": "5b6a94f61c16"
+ },
+ {
+  "id": "EXE_046798",
+  "file": "EXE",
+  "off": 288664,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A steel sword for Voids",
+  "kind": "item_help",
+  "src": "d386257318f4"
+ },
+ {
+  "id": "EXE_0467d0",
+  "file": "EXE",
+  "off": 288720,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Hanger V",
+  "kind": "item_name",
+  "src": "20c7dc0a5155"
+ },
+ {
+  "id": "EXE_0467e4",
+  "file": "EXE",
+  "off": 288740,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A large Void sword",
+  "kind": "item_help",
+  "src": "9c8c12154fde"
+ },
+ {
+  "id": "EXE_04681c",
+  "file": "EXE",
+  "off": 288796,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Hanger V",
+  "kind": "item_name",
+  "src": "261457330258"
+ },
+ {
+  "id": "EXE_046830",
+  "file": "EXE",
+  "off": 288816,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A mithril sword for Voids",
+  "kind": "item_help",
+  "src": "1a0e56e5011d"
+ },
+ {
+  "id": "EXE_046868",
+  "file": "EXE",
+  "off": 288872,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Feather Hanger V",
+  "kind": "item_name",
+  "src": "82301b9a6442"
+ },
+ {
+  "id": "EXE_04687c",
+  "file": "EXE",
+  "off": 288892,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A curved, light Void sword",
+  "kind": "item_help",
+  "src": "fe0e75d75697"
+ },
+ {
+  "id": "EXE_0468b4",
+  "file": "EXE",
+  "off": 288948,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heat Hanger V",
+  "kind": "item_name",
+  "src": "a2835d3f33f2"
+ },
+ {
+  "id": "EXE_0468c8",
+  "file": "EXE",
+  "off": 288968,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void sword that sears through",
+  "kind": "item_help",
+  "src": "8d3ca4841105"
+ },
+ {
+  "id": "EXE_046900",
+  "file": "EXE",
+  "off": 289024,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ceramic Hanger V",
+  "kind": "item_name",
+  "src": "0956aa7ba1a2"
+ },
+ {
+  "id": "EXE_046914",
+  "file": "EXE",
+  "off": 289044,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A ceramic Void sword",
+  "kind": "item_help",
+  "src": "8aadacd02c89"
+ },
+ {
+  "id": "EXE_04694c",
+  "file": "EXE",
+  "off": 289100,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Killer Hanger V",
+  "kind": "item_name",
+  "src": "59c4e983dd77"
+ },
+ {
+  "id": "EXE_046960",
+  "file": "EXE",
+  "off": 289120,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Void sword built for assassins",
+  "kind": "item_help",
+  "src": "8ea3ddbd3663"
+ },
+ {
+  "id": "EXE_046998",
+  "file": "EXE",
+  "off": 289176,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rune Hanger V",
+  "kind": "item_name",
+  "src": "7e5dff088627"
+ },
+ {
+  "id": "EXE_0469ac",
+  "file": "EXE",
+  "off": 289196,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Secret-art-etched Void sword",
+  "kind": "item_help",
+  "src": "e235e0a7e264"
+ },
+ {
+  "id": "EXE_0469e4",
+  "file": "EXE",
+  "off": 289252,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Titanium Hanger V",
+  "kind": "item_name",
+  "src": "0db80636a0cc"
+ },
+ {
+  "id": "EXE_0469f8",
+  "file": "EXE",
+  "off": 289272,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A titanium-treated Void sword",
+  "kind": "item_help",
+  "src": "8fecc64bc83c"
+ },
+ {
+  "id": "EXE_046a30",
+  "file": "EXE",
+  "off": 289328,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Photon Hanger V",
+  "kind": "item_name",
+  "src": "a5cda62eab69"
+ },
+ {
+  "id": "EXE_046a44",
+  "file": "EXE",
+  "off": 289348,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A customized sword for Voids",
+  "kind": "item_help",
+  "src": "9d0197cb7cf8"
+ },
+ {
+  "id": "EXE_046a7c",
+  "file": "EXE",
+  "off": 289404,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 1",
+  "kind": "item_name",
+  "src": "127d8f5701f8"
+ },
+ {
+  "id": "EXE_046a90",
+  "file": "EXE",
+  "off": 289424,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 1 help",
+  "kind": "item_help",
+  "src": "3c367573940f"
+ },
+ {
+  "id": "EXE_046ac8",
+  "file": "EXE",
+  "off": 289480,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 2",
+  "kind": "item_name",
+  "src": "12d119df58cf"
+ },
+ {
+  "id": "EXE_046adc",
+  "file": "EXE",
+  "off": 289500,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 2 help",
+  "kind": "item_help",
+  "src": "4240c82a50a5"
+ },
+ {
+  "id": "EXE_046b14",
+  "file": "EXE",
+  "off": 289556,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 3",
+  "kind": "item_name",
+  "src": "e4e2d1a43c03"
+ },
+ {
+  "id": "EXE_046b28",
+  "file": "EXE",
+  "off": 289576,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Hanger 3 help",
+  "kind": "item_help",
+  "src": "d21bf1c16f62"
+ },
+ {
+  "id": "EXE_046b60",
+  "file": "EXE",
+  "off": 289632,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Tiny Barrel V",
+  "kind": "item_name",
+  "src": "076bf5245955"
+ },
+ {
+  "id": "EXE_046b74",
+  "file": "EXE",
+  "off": 289652,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046bac",
+  "file": "EXE",
+  "off": 289708,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Tiny Barrel V Mod",
+  "kind": "item_name",
+  "src": "302b371483d1"
+ },
+ {
+  "id": "EXE_046bc0",
+  "file": "EXE",
+  "off": 289728,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046bf8",
+  "file": "EXE",
+  "off": 289784,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Short Barrel V",
+  "kind": "item_name",
+  "src": "975c1c04a889"
+ },
+ {
+  "id": "EXE_046c0c",
+  "file": "EXE",
+  "off": 289804,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046c44",
+  "file": "EXE",
+  "off": 289860,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Short Barrel VS",
+  "kind": "item_name",
+  "src": "3f7d6e90df49"
+ },
+ {
+  "id": "EXE_046c58",
+  "file": "EXE",
+  "off": 289880,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046c90",
+  "file": "EXE",
+  "off": 289936,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rabbit Barrel V",
+  "kind": "item_name",
+  "src": "34f3765a7859"
+ },
+ {
+  "id": "EXE_046ca4",
+  "file": "EXE",
+  "off": 289956,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046cdc",
+  "file": "EXE",
+  "off": 290012,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Silver Barrel V",
+  "kind": "item_name",
+  "src": "f50993a59dd6"
+ },
+ {
+  "id": "EXE_046cf0",
+  "file": "EXE",
+  "off": 290032,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046d28",
+  "file": "EXE",
+  "off": 290088,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Middle Barrel V",
+  "kind": "item_name",
+  "src": "75ac2bdece49"
+ },
+ {
+  "id": "EXE_046d3c",
+  "file": "EXE",
+  "off": 290108,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046d74",
+  "file": "EXE",
+  "off": 290164,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Barrel V",
+  "kind": "item_name",
+  "src": "0e5df338524d"
+ },
+ {
+  "id": "EXE_046d88",
+  "file": "EXE",
+  "off": 290184,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046dc0",
+  "file": "EXE",
+  "off": 290240,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Barrel V",
+  "kind": "item_name",
+  "src": "21e3be6f91c3"
+ },
+ {
+  "id": "EXE_046dd4",
+  "file": "EXE",
+  "off": 290260,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046e0c",
+  "file": "EXE",
+  "off": 290316,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heavy Barrel V Mod",
+  "kind": "item_name",
+  "src": "fdf796021bbc"
+ },
+ {
+  "id": "EXE_046e20",
+  "file": "EXE",
+  "off": 290336,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046e58",
+  "file": "EXE",
+  "off": 290392,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Great Barrel V",
+  "kind": "item_name",
+  "src": "4b8f9f5c918b"
+ },
+ {
+  "id": "EXE_046e6c",
+  "file": "EXE",
+  "off": 290412,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046ea4",
+  "file": "EXE",
+  "off": 290468,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Close Barrel V",
+  "kind": "item_name",
+  "src": "f3792b44463c"
+ },
+ {
+  "id": "EXE_046eb8",
+  "file": "EXE",
+  "off": 290488,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046ef0",
+  "file": "EXE",
+  "off": 290544,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Great Barrel VS",
+  "kind": "item_name",
+  "src": "ec0e9d33be0b"
+ },
+ {
+  "id": "EXE_046f04",
+  "file": "EXE",
+  "off": 290564,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Normal-type gun for Voids",
+  "kind": "item_help",
+  "src": "5992dacda207"
+ },
+ {
+  "id": "EXE_046f3c",
+  "file": "EXE",
+  "off": 290620,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Gun 1",
+  "kind": "item_name",
+  "src": "caa6de849bb7"
+ },
+ {
+  "id": "EXE_046f50",
+  "file": "EXE",
+  "off": 290640,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Gun 1 help",
+  "kind": "item_help",
+  "src": "488526bda7de"
+ },
+ {
+  "id": "EXE_046f88",
+  "file": "EXE",
+  "off": 290696,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Gun 2",
+  "kind": "item_name",
+  "src": "fb831f4e36f6"
+ },
+ {
+  "id": "EXE_046f9c",
+  "file": "EXE",
+  "off": 290716,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Gun 2 help",
+  "kind": "item_help",
+  "src": "f63a7cb7d257"
+ },
+ {
+  "id": "EXE_046fd4",
+  "file": "EXE",
+  "off": 290772,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heal Wand V",
+  "kind": "item_name",
+  "src": "f2a28dec9b6a"
+ },
+ {
+  "id": "EXE_046fe8",
+  "file": "EXE",
+  "off": 290792,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Wand with healing magic sealed",
+  "kind": "item_help",
+  "src": "8418913331d0"
+ },
+ {
+  "id": "EXE_047020",
+  "file": "EXE",
+  "off": 290848,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heal Wand +V",
+  "kind": "item_name",
+  "src": "e848a42afbd7"
+ },
+ {
+  "id": "EXE_047034",
+  "file": "EXE",
+  "off": 290868,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Pine wand with healing magic",
+  "kind": "item_help",
+  "src": "d0d4fe6927f2"
+ },
+ {
+  "id": "EXE_04706c",
+  "file": "EXE",
+  "off": 290924,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heal Wand RV",
+  "kind": "item_name",
+  "src": "9aaef3d292ea"
+ },
+ {
+  "id": "EXE_047080",
+  "file": "EXE",
+  "off": 290944,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Hazel wand with healing magic",
+  "kind": "item_help",
+  "src": "96f74b97f42b"
+ },
+ {
+  "id": "EXE_0470b8",
+  "file": "EXE",
+  "off": 291000,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mega Heal Wand V",
+  "kind": "item_name",
+  "src": "1809ec67b818"
+ },
+ {
+  "id": "EXE_0470cc",
+  "file": "EXE",
+  "off": 291020,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Healing magic wand. SP 20",
+  "kind": "item_help",
+  "src": "650b958eafdc"
+ },
+ {
+  "id": "EXE_047104",
+  "file": "EXE",
+  "off": 291076,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mega Heal Wand +V",
+  "kind": "item_name",
+  "src": "59add90a8452"
+ },
+ {
+  "id": "EXE_047118",
+  "file": "EXE",
+  "off": 291096,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Healing magic wand. SP 20",
+  "kind": "item_help",
+  "src": "650b958eafdc"
+ },
+ {
+  "id": "EXE_047150",
+  "file": "EXE",
+  "off": 291152,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heal All Wand V",
+  "kind": "item_name",
+  "src": "8401d38b9430"
+ },
+ {
+  "id": "EXE_047164",
+  "file": "EXE",
+  "off": 291172,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Heals all allies for SP 30",
+  "kind": "item_help",
+  "src": "381839d1498b"
+ },
+ {
+  "id": "EXE_04719c",
+  "file": "EXE",
+  "off": 291228,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Energy Wand V",
+  "kind": "item_name",
+  "src": "9295c1d08ba1"
+ },
+ {
+  "id": "EXE_0471b0",
+  "file": "EXE",
+  "off": 291248,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Wand with attack-magic stone",
+  "kind": "item_help",
+  "src": "492bd8e734d6"
+ },
+ {
+  "id": "EXE_0471e8",
+  "file": "EXE",
+  "off": 291304,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Energy Wand SV",
+  "kind": "item_name",
+  "src": "b6ad2d0dbe39"
+ },
+ {
+  "id": "EXE_0471fc",
+  "file": "EXE",
+  "off": 291324,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Wand with attack-magic gem",
+  "kind": "item_help",
+  "src": "b5b07d986085"
+ },
+ {
+  "id": "EXE_047234",
+  "file": "EXE",
+  "off": 291380,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Energy Wand FXV",
+  "kind": "item_name",
+  "src": "7fcf334c673a"
+ },
+ {
+  "id": "EXE_047248",
+  "file": "EXE",
+  "off": 291400,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Attack-magic wand, improved",
+  "kind": "item_help",
+  "src": "83049112a400"
+ },
+ {
+  "id": "EXE_047280",
+  "file": "EXE",
+  "off": 291456,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Thunder Wand V",
+  "kind": "item_name",
+  "src": "f00f1a618d0a"
+ },
+ {
+  "id": "EXE_047294",
+  "file": "EXE",
+  "off": 291476,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wand with lightning magic",
+  "kind": "item_help",
+  "src": "85b88a871a3a"
+ },
+ {
+  "id": "EXE_0472cc",
+  "file": "EXE",
+  "off": 291532,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Thunder Wand +V",
+  "kind": "item_name",
+  "src": "51739726a1e6"
+ },
+ {
+  "id": "EXE_0472e0",
+  "file": "EXE",
+  "off": 291552,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Oak wand with lightning magic",
+  "kind": "item_help",
+  "src": "d406e7142b17"
+ },
+ {
+  "id": "EXE_047318",
+  "file": "EXE",
+  "off": 291608,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Freeze Wand V",
+  "kind": "item_name",
+  "src": "b2c709def22d"
+ },
+ {
+  "id": "EXE_04732c",
+  "file": "EXE",
+  "off": 291628,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wand with freezing magic",
+  "kind": "item_help",
+  "src": "c578e5b9cfe3"
+ },
+ {
+  "id": "EXE_047364",
+  "file": "EXE",
+  "off": 291684,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Blast Wand V",
+  "kind": "item_name",
+  "src": "dc608c4f45f7"
+ },
+ {
+  "id": "EXE_047378",
+  "file": "EXE",
+  "off": 291704,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wand with mind magic",
+  "kind": "item_help",
+  "src": "248076fe4eb6"
+ },
+ {
+  "id": "EXE_0473b0",
+  "file": "EXE",
+  "off": 291760,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Blast Wand XV",
+  "kind": "item_name",
+  "src": "21ff5f21f682"
+ },
+ {
+  "id": "EXE_0473c4",
+  "file": "EXE",
+  "off": 291780,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Hazel wand with mind magic",
+  "kind": "item_help",
+  "src": "23832f4365ec"
+ },
+ {
+  "id": "EXE_0473fc",
+  "file": "EXE",
+  "off": 291836,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Slow Wand V",
+  "kind": "item_name",
+  "src": "d39301cb1c75"
+ },
+ {
+  "id": "EXE_047410",
+  "file": "EXE",
+  "off": 291856,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A wand with Slow sealed inside",
+  "kind": "item_help",
+  "src": "a83720243c2d"
+ },
+ {
+  "id": "EXE_047448",
+  "file": "EXE",
+  "off": 291912,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wand 1",
+  "kind": "item_name",
+  "src": "da135a01f320"
+ },
+ {
+  "id": "EXE_04745c",
+  "file": "EXE",
+  "off": 291932,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wand 1 help",
+  "kind": "item_help",
+  "src": "a80ef2dad663"
+ },
+ {
+  "id": "EXE_047494",
+  "file": "EXE",
+  "off": 291988,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wand 2",
+  "kind": "item_name",
+  "src": "44f94687e9f6"
+ },
+ {
+  "id": "EXE_0474a8",
+  "file": "EXE",
+  "off": 292008,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wand 2 help",
+  "kind": "item_help",
+  "src": "331c6c166712"
+ },
+ {
+  "id": "EXE_0474e0",
+  "file": "EXE",
+  "off": 292064,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wand 3",
+  "kind": "item_name",
+  "src": "141b01e12f1f"
+ },
+ {
+  "id": "EXE_0474f4",
+  "file": "EXE",
+  "off": 292084,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wand 3 help",
+  "kind": "item_help",
+  "src": "ac91f9a3ba59"
+ },
+ {
+  "id": "EXE_04752c",
+  "file": "EXE",
+  "off": 292140,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wand 4",
+  "kind": "item_name",
+  "src": "0a07a47ca11f"
+ },
+ {
+  "id": "EXE_047540",
+  "file": "EXE",
+  "off": 292160,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wand 4 help",
+  "kind": "item_help",
+  "src": "f4d6e8323cb4"
+ },
+ {
+  "id": "EXE_047578",
+  "file": "EXE",
+  "off": 292216,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Wand 5",
+  "kind": "item_name",
+  "src": "04ae4cac1e1b"
+ },
+ {
+  "id": "EXE_04758c",
+  "file": "EXE",
+  "off": 292236,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Wand 5 help",
+  "kind": "item_help",
+  "src": "9903dd78097d"
+ },
+ {
+  "id": "EXE_0475c4",
+  "file": "EXE",
+  "off": 292292,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Stone Shield V",
+  "kind": "item_name",
+  "src": "a685412df02b"
+ },
+ {
+  "id": "EXE_0475d8",
+  "file": "EXE",
+  "off": 292312,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A stone shield",
+  "kind": "item_help",
+  "src": "e939694c8421"
+ },
+ {
+  "id": "EXE_047610",
+  "file": "EXE",
+  "off": 292368,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Brass Shield V",
+  "kind": "item_name",
+  "src": "60f78cdc4d6b"
+ },
+ {
+  "id": "EXE_047624",
+  "file": "EXE",
+  "off": 292388,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A brass shield for Voids",
+  "kind": "item_help",
+  "src": "71dbb2e9d9b8"
+ },
+ {
+  "id": "EXE_04765c",
+  "file": "EXE",
+  "off": 292444,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Iron Shield V",
+  "kind": "item_name",
+  "src": "f45157c2d8d8"
+ },
+ {
+  "id": "EXE_047670",
+  "file": "EXE",
+  "off": 292464,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "An iron shield only for Voids",
+  "kind": "item_help",
+  "src": "771edd6484ce"
+ },
+ {
+  "id": "EXE_0476a8",
+  "file": "EXE",
+  "off": 292520,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Light Shield V",
+  "kind": "item_name",
+  "src": "1426696e8031"
+ },
+ {
+  "id": "EXE_0476bc",
+  "file": "EXE",
+  "off": 292540,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Small, light shield for Voids",
+  "kind": "item_help",
+  "src": "3e67c90c4ec8"
+ },
+ {
+  "id": "EXE_0476f4",
+  "file": "EXE",
+  "off": 292596,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Steel Shield V",
+  "kind": "item_name",
+  "src": "9e3b02064b52"
+ },
+ {
+  "id": "EXE_047708",
+  "file": "EXE",
+  "off": 292616,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A steel shield for Voids",
+  "kind": "item_help",
+  "src": "a36800582615"
+ },
+ {
+  "id": "EXE_047740",
+  "file": "EXE",
+  "off": 292672,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Large Shield V",
+  "kind": "item_name",
+  "src": "e1aea08ba8d5"
+ },
+ {
+  "id": "EXE_047754",
+  "file": "EXE",
+  "off": 292692,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A large shield only for Voids",
+  "kind": "item_help",
+  "src": "bed832772dee"
+ },
+ {
+  "id": "EXE_04778c",
+  "file": "EXE",
+  "off": 292748,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Mithril Shield V",
+  "kind": "item_name",
+  "src": "b1ac154814d8"
+ },
+ {
+  "id": "EXE_0477a0",
+  "file": "EXE",
+  "off": 292768,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A mithril shield for Voids",
+  "kind": "item_help",
+  "src": "a4ce8bf87ed9"
+ },
+ {
+  "id": "EXE_0477d8",
+  "file": "EXE",
+  "off": 292824,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Rune Shield V",
+  "kind": "item_name",
+  "src": "b446056ef560"
+ },
+ {
+  "id": "EXE_0477ec",
+  "file": "EXE",
+  "off": 292844,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A shield carved with runes",
+  "kind": "item_help",
+  "src": "38f262b0d67a"
+ },
+ {
+  "id": "EXE_047824",
+  "file": "EXE",
+  "off": 292900,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Fiber Shield V",
+  "kind": "item_name",
+  "src": "0dcde119ae7f"
+ },
+ {
+  "id": "EXE_047838",
+  "file": "EXE",
+  "off": 292920,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A light shield of fiber",
+  "kind": "item_help",
+  "src": "21e9eb970640"
+ },
+ {
+  "id": "EXE_047870",
+  "file": "EXE",
+  "off": 292976,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ceramic Shield V",
+  "kind": "item_name",
+  "src": "f7090a1b7a3f"
+ },
+ {
+  "id": "EXE_047884",
+  "file": "EXE",
+  "off": 292996,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A shield made of ceramic",
+  "kind": "item_help",
+  "src": "0c50f904dd81"
+ },
+ {
+  "id": "EXE_0478bc",
+  "file": "EXE",
+  "off": 293052,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Titanium Shield V",
+  "kind": "item_name",
+  "src": "844ce2f981bc"
+ },
+ {
+  "id": "EXE_0478d0",
+  "file": "EXE",
+  "off": 293072,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A titanium-treated shield",
+  "kind": "item_help",
+  "src": "79beccb58ef8"
+ },
+ {
+  "id": "EXE_047908",
+  "file": "EXE",
+  "off": 293128,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Air Shield V",
+  "kind": "item_name",
+  "src": "d35f5bfd7633"
+ },
+ {
+  "id": "EXE_04791c",
+  "file": "EXE",
+  "off": 293148,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Makes a wall of compressed air",
+  "kind": "item_help",
+  "src": "57668fc77a04"
+ },
+ {
+  "id": "EXE_047954",
+  "file": "EXE",
+  "off": 293204,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Beam Shield V",
+  "kind": "item_name",
+  "src": "c943827e4f82"
+ },
+ {
+  "id": "EXE_047968",
+  "file": "EXE",
+  "off": 293224,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Laser barrier blocks attacks",
+  "kind": "item_help",
+  "src": "2bd9e1ecbe38"
+ },
+ {
+  "id": "EXE_0479a0",
+  "file": "EXE",
+  "off": 293280,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Shield V1",
+  "kind": "item_name",
+  "src": "8cec95b52a6f"
+ },
+ {
+  "id": "EXE_0479b4",
+  "file": "EXE",
+  "off": 293300,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Shield V1 help",
+  "kind": "item_help",
+  "src": "a3d65386415b"
+ },
+ {
+  "id": "EXE_0479ec",
+  "file": "EXE",
+  "off": 293356,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Spare Shield V2",
+  "kind": "item_name",
+  "src": "6232b0041b29"
+ },
+ {
+  "id": "EXE_047a00",
+  "file": "EXE",
+  "off": 293376,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Spare Shield V2 help",
+  "kind": "item_help",
+  "src": "cd06f6906f14"
+ },
+ {
+  "id": "EXE_047a38",
+  "file": "EXE",
+  "off": 293432,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Secret Map",
+  "kind": "item_name",
+  "src": "61e6b7bb00a1"
+ },
+ {
+  "id": "EXE_047a4c",
+  "file": "EXE",
+  "off": 293452,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Shows the isle's hidden routes",
+  "kind": "item_help",
+  "src": "e84264ed3067"
+ },
+ {
+  "id": "EXE_047a6c",
+  "file": "EXE",
+  "off": 293484,
+  "slots": 37,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "50be497440eb"
+ },
+ {
+  "id": "EXE_047ad0",
+  "file": "EXE",
+  "off": 293584,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Void Crusher",
+  "kind": "item_name",
+  "src": "264aa6f87c8a"
+ },
+ {
+  "id": "EXE_047ae4",
+  "file": "EXE",
+  "off": 293604,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A gun for Void Masters",
+  "kind": "item_help",
+  "src": "d39241eb3a75"
+ },
+ {
+  "id": "EXE_047b04",
+  "file": "EXE",
+  "off": 293636,
+  "slots": 37,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "89df604a4ad3"
+ },
+ {
+  "id": "EXE_047b68",
+  "file": "EXE",
+  "off": 293736,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Flute of Truth",
+  "kind": "item_name",
+  "src": "5d362c2a9318"
+ },
+ {
+  "id": "EXE_047b7c",
+  "file": "EXE",
+  "off": 293756,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A flute a minstrel loved",
+  "kind": "item_help",
+  "src": "d35f16d75c7b"
+ },
+ {
+  "id": "EXE_047bb4",
+  "file": "EXE",
+  "off": 293812,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Taurus Ring",
+  "kind": "item_name",
+  "src": "0cea65352e33"
+ },
+ {
+  "id": "EXE_047bc8",
+  "file": "EXE",
+  "off": 293832,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Beauty God Venus",
+  "kind": "item_help",
+  "src": "6bab361fea86"
+ },
+ {
+  "id": "EXE_047c00",
+  "file": "EXE",
+  "off": 293888,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Aries Ring",
+  "kind": "item_name",
+  "src": "86fe6fb57d5f"
+ },
+ {
+  "id": "EXE_047c14",
+  "file": "EXE",
+  "off": 293908,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of War God Ares",
+  "kind": "item_help",
+  "src": "06db3945bf95"
+ },
+ {
+  "id": "EXE_047c4c",
+  "file": "EXE",
+  "off": 293964,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gemini Ring",
+  "kind": "item_name",
+  "src": "5103ff48b77b"
+ },
+ {
+  "id": "EXE_047c60",
+  "file": "EXE",
+  "off": 293984,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Messenger God Hermes",
+  "kind": "item_help",
+  "src": "d7bdcb05f0a4"
+ },
+ {
+  "id": "EXE_047c98",
+  "file": "EXE",
+  "off": 294040,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Cancer Ring",
+  "kind": "item_name",
+  "src": "87a09afdf182"
+ },
+ {
+  "id": "EXE_047cac",
+  "file": "EXE",
+  "off": 294060,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Silence God Selene",
+  "kind": "item_help",
+  "src": "71af52f43933"
+ },
+ {
+  "id": "EXE_047ce4",
+  "file": "EXE",
+  "off": 294116,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Leo Ring",
+  "kind": "item_name",
+  "src": "2822beb7c7ad"
+ },
+ {
+  "id": "EXE_047cf8",
+  "file": "EXE",
+  "off": 294136,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Sun God Apollo",
+  "kind": "item_help",
+  "src": "6565b95ab7c7"
+ },
+ {
+  "id": "EXE_047d30",
+  "file": "EXE",
+  "off": 294192,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Virgo Ring",
+  "kind": "item_name",
+  "src": "449d7708fb3e"
+ },
+ {
+  "id": "EXE_047d44",
+  "file": "EXE",
+  "off": 294212,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Wisdom God Mercury",
+  "kind": "item_help",
+  "src": "562ba2f5db53"
+ },
+ {
+  "id": "EXE_047d7c",
+  "file": "EXE",
+  "off": 294268,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Libra Ring",
+  "kind": "item_name",
+  "src": "2155b7fefc8f"
+ },
+ {
+  "id": "EXE_047d90",
+  "file": "EXE",
+  "off": 294288,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Beauty God Aphrodite",
+  "kind": "item_help",
+  "src": "914f32fa2746"
+ },
+ {
+  "id": "EXE_047dc8",
+  "file": "EXE",
+  "off": 294344,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Scorpio Ring",
+  "kind": "item_name",
+  "src": "ed4c11f0c1a8"
+ },
+ {
+  "id": "EXE_047ddc",
+  "file": "EXE",
+  "off": 294364,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Underworld God Pluto",
+  "kind": "item_help",
+  "src": "fa51157c9b27"
+ },
+ {
+  "id": "EXE_047e14",
+  "file": "EXE",
+  "off": 294420,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sagittarius Ring",
+  "kind": "item_name",
+  "src": "625bbcebc7eb"
+ },
+ {
+  "id": "EXE_047e28",
+  "file": "EXE",
+  "off": 294440,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Great God Zeus",
+  "kind": "item_help",
+  "src": "65defaccd587"
+ },
+ {
+  "id": "EXE_047e60",
+  "file": "EXE",
+  "off": 294496,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Capricorn Ring",
+  "kind": "item_name",
+  "src": "d0d804939f9d"
+ },
+ {
+  "id": "EXE_047e74",
+  "file": "EXE",
+  "off": 294516,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Time God Cronus",
+  "kind": "item_help",
+  "src": "753fbf2478c8"
+ },
+ {
+  "id": "EXE_047eac",
+  "file": "EXE",
+  "off": 294572,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Aquarius Ring",
+  "kind": "item_name",
+  "src": "17a94ac265ee"
+ },
+ {
+  "id": "EXE_047ec0",
+  "file": "EXE",
+  "off": 294592,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Sky God Uranus",
+  "kind": "item_help",
+  "src": "d127a7d97882"
+ },
+ {
+  "id": "EXE_047ef8",
+  "file": "EXE",
+  "off": 294648,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Pisces Ring",
+  "kind": "item_name",
+  "src": "6fcac4e66733"
+ },
+ {
+  "id": "EXE_047f0c",
+  "file": "EXE",
+  "off": 294668,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ring of Sea God Poseidon",
+  "kind": "item_help",
+  "src": "e7b119a9728a"
+ },
+ {
+  "id": "EXE_047f44",
+  "file": "EXE",
+  "off": 294724,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ophiuchus Ring",
+  "kind": "item_name",
+  "src": "de1dda6f5351"
+ },
+ {
+  "id": "EXE_047f58",
+  "file": "EXE",
+  "off": 294744,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Ophiuchus Ring help",
+  "kind": "item_help",
+  "src": "3437ace72144"
+ },
+ {
+  "id": "EXE_047f90",
+  "file": "EXE",
+  "off": 294800,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Photon Brain Unit",
+  "kind": "item_name",
+  "src": "8e122fb9a86f"
+ },
+ {
+  "id": "EXE_047fa4",
+  "file": "EXE",
+  "off": 294820,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A mysterious machine part",
+  "kind": "item_help",
+  "src": "45817b01c43a"
+ },
+ {
+  "id": "EXE_047fdc",
+  "file": "EXE",
+  "off": 294876,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Orichalcum Gem",
+  "kind": "item_name",
+  "src": "c983935d40f0"
+ },
+ {
+  "id": "EXE_047ff0",
+  "file": "EXE",
+  "off": 294896,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "A beautiful gem",
+  "kind": "item_help",
+  "src": "5f715014d1f7"
+ },
+ {
+  "id": "EXE_0508c8",
+  "file": "EXE",
+  "off": 329928,
+  "slots": 1225,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "a293221e505d"
+ },
+ {
+  "id": "EXE_051cb0",
+  "file": "EXE",
+  "off": 335024,
+  "slots": 84,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "bc7a4085013b"
+ }
+]

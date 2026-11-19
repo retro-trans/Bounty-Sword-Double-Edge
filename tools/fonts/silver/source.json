@@ -1,0 +1,8 @@
+{
+ "name": "Silver",
+ "author": "Poppy Works (Wolfgang Wozniak); contributors Itou Hiro (PixelMPlus), leedheo (DOSGothic), buchi",
+ "url": "https://poppyworks.itch.io/silver",
+ "license": "CC BY 4.0 (attribution to Poppy Works required); productions over $100,000 USD need a direct licence (hello@poppy.works)",
+ "downloaded": "2026-11-11",
+ "use": "English font drawn into the game font page (tools/enfont.py)"
+}

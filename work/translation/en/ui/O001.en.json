@@ -1,0 +1,5227 @@
+[
+ {
+  "id": "O001_0031e4",
+  "file": "O001",
+  "off": 12772,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "48d7fa715711"
+ },
+ {
+  "id": "O001_00f580",
+  "file": "O001",
+  "off": 62848,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Kane",
+  "kind": "unit_name",
+  "src": "51e0392c5d2c"
+ },
+ {
+  "id": "O001_00f638",
+  "file": "O001",
+  "off": 63032,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Kane",
+  "kind": "unit_name",
+  "src": "51e0392c5d2c"
+ },
+ {
+  "id": "O001_00f6f0",
+  "file": "O001",
+  "off": 63216,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Cerbera",
+  "kind": "unit_name",
+  "src": "a0fa114aa795"
+ },
+ {
+  "id": "O001_00f7a8",
+  "file": "O001",
+  "off": 63400,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Griffith",
+  "kind": "unit_name",
+  "src": "5fb33f0c0008"
+ },
+ {
+  "id": "O001_00f860",
+  "file": "O001",
+  "off": 63584,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Alice",
+  "kind": "unit_name",
+  "src": "54e330ac10b2"
+ },
+ {
+  "id": "O001_00f918",
+  "file": "O001",
+  "off": 63768,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Aerial",
+  "kind": "unit_name",
+  "src": "5b42544e8674"
+ },
+ {
+  "id": "O001_00f9d0",
+  "file": "O001",
+  "off": 63952,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "FD-3S",
+  "kind": "unit_name",
+  "src": "073ffce6c958"
+ },
+ {
+  "id": "O001_00fa88",
+  "file": "O001",
+  "off": 64136,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Ozunu",
+  "kind": "unit_name",
+  "src": "fa400deb35cb"
+ },
+ {
+  "id": "O001_00fb40",
+  "file": "O001",
+  "off": 64320,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Toryu",
+  "kind": "unit_name",
+  "src": "8938f0532483"
+ },
+ {
+  "id": "O001_00fbf8",
+  "file": "O001",
+  "off": 64504,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Higgins",
+  "kind": "unit_name",
+  "src": "a703915d2345"
+ },
+ {
+  "id": "O001_00fcb0",
+  "file": "O001",
+  "off": 64688,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Faust",
+  "kind": "unit_name",
+  "src": "ae9c68f29ba0"
+ },
+ {
+  "id": "O001_00fd68",
+  "file": "O001",
+  "off": 64872,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Parsifal",
+  "kind": "unit_name",
+  "src": "5a82c862d7c6"
+ },
+ {
+  "id": "O001_00fe20",
+  "file": "O001",
+  "off": 65056,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Sera",
+  "kind": "unit_name",
+  "src": "126ff46f7ed7"
+ },
+ {
+  "id": "O001_00fed8",
+  "file": "O001",
+  "off": 65240,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Sera",
+  "kind": "unit_name",
+  "src": "126ff46f7ed7"
+ },
+ {
+  "id": "O001_00ff90",
+  "file": "O001",
+  "off": 65424,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Diana",
+  "kind": "unit_name",
+  "src": "c65c2ee20ded"
+ },
+ {
+  "id": "O001_010048",
+  "file": "O001",
+  "off": 65608,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Ayame",
+  "kind": "unit_name",
+  "src": "0ca99438478b"
+ },
+ {
+  "id": "O001_010100",
+  "file": "O001",
+  "off": 65792,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Jaguar",
+  "kind": "unit_name",
+  "src": "a2a4c2177e3f"
+ },
+ {
+  "id": "O001_0101b8",
+  "file": "O001",
+  "off": 65976,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Tethys",
+  "kind": "unit_name",
+  "src": "58da674bad36"
+ },
+ {
+  "id": "O001_010270",
+  "file": "O001",
+  "off": 66160,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void No. 1",
+  "kind": "unit_name",
+  "src": "70a29930987c"
+ },
+ {
+  "id": "O001_010328",
+  "file": "O001",
+  "off": 66344,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void No. 2",
+  "kind": "unit_name",
+  "src": "086e3190ee5d"
+ },
+ {
+  "id": "O001_0103e0",
+  "file": "O001",
+  "off": 66528,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void No. 2",
+  "kind": "unit_name",
+  "src": "086e3190ee5d"
+ },
+ {
+  "id": "O001_010498",
+  "file": "O001",
+  "off": 66712,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void No. 3",
+  "kind": "unit_name",
+  "src": "94fadfea8ffa"
+ },
+ {
+  "id": "O001_010550",
+  "file": "O001",
+  "off": 66896,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void No. 3",
+  "kind": "unit_name",
+  "src": "94fadfea8ffa"
+ },
+ {
+  "id": "O001_011370",
+  "file": "O001",
+  "off": 70512,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Heal",
+  "src": "ac4117e7fa57"
+ },
+ {
+  "id": "O001_011378",
+  "file": "O001",
+  "off": 70520,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mega Heal",
+  "src": "1d3148475fb2"
+ },
+ {
+  "id": "O001_011384",
+  "file": "O001",
+  "off": 70532,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Heal All",
+  "src": "3b603836d606"
+ },
+ {
+  "id": "O001_011392",
+  "file": "O001",
+  "off": 70546,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Cure",
+  "src": "c4ecdfe8314b"
+ },
+ {
+  "id": "O001_01139c",
+  "file": "O001",
+  "off": 70556,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bless Guard",
+  "src": "c819e557b732"
+ },
+ {
+  "id": "O001_0113aa",
+  "file": "O001",
+  "off": 70570,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bless Power",
+  "src": "64f9426c8e45"
+ },
+ {
+  "id": "O001_0113b8",
+  "file": "O001",
+  "off": 70584,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Bless Action",
+  "src": "c4d3f174f345"
+ },
+ {
+  "id": "O001_0113ca",
+  "file": "O001",
+  "off": 70602,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bless Move",
+  "src": "9d94bacceb5c"
+ },
+ {
+  "id": "O001_0113d8",
+  "file": "O001",
+  "off": 70616,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Holy Veil",
+  "src": "c45947e63f61"
+ },
+ {
+  "id": "O001_0113e8",
+  "file": "O001",
+  "off": 70632,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Dispel",
+  "src": "15f2386d24bd"
+ },
+ {
+  "id": "O001_0113f4",
+  "file": "O001",
+  "off": 70644,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Energy Ball",
+  "src": "88420c802ba6"
+ },
+ {
+  "id": "O001_011404",
+  "file": "O001",
+  "off": 70660,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Fire Storm",
+  "src": "e6a52d876329"
+ },
+ {
+  "id": "O001_011418",
+  "file": "O001",
+  "off": 70680,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Lightning",
+  "src": "e18ba645f07c"
+ },
+ {
+  "id": "O001_011426",
+  "file": "O001",
+  "off": 70694,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Thunder Storm",
+  "src": "6c7799cccf93"
+ },
+ {
+  "id": "O001_011438",
+  "file": "O001",
+  "off": 70712,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Freeze Glow",
+  "src": "82c850f98d37"
+ },
+ {
+  "id": "O001_011448",
+  "file": "O001",
+  "off": 70728,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Aqua Screen",
+  "src": "6dc9dfd3c63c"
+ },
+ {
+  "id": "O001_01145a",
+  "file": "O001",
+  "off": 70746,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Slow",
+  "src": "7ed2cd424c21"
+ },
+ {
+  "id": "O001_011462",
+  "file": "O001",
+  "off": 70754,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Earthquake",
+  "src": "58b6f6feaf04"
+ },
+ {
+  "id": "O001_011474",
+  "file": "O001",
+  "off": 70772,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Flame Wall",
+  "src": "dd59dd75adf2"
+ },
+ {
+  "id": "O001_011486",
+  "file": "O001",
+  "off": 70790,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Hypersonic",
+  "src": "b0038e426708"
+ },
+ {
+  "id": "O001_011498",
+  "file": "O001",
+  "off": 70808,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Shadow Edge",
+  "src": "a136dcad98b4"
+ },
+ {
+  "id": "O001_0114a8",
+  "file": "O001",
+  "off": 70824,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Drain Saber",
+  "src": "96b67d2324c3"
+ },
+ {
+  "id": "O001_0114ba",
+  "file": "O001",
+  "off": 70842,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Sonic Riding",
+  "src": "eda332129a96"
+ },
+ {
+  "id": "O001_0114d0",
+  "file": "O001",
+  "off": 70864,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Angel Voice",
+  "src": "ba7610c18470"
+ },
+ {
+  "id": "O001_0114e2",
+  "file": "O001",
+  "off": 70882,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Lunatic Voice",
+  "src": "cff31e6b2241"
+ },
+ {
+  "id": "O001_0114f8",
+  "file": "O001",
+  "off": 70904,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Trance Power",
+  "src": "81a9e9fe4125"
+ },
+ {
+  "id": "O001_011508",
+  "file": "O001",
+  "off": 70920,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Cheshire Cat",
+  "src": "8a87b8ba5529"
+ },
+ {
+  "id": "O001_01151a",
+  "file": "O001",
+  "off": 70938,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Ball Song",
+  "src": "406fbe40715c"
+ },
+ {
+  "id": "O001_011526",
+  "file": "O001",
+  "off": 70950,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Tea Party",
+  "src": "1ede6a7336e5"
+ },
+ {
+  "id": "O001_011536",
+  "file": "O001",
+  "off": 70966,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Laser",
+  "src": "86c4a6c6105c"
+ },
+ {
+  "id": "O001_011540",
+  "file": "O001",
+  "off": 70976,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Attention",
+  "src": "1cecec437f0d"
+ },
+ {
+  "id": "O001_01154e",
+  "file": "O001",
+  "off": 70990,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Big-Bore Laser",
+  "src": "8df5b1603740"
+ },
+ {
+  "id": "O001_01155e",
+  "file": "O001",
+  "off": 71006,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bolt Dagger",
+  "src": "6f2a3bd3650a"
+ },
+ {
+  "id": "O001_01156c",
+  "file": "O001",
+  "off": 71020,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Seal Dagger",
+  "src": "7afc4474aa27"
+ },
+ {
+  "id": "O001_01157a",
+  "file": "O001",
+  "off": 71034,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Phalanx Shot",
+  "src": "2bdf872f1f27"
+ },
+ {
+  "id": "O001_011590",
+  "file": "O001",
+  "off": 71056,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Metal Grenade",
+  "src": "562f037b7678"
+ },
+ {
+  "id": "O001_0115a2",
+  "file": "O001",
+  "off": 71074,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Range Plus",
+  "src": "736e184e04bc"
+ },
+ {
+  "id": "O001_0115b0",
+  "file": "O001",
+  "off": 71088,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Rake",
+  "src": "76bcca97d99a"
+ },
+ {
+  "id": "O001_0115b6",
+  "file": "O001",
+  "off": 71094,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Elemental Bullet",
+  "src": "705f01f8f139"
+ },
+ {
+  "id": "O001_0115cc",
+  "file": "O001",
+  "off": 71116,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Flamer",
+  "src": "16b68e953de2"
+ },
+ {
+  "id": "O001_0115d6",
+  "file": "O001",
+  "off": 71126,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Daze Dagger",
+  "src": "2a063210bcac"
+ },
+ {
+  "id": "O001_0115e4",
+  "file": "O001",
+  "off": 71140,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Back Cut",
+  "src": "61f919a5eb96"
+ },
+ {
+  "id": "O001_0115ee",
+  "file": "O001",
+  "off": 71150,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Silent",
+  "src": "35e2b506a773"
+ },
+ {
+  "id": "O001_0115f6",
+  "file": "O001",
+  "off": 71158,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Vacuum",
+  "src": "10d09281395c"
+ },
+ {
+  "id": "O001_011600",
+  "file": "O001",
+  "off": 71168,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Rockfall",
+  "src": "aac92e89b89d"
+ },
+ {
+  "id": "O001_01160a",
+  "file": "O001",
+  "off": 71178,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Gate Art",
+  "src": "899db7fbee3e"
+ },
+ {
+  "id": "O001_011614",
+  "file": "O001",
+  "off": 71188,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Sealing",
+  "src": "fda72fb882ee"
+ },
+ {
+  "id": "O001_01161e",
+  "file": "O001",
+  "off": 71198,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Tethys Kick",
+  "src": "5c951a01afc9"
+ },
+ {
+  "id": "O001_01162e",
+  "file": "O001",
+  "off": 71214,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Lovely Kiss",
+  "src": "24c23a78c7ce"
+ },
+ {
+  "id": "O001_01163e",
+  "file": "O001",
+  "off": 71230,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Count Song",
+  "src": "fc79087889a1"
+ },
+ {
+  "id": "O001_01164a",
+  "file": "O001",
+  "off": 71242,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Wyrm Art",
+  "src": "d63fb1d0a1f7"
+ },
+ {
+  "id": "O001_011654",
+  "file": "O001",
+  "off": 71252,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Mind Blast",
+  "src": "390c06e03179"
+ },
+ {
+  "id": "O001_011666",
+  "file": "O001",
+  "off": 71270,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Cross Lancer",
+  "src": "ee38cb9b565f"
+ },
+ {
+  "id": "O001_011676",
+  "file": "O001",
+  "off": 71286,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Sad Rain",
+  "src": "c3822d152b7e"
+ },
+ {
+  "id": "O001_011680",
+  "file": "O001",
+  "off": 71296,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Red Seal",
+  "src": "d19f78cd8957"
+ },
+ {
+  "id": "O001_01168a",
+  "file": "O001",
+  "off": 71306,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Soulwave",
+  "src": "872b830725d1"
+ },
+ {
+  "id": "O001_011694",
+  "file": "O001",
+  "off": 71316,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Twin Cut",
+  "src": "eba7d3b5b011"
+ },
+ {
+  "id": "O001_01169e",
+  "file": "O001",
+  "off": 71326,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Pulverize",
+  "src": "601177a1e344"
+ },
+ {
+  "id": "O001_0116aa",
+  "file": "O001",
+  "off": 71338,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heat Blaze",
+  "src": "297133829dbf"
+ },
+ {
+  "id": "O001_0116ba",
+  "file": "O001",
+  "off": 71354,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Paralyze Blaze",
+  "src": "ce95cb885dd0"
+ },
+ {
+  "id": "O001_0116ce",
+  "file": "O001",
+  "off": 71374,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Fire",
+  "src": "186c4dbddbff"
+ },
+ {
+  "id": "O001_0116d4",
+  "file": "O001",
+  "off": 71380,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Double Attack",
+  "src": "8a8a430e4808"
+ },
+ {
+  "id": "O001_0116e4",
+  "file": "O001",
+  "off": 71396,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Web",
+  "src": "1d81f8282e04"
+ },
+ {
+  "id": "O001_0116ec",
+  "file": "O001",
+  "off": 71404,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Twin Laser",
+  "src": "3c5a1f12cb5c"
+ },
+ {
+  "id": "O001_0116fa",
+  "file": "O001",
+  "off": 71418,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Bite",
+  "src": "7e4d1199b4e7"
+ },
+ {
+  "id": "O001_011700",
+  "file": "O001",
+  "off": 71424,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Gigant Crush",
+  "src": "016a0e85b5b7"
+ },
+ {
+  "id": "O001_011714",
+  "file": "O001",
+  "off": 71444,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Boom",
+  "src": "e542134d9db1"
+ },
+ {
+  "id": "O001_01171a",
+  "file": "O001",
+  "off": 71450,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Boom",
+  "src": "e542134d9db1"
+ },
+ {
+  "id": "O001_011720",
+  "file": "O001",
+  "off": 71456,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Acid Mist",
+  "src": "bd7b76eb1803"
+ },
+ {
+  "id": "O001_011730",
+  "file": "O001",
+  "off": 71472,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Rust Gale",
+  "src": "b02096c75559"
+ },
+ {
+  "id": "O001_01173e",
+  "file": "O001",
+  "off": 71486,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Reborn",
+  "src": "2aa1c4130cef"
+ },
+ {
+  "id": "O001_011748",
+  "file": "O001",
+  "off": 71496,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Reborn",
+  "src": "2aa1c4130cef"
+ },
+ {
+  "id": "O001_011752",
+  "file": "O001",
+  "off": 71506,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Teleport",
+  "src": "a1505b05a08a"
+ },
+ {
+  "id": "O001_01175e",
+  "file": "O001",
+  "off": 71518,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Flee",
+  "src": "24b50415a83f"
+ },
+ {
+  "id": "O001_011764",
+  "file": "O001",
+  "off": 71524,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Poison Attack",
+  "src": "de1037b7850b"
+ },
+ {
+  "id": "O001_011776",
+  "file": "O001",
+  "off": 71542,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Poison Blaze",
+  "src": "22df5b1433c2"
+ },
+ {
+  "id": "O001_011788",
+  "file": "O001",
+  "off": 71560,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Paralyze Attack",
+  "src": "3360dd3b3bac"
+ },
+ {
+  "id": "O001_01179c",
+  "file": "O001",
+  "off": 71580,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Launcher",
+  "src": "30668f1121d2"
+ },
+ {
+  "id": "O001_0117a8",
+  "file": "O001",
+  "off": 71592,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Exorcism",
+  "src": "9714756c4642"
+ },
+ {
+  "id": "O001_0117b2",
+  "file": "O001",
+  "off": 71602,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Doll",
+  "src": "20a7646ff789"
+ },
+ {
+  "id": "O001_0117ba",
+  "file": "O001",
+  "off": 71610,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Blood Rain",
+  "src": "544355aadaa4"
+ },
+ {
+  "id": "O001_0117ca",
+  "file": "O001",
+  "off": 71626,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Laser",
+  "src": "86c4a6c6105c"
+ },
+ {
+  "id": "O001_0117d4",
+  "file": "O001",
+  "off": 71636,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Aegis",
+  "src": "f4c9123936ee"
+ },
+ {
+  "id": "O001_0117de",
+  "file": "O001",
+  "off": 71646,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Shadow Wave",
+  "src": "1877b7574300"
+ },
+ {
+  "id": "O001_0117f0",
+  "file": "O001",
+  "off": 71664,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Blow Bolt",
+  "src": "d93add7f5578"
+ },
+ {
+  "id": "O001_0117fe",
+  "file": "O001",
+  "off": 71678,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Terror Blaze",
+  "src": "0b08a3b07065"
+ },
+ {
+  "id": "O001_01180e",
+  "file": "O001",
+  "off": 71694,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Aura Basher",
+  "src": "793c1103a7a3"
+ },
+ {
+  "id": "O001_011820",
+  "file": "O001",
+  "off": 71712,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Aura Basher",
+  "src": "793c1103a7a3"
+ },
+ {
+  "id": "O001_011832",
+  "file": "O001",
+  "off": 71730,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Cross Shuriken",
+  "src": "b87b96a6eb3a"
+ },
+ {
+  "id": "O001_011842",
+  "file": "O001",
+  "off": 71746,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Murder",
+  "src": "fcc14ce87b7e"
+ },
+ {
+  "id": "O001_01184a",
+  "file": "O001",
+  "off": 71754,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Pulverize",
+  "src": "601177a1e344"
+ },
+ {
+  "id": "O001_011856",
+  "file": "O001",
+  "off": 71766,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Kagenui",
+  "src": "34981c838a96"
+ },
+ {
+  "id": "O001_011860",
+  "file": "O001",
+  "off": 71776,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Blink",
+  "src": "baff1ebcc4ec"
+ },
+ {
+  "id": "O001_01186a",
+  "file": "O001",
+  "off": 71786,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Stampede",
+  "src": "39254d7aec53"
+ },
+ {
+  "id": "O001_011878",
+  "file": "O001",
+  "off": 71800,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heat Blaze",
+  "src": "297133829dbf"
+ },
+ {
+  "id": "O001_011888",
+  "file": "O001",
+  "off": 71816,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mega Flow",
+  "src": "96a53eb29eeb"
+ },
+ {
+  "id": "O001_011894",
+  "file": "O001",
+  "off": 71828,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Flare Howl",
+  "src": "2bcef275a0ee"
+ },
+ {
+  "id": "O001_0118a4",
+  "file": "O001",
+  "off": 71844,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Drain Howl",
+  "src": "c247fdc93bf1"
+ },
+ {
+  "id": "O001_0118b4",
+  "file": "O001",
+  "off": 71860,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Blizzard Howl",
+  "src": "9055fdef5ce5"
+ },
+ {
+  "id": "O001_0118c4",
+  "file": "O001",
+  "off": 71876,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Explode",
+  "src": "64b1dcf89888"
+ },
+ {
+  "id": "O001_0118d4",
+  "file": "O001",
+  "off": 71892,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Triple Blaze",
+  "src": "550ecf6237fb"
+ },
+ {
+  "id": "O001_0118e6",
+  "file": "O001",
+  "off": 71910,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bio Missile",
+  "src": "4efcb57f7a84"
+ },
+ {
+  "id": "O001_0118f4",
+  "file": "O001",
+  "off": 71924,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Aegis",
+  "src": "f4c9123936ee"
+ },
+ {
+  "id": "O001_0118fe",
+  "file": "O001",
+  "off": 71934,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Saint Wave",
+  "src": "3d60a53ef719"
+ },
+ {
+  "id": "O001_011910",
+  "file": "O001",
+  "off": 71952,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Testament",
+  "src": "8be45cf474be"
+ },
+ {
+  "id": "O001_01191e",
+  "file": "O001",
+  "off": 71966,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Divine",
+  "src": "7bf06a384d66"
+ },
+ {
+  "id": "O001_01192a",
+  "file": "O001",
+  "off": 71978,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Neutralize",
+  "src": "f4f0ffc1c5b7"
+ },
+ {
+  "id": "O001_01193a",
+  "file": "O001",
+  "off": 71994,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Repose",
+  "src": "0b9677d5a9cf"
+ },
+ {
+  "id": "O001_011944",
+  "file": "O001",
+  "off": 72004,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Call Angel",
+  "src": "c93fb184da19"
+ },
+ {
+  "id": "O001_011956",
+  "file": "O001",
+  "off": 72022,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "God Bless",
+  "src": "093277da9010"
+ },
+ {
+  "id": "O001_011964",
+  "file": "O001",
+  "off": 72036,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Spr 89",
+  "src": "e7362059feda"
+ },
+ {
+  "id": "O001_01196e",
+  "file": "O001",
+  "off": 72046,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Spr 90",
+  "src": "f295190b4ff7"
+ },
+ {
+  "id": "O001_011978",
+  "file": "O001",
+  "off": 72056,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Herb",
+  "src": "87ad7039bb03"
+ },
+ {
+  "id": "O001_01197e",
+  "file": "O001",
+  "off": 72062,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Remedy",
+  "src": "5b7359255b3e"
+ },
+ {
+  "id": "O001_011986",
+  "file": "O001",
+  "off": 72070,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Heal Stone",
+  "src": "e9d20483b6a3"
+ },
+ {
+  "id": "O001_011994",
+  "file": "O001",
+  "off": 72084,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Flame Stone",
+  "src": "d02849f2dfeb"
+ },
+ {
+  "id": "O001_0119a2",
+  "file": "O001",
+  "off": 72098,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Shock Stone",
+  "src": "f6ae43f1c1fb"
+ },
+ {
+  "id": "O001_0119b0",
+  "file": "O001",
+  "off": 72112,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Icicle Stone",
+  "src": "4cdf0516e913"
+ },
+ {
+  "id": "O001_0119be",
+  "file": "O001",
+  "off": 72126,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Warp Stone",
+  "src": "4ee5f00ba020"
+ },
+ {
+  "id": "O001_0119cc",
+  "file": "O001",
+  "off": 72140,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Purify",
+  "src": "cee9b003960e"
+ },
+ {
+  "id": "O001_0119d4",
+  "file": "O001",
+  "off": 72148,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Detox",
+  "src": "a08e63611d21"
+ },
+ {
+  "id": "O001_0119dc",
+  "file": "O001",
+  "off": 72156,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Cure-All St.",
+  "src": "dccc938616bf"
+ },
+ {
+  "id": "O001_0119ea",
+  "file": "O001",
+  "off": 72170,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Repairer",
+  "src": "10f4c45ec4aa"
+ },
+ {
+  "id": "O001_0119fe",
+  "file": "O001",
+  "off": 72190,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Barrier St.",
+  "src": "49db9558ba6e"
+ },
+ {
+  "id": "O001_011a0c",
+  "file": "O001",
+  "off": 72204,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Revival Talisman",
+  "src": "ed80c0033cf1"
+ },
+ {
+  "id": "O001_011a1e",
+  "file": "O001",
+  "off": 72222,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Chrono",
+  "src": "154f4f02e783"
+ },
+ {
+  "id": "O001_011a26",
+  "file": "O001",
+  "off": 72230,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Haste Stone",
+  "src": "5e5c2cfe1abc"
+ },
+ {
+  "id": "O001_011a34",
+  "file": "O001",
+  "off": 72244,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Wild God St.",
+  "src": "cf08288eac4a"
+ },
+ {
+  "id": "O001_011a42",
+  "file": "O001",
+  "off": 72258,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Steroid Power",
+  "src": "5dbbd2b46fd7"
+ },
+ {
+  "id": "O001_011a54",
+  "file": "O001",
+  "off": 72276,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Steroid Speed",
+  "src": "f5fb3fee2f1d"
+ },
+ {
+  "id": "O001_011a68",
+  "file": "O001",
+  "off": 72296,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Steroid Guard",
+  "src": "37a450858270"
+ },
+ {
+  "id": "O001_011a7a",
+  "file": "O001",
+  "off": 72314,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Mana Nut",
+  "src": "a04df3450a02"
+ },
+ {
+  "id": "O001_011a84",
+  "file": "O001",
+  "off": 72324,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Mana Extract",
+  "src": "fbf4fc2bf674"
+ },
+ {
+  "id": "O001_011a92",
+  "file": "O001",
+  "off": 72338,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Magnetic Shield",
+  "src": "336fa4c1c8ed"
+ },
+ {
+  "id": "O001_011aa8",
+  "file": "O001",
+  "off": 72360,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Hang-Up",
+  "src": "dd31a7f207dc"
+ },
+ {
+  "id": "O001_011ab6",
+  "file": "O001",
+  "off": 72374,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "447302227a54"
+ },
+ {
+  "id": "O001_011acc",
+  "file": "O001",
+  "off": 72396,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "V Mine",
+  "src": "d9f80f877771"
+ },
+ {
+  "id": "O001_011ad6",
+  "file": "O001",
+  "off": 72406,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "V Gate",
+  "src": "244855318386"
+ },
+ {
+  "id": "O001_011ae0",
+  "file": "O001",
+  "off": 72416,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "V Cannon",
+  "src": "380c3cc489c4"
+ },
+ {
+  "id": "O001_011aec",
+  "file": "O001",
+  "off": 72428,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "V Shield",
+  "src": "02c865b48d4f"
+ },
+ {
+  "id": "O001_011af6",
+  "file": "O001",
+  "off": 72438,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "V Circle HP",
+  "src": "b5ee4ebd88ac"
+ },
+ {
+  "id": "O001_011b06",
+  "file": "O001",
+  "off": 72454,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "V Circle SP",
+  "src": "95d4680d650d"
+ },
+ {
+  "id": "O001_011b16",
+  "file": "O001",
+  "off": 72470,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "V Wall",
+  "src": "e4d6b6ebabe8"
+ },
+ {
+  "id": "O001_011b22",
+  "file": "O001",
+  "off": 72482,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Q-Cannon",
+  "src": "d02ff64c4de6"
+ },
+ {
+  "id": "O001_011b2e",
+  "file": "O001",
+  "off": 72494,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Bio Laser",
+  "src": "627abde2f0d9"
+ },
+ {
+  "id": "O001_011b3c",
+  "file": "O001",
+  "off": 72508,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Flash Blaster",
+  "src": "c4eaadaa685f"
+ },
+ {
+  "id": "O001_011b52",
+  "file": "O001",
+  "off": 72530,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Feather Bomb",
+  "src": "c2eda9b4898b"
+ },
+ {
+  "id": "O001_011b60",
+  "file": "O001",
+  "off": 72544,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Herblore",
+  "src": "747fb888ae89"
+ },
+ {
+  "id": "O001_011b6a",
+  "file": "O001",
+  "off": 72554,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Pharmacy",
+  "src": "f38ed97a8ba0"
+ },
+ {
+  "id": "O001_011b74",
+  "file": "O001",
+  "off": 72564,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Fire Bk.",
+  "src": "5776a18972d4"
+ },
+ {
+  "id": "O001_011b7e",
+  "file": "O001",
+  "off": 72574,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ice Bk.",
+  "src": "90ab4b1cd999"
+ },
+ {
+  "id": "O001_011b88",
+  "file": "O001",
+  "off": 72584,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Bodybuild Book",
+  "src": "e58055e1d7c1"
+ },
+ {
+  "id": "O001_011b98",
+  "file": "O001",
+  "off": 72600,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "God Hand Memoir",
+  "src": "f506a8bb5625"
+ },
+ {
+  "id": "O001_011baa",
+  "file": "O001",
+  "off": 72618,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Ultra Rel. 1",
+  "src": "8603f33dad5c"
+ },
+ {
+  "id": "O001_011bbc",
+  "file": "O001",
+  "off": 72636,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Ultra Rel. 2",
+  "src": "00f214d39095"
+ },
+ {
+  "id": "O001_011bce",
+  "file": "O001",
+  "off": 72654,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Manual",
+  "src": "925122eb8a59"
+ },
+ {
+  "id": "O001_011be2",
+  "file": "O001",
+  "off": 72674,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "New Void Manual",
+  "src": "86abd6c58a6c"
+ },
+ {
+  "id": "O001_011bf8",
+  "file": "O001",
+  "off": 72696,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "True Void Manual",
+  "src": "3da197c66dbf"
+ },
+ {
+  "id": "O001_011d0c",
+  "file": "O001",
+  "off": 72972,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Dark Knight",
+  "src": "ab264fba805d"
+ },
+ {
+  "id": "O001_011d1a",
+  "file": "O001",
+  "off": 72986,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Dark Knight",
+  "src": "ab264fba805d"
+ },
+ {
+  "id": "O001_011d28",
+  "file": "O001",
+  "off": 73000,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Dark Knight",
+  "src": "ab264fba805d"
+ },
+ {
+  "id": "O001_011d36",
+  "file": "O001",
+  "off": 73014,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Dark Knight",
+  "src": "ab264fba805d"
+ },
+ {
+  "id": "O001_011d44",
+  "file": "O001",
+  "off": 73028,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Widow",
+  "src": "a3d861ee7479"
+ },
+ {
+  "id": "O001_011d52",
+  "file": "O001",
+  "off": 73042,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Widow",
+  "src": "7a708b23c2ed"
+ },
+ {
+  "id": "O001_011d5c",
+  "file": "O001",
+  "off": 73052,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Widow",
+  "src": "7a708b23c2ed"
+ },
+ {
+  "id": "O001_011d66",
+  "file": "O001",
+  "off": 73062,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Widow",
+  "src": "7a708b23c2ed"
+ },
+ {
+  "id": "O001_011d70",
+  "file": "O001",
+  "off": 73072,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "d9a06ffa7bb8"
+ },
+ {
+  "id": "O001_011d84",
+  "file": "O001",
+  "off": 73092,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "03caf2394ede"
+ },
+ {
+  "id": "O001_011d94",
+  "file": "O001",
+  "off": 73108,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "03caf2394ede"
+ },
+ {
+  "id": "O001_011da4",
+  "file": "O001",
+  "off": 73124,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "d9a06ffa7bb8"
+ },
+ {
+  "id": "O001_011db8",
+  "file": "O001",
+  "off": 73144,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "03caf2394ede"
+ },
+ {
+  "id": "O001_011dc8",
+  "file": "O001",
+  "off": 73160,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Esper Doll",
+  "src": "03caf2394ede"
+ },
+ {
+  "id": "O001_011dd8",
+  "file": "O001",
+  "off": 73176,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Heavy Gunner",
+  "src": "bd5e8cca638a"
+ },
+ {
+  "id": "O001_011dec",
+  "file": "O001",
+  "off": 73196,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heavy Gunner",
+  "src": "d390d68d0b64"
+ },
+ {
+  "id": "O001_011dfc",
+  "file": "O001",
+  "off": 73212,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heavy Gunner",
+  "src": "d390d68d0b64"
+ },
+ {
+  "id": "O001_011e0c",
+  "file": "O001",
+  "off": 73228,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Kaliman",
+  "src": "69053ab4fe91"
+ },
+ {
+  "id": "O001_011e1c",
+  "file": "O001",
+  "off": 73244,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Kaliman",
+  "src": "21e1aadd5c9d"
+ },
+ {
+  "id": "O001_011e28",
+  "file": "O001",
+  "off": 73256,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Kaliman",
+  "src": "21e1aadd5c9d"
+ },
+ {
+  "id": "O001_011e34",
+  "file": "O001",
+  "off": 73268,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Spell Master",
+  "src": "fb90f6e8aa26"
+ },
+ {
+  "id": "O001_011e48",
+  "file": "O001",
+  "off": 73288,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Spell Master",
+  "src": "f4eae1141faf"
+ },
+ {
+  "id": "O001_011e6a",
+  "file": "O001",
+  "off": 73322,
+  "slots": 7,
+  "raw_prefix": 3,
+  "en": "Professor",
+  "src": "0bf3d48d2640"
+ },
+ {
+  "id": "O001_011e80",
+  "file": "O001",
+  "off": 73344,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Professor",
+  "src": "0bf3d48d2640"
+ },
+ {
+  "id": "O001_011e90",
+  "file": "O001",
+  "off": 73360,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "M. Soldier",
+  "src": "800a81a1a95a"
+ },
+ {
+  "id": "O001_011e9c",
+  "file": "O001",
+  "off": 73372,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "M.Sold",
+  "src": "afe00ebbc567"
+ },
+ {
+  "id": "O001_011ea4",
+  "file": "O001",
+  "off": 73380,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "cb71aad5b6d7"
+ },
+ {
+  "id": "O001_011eb2",
+  "file": "O001",
+  "off": 73394,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_011ebc",
+  "file": "O001",
+  "off": 73404,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_011ec6",
+  "file": "O001",
+  "off": 73414,
+  "slots": 6,
+  "raw_prefix": 3,
+  "en": "Machinery",
+  "src": "bd039eb622e4"
+ },
+ {
+  "id": "O001_011eda",
+  "file": "O001",
+  "off": 73434,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Machinery",
+  "src": "bd039eb622e4"
+ },
+ {
+  "id": "O001_011ee8",
+  "file": "O001",
+  "off": 73448,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Machinery",
+  "src": "bd039eb622e4"
+ },
+ {
+  "id": "O001_011ef6",
+  "file": "O001",
+  "off": 73462,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": "Geomnc",
+  "src": "bbb7242a4383"
+ },
+ {
+  "id": "O001_011f04",
+  "file": "O001",
+  "off": 73476,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Geomnc",
+  "src": "bbb7242a4383"
+ },
+ {
+  "id": "O001_011f0c",
+  "file": "O001",
+  "off": 73484,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Geomnc",
+  "src": "bbb7242a4383"
+ },
+ {
+  "id": "O001_011f14",
+  "file": "O001",
+  "off": 73492,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Samurai",
+  "src": "9c6206e1aa64"
+ },
+ {
+  "id": "O001_011f22",
+  "file": "O001",
+  "off": 73506,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Samurai",
+  "src": "f33f58d5cd43"
+ },
+ {
+  "id": "O001_011f2c",
+  "file": "O001",
+  "off": 73516,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Samurai",
+  "src": "f33f58d5cd43"
+ },
+ {
+  "id": "O001_011f36",
+  "file": "O001",
+  "off": 73526,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Army",
+  "src": "6426dafaf2e5"
+ },
+ {
+  "id": "O001_011f46",
+  "file": "O001",
+  "off": 73542,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Army",
+  "src": "6426dafaf2e5"
+ },
+ {
+  "id": "O001_011f50",
+  "file": "O001",
+  "off": 73552,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Army",
+  "src": "6426dafaf2e5"
+ },
+ {
+  "id": "O001_011f5a",
+  "file": "O001",
+  "off": 73562,
+  "slots": 6,
+  "raw_prefix": 3,
+  "en": "Sergeant",
+  "src": "f587ceca1de5"
+ },
+ {
+  "id": "O001_011f6e",
+  "file": "O001",
+  "off": 73582,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Sergeant",
+  "src": "f587ceca1de5"
+ },
+ {
+  "id": "O001_011f7c",
+  "file": "O001",
+  "off": 73596,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Sergeant",
+  "src": "f587ceca1de5"
+ },
+ {
+  "id": "O001_011f8a",
+  "file": "O001",
+  "off": 73610,
+  "slots": 9,
+  "raw_prefix": 3,
+  "en": "Command Officer",
+  "src": "a0ce95b41253"
+ },
+ {
+  "id": "O001_011fa4",
+  "file": "O001",
+  "off": 73636,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Void A",
+  "src": "2e0e0ddfea16"
+ },
+ {
+  "id": "O001_011fb4",
+  "file": "O001",
+  "off": 73652,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void B",
+  "src": "0274f14701dd"
+ },
+ {
+  "id": "O001_011fc0",
+  "file": "O001",
+  "off": 73664,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void C",
+  "src": "1249ace6273f"
+ },
+ {
+  "id": "O001_011fcc",
+  "file": "O001",
+  "off": 73676,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void D",
+  "src": "56c7d4d65f70"
+ },
+ {
+  "id": "O001_011fd8",
+  "file": "O001",
+  "off": 73688,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void E",
+  "src": "5f8c25577952"
+ },
+ {
+  "id": "O001_011fe4",
+  "file": "O001",
+  "off": 73700,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void F",
+  "src": "5f60a9e560c5"
+ },
+ {
+  "id": "O001_011ff0",
+  "file": "O001",
+  "off": 73712,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void G",
+  "src": "80b055faec0f"
+ },
+ {
+  "id": "O001_011ffc",
+  "file": "O001",
+  "off": 73724,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void H",
+  "src": "44f7170f813f"
+ },
+ {
+  "id": "O001_012008",
+  "file": "O001",
+  "off": 73736,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void I",
+  "src": "cf1b6baf4839"
+ },
+ {
+  "id": "O001_012014",
+  "file": "O001",
+  "off": 73748,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void J",
+  "src": "7703ae2d9b7d"
+ },
+ {
+  "id": "O001_012020",
+  "file": "O001",
+  "off": 73760,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void K",
+  "src": "c23ef8112b98"
+ },
+ {
+  "id": "O001_01202c",
+  "file": "O001",
+  "off": 73772,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void L",
+  "src": "66543b5ee479"
+ },
+ {
+  "id": "O001_012038",
+  "file": "O001",
+  "off": 73784,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void M",
+  "src": "e60eb994fcb1"
+ },
+ {
+  "id": "O001_012044",
+  "file": "O001",
+  "off": 73796,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void N",
+  "src": "ed02cc72d87e"
+ },
+ {
+  "id": "O001_012050",
+  "file": "O001",
+  "off": 73808,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void O",
+  "src": "9f9367633775"
+ },
+ {
+  "id": "O001_01205c",
+  "file": "O001",
+  "off": 73820,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void P",
+  "src": "35bcd06938a8"
+ },
+ {
+  "id": "O001_012068",
+  "file": "O001",
+  "off": 73832,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void Q",
+  "src": "31ebd28224d0"
+ },
+ {
+  "id": "O001_012074",
+  "file": "O001",
+  "off": 73844,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void R",
+  "src": "324ea9ca9577"
+ },
+ {
+  "id": "O001_012080",
+  "file": "O001",
+  "off": 73856,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void S",
+  "src": "c289908f892e"
+ },
+ {
+  "id": "O001_01208c",
+  "file": "O001",
+  "off": 73868,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void T",
+  "src": "6cd6079e6dbc"
+ },
+ {
+  "id": "O001_012098",
+  "file": "O001",
+  "off": 73880,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void U",
+  "src": "7782ac4824b5"
+ },
+ {
+  "id": "O001_0120a4",
+  "file": "O001",
+  "off": 73892,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void V",
+  "src": "37a2b7ceedc2"
+ },
+ {
+  "id": "O001_0120b0",
+  "file": "O001",
+  "off": 73904,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void W",
+  "src": "33b30f36f01b"
+ },
+ {
+  "id": "O001_0120bc",
+  "file": "O001",
+  "off": 73916,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void X",
+  "src": "61d3df378400"
+ },
+ {
+  "id": "O001_0120c8",
+  "file": "O001",
+  "off": 73928,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void Y",
+  "src": "276d8adcb34b"
+ },
+ {
+  "id": "O001_0120d4",
+  "file": "O001",
+  "off": 73940,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void Z",
+  "src": "27f728633a80"
+ },
+ {
+  "id": "O001_0120e0",
+  "file": "O001",
+  "off": 73952,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Void a",
+  "src": "7fcdd89f0e5b"
+ },
+ {
+  "id": "O001_0120ec",
+  "file": "O001",
+  "off": 73964,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Mushroom Void",
+  "src": "db52f1d404bc"
+ },
+ {
+  "id": "O001_0120fc",
+  "file": "O001",
+  "off": 73980,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Mushroom Void",
+  "src": "db52f1d404bc"
+ },
+ {
+  "id": "O001_01210c",
+  "file": "O001",
+  "off": 73996,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Mushroom Void",
+  "src": "db52f1d404bc"
+ },
+ {
+  "id": "O001_01211c",
+  "file": "O001",
+  "off": 74012,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Gunner",
+  "src": "1a6feb0dedd0"
+ },
+ {
+  "id": "O001_01212a",
+  "file": "O001",
+  "off": 74026,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Engr",
+  "src": "65533034c2fc"
+ },
+ {
+  "id": "O001_012130",
+  "file": "O001",
+  "off": 74032,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Sniper",
+  "src": "fb6f69b5ac2e"
+ },
+ {
+  "id": "O001_01213c",
+  "file": "O001",
+  "off": 74044,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Armor Gunner",
+  "src": "a196f902a642"
+ },
+ {
+  "id": "O001_01214e",
+  "file": "O001",
+  "off": 74062,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Bazooka",
+  "src": "a8b3b25ea864"
+ },
+ {
+  "id": "O001_01215a",
+  "file": "O001",
+  "off": 74074,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Chem.",
+  "src": "9cd05e0cc13f"
+ },
+ {
+  "id": "O001_012162",
+  "file": "O001",
+  "off": 74082,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_01216c",
+  "file": "O001",
+  "off": 74092,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc. Gunner",
+  "src": "a69c85408462"
+ },
+ {
+  "id": "O001_01217a",
+  "file": "O001",
+  "off": 74106,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ofc.Engr",
+  "src": "8264e871ca8d"
+ },
+ {
+  "id": "O001_012184",
+  "file": "O001",
+  "off": 74116,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Sniper",
+  "src": "2850cb871a97"
+ },
+ {
+  "id": "O001_012194",
+  "file": "O001",
+  "off": 74132,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ofc. Armor Gunner",
+  "src": "3e322b9d55b5"
+ },
+ {
+  "id": "O001_0121aa",
+  "file": "O001",
+  "off": 74154,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Bazooka",
+  "src": "ee4dd665a83e"
+ },
+ {
+  "id": "O001_0121ba",
+  "file": "O001",
+  "off": 74170,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Ofc. Chem.",
+  "src": "7b57640d16d6"
+ },
+ {
+  "id": "O001_0121c6",
+  "file": "O001",
+  "off": 74182,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc.Chaplain",
+  "src": "ba68e60884c0"
+ },
+ {
+  "id": "O001_0121d4",
+  "file": "O001",
+  "off": 74196,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Gunner",
+  "src": "1a6feb0dedd0"
+ },
+ {
+  "id": "O001_0121e2",
+  "file": "O001",
+  "off": 74210,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Engr",
+  "src": "65533034c2fc"
+ },
+ {
+  "id": "O001_0121e8",
+  "file": "O001",
+  "off": 74216,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Sniper",
+  "src": "fb6f69b5ac2e"
+ },
+ {
+  "id": "O001_0121f4",
+  "file": "O001",
+  "off": 74228,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Armor Gunner",
+  "src": "a196f902a642"
+ },
+ {
+  "id": "O001_012206",
+  "file": "O001",
+  "off": 74246,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Bazooka",
+  "src": "a8b3b25ea864"
+ },
+ {
+  "id": "O001_012212",
+  "file": "O001",
+  "off": 74258,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Chem.",
+  "src": "9cd05e0cc13f"
+ },
+ {
+  "id": "O001_01221a",
+  "file": "O001",
+  "off": 74266,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_012224",
+  "file": "O001",
+  "off": 74276,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc. Gunner",
+  "src": "a69c85408462"
+ },
+ {
+  "id": "O001_012232",
+  "file": "O001",
+  "off": 74290,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ofc.Engr",
+  "src": "8264e871ca8d"
+ },
+ {
+  "id": "O001_01223c",
+  "file": "O001",
+  "off": 74300,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Sniper",
+  "src": "2850cb871a97"
+ },
+ {
+  "id": "O001_01224c",
+  "file": "O001",
+  "off": 74316,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ofc. Armor Gunner",
+  "src": "3e322b9d55b5"
+ },
+ {
+  "id": "O001_012262",
+  "file": "O001",
+  "off": 74338,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Bazooka",
+  "src": "ee4dd665a83e"
+ },
+ {
+  "id": "O001_012272",
+  "file": "O001",
+  "off": 74354,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Ofc. Chem.",
+  "src": "7b57640d16d6"
+ },
+ {
+  "id": "O001_01227e",
+  "file": "O001",
+  "off": 74366,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc.Chaplain",
+  "src": "ba68e60884c0"
+ },
+ {
+  "id": "O001_01228c",
+  "file": "O001",
+  "off": 74380,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Gunner",
+  "src": "1a6feb0dedd0"
+ },
+ {
+  "id": "O001_01229a",
+  "file": "O001",
+  "off": 74394,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Engr",
+  "src": "65533034c2fc"
+ },
+ {
+  "id": "O001_0122a0",
+  "file": "O001",
+  "off": 74400,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Sniper",
+  "src": "fb6f69b5ac2e"
+ },
+ {
+  "id": "O001_0122ac",
+  "file": "O001",
+  "off": 74412,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Armor Gunner",
+  "src": "a196f902a642"
+ },
+ {
+  "id": "O001_0122be",
+  "file": "O001",
+  "off": 74430,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Bazooka",
+  "src": "a8b3b25ea864"
+ },
+ {
+  "id": "O001_0122ca",
+  "file": "O001",
+  "off": 74442,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Chem.",
+  "src": "9cd05e0cc13f"
+ },
+ {
+  "id": "O001_0122d2",
+  "file": "O001",
+  "off": 74450,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_0122dc",
+  "file": "O001",
+  "off": 74460,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc. Gunner",
+  "src": "a69c85408462"
+ },
+ {
+  "id": "O001_0122ea",
+  "file": "O001",
+  "off": 74474,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ofc.Engr",
+  "src": "8264e871ca8d"
+ },
+ {
+  "id": "O001_0122f4",
+  "file": "O001",
+  "off": 74484,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Sniper",
+  "src": "2850cb871a97"
+ },
+ {
+  "id": "O001_012304",
+  "file": "O001",
+  "off": 74500,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ofc. Armor Gunner",
+  "src": "3e322b9d55b5"
+ },
+ {
+  "id": "O001_01231a",
+  "file": "O001",
+  "off": 74522,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Bazooka",
+  "src": "ee4dd665a83e"
+ },
+ {
+  "id": "O001_01232a",
+  "file": "O001",
+  "off": 74538,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Ofc. Chem.",
+  "src": "7b57640d16d6"
+ },
+ {
+  "id": "O001_012336",
+  "file": "O001",
+  "off": 74550,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc.Chaplain",
+  "src": "ba68e60884c0"
+ },
+ {
+  "id": "O001_012344",
+  "file": "O001",
+  "off": 74564,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "b92cd6e3bfa4"
+ },
+ {
+  "id": "O001_012350",
+  "file": "O001",
+  "off": 74576,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "e281652f9dec"
+ },
+ {
+  "id": "O001_012358",
+  "file": "O001",
+  "off": 74584,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "b92cd6e3bfa4"
+ },
+ {
+  "id": "O001_012364",
+  "file": "O001",
+  "off": 74596,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "e281652f9dec"
+ },
+ {
+  "id": "O001_01236c",
+  "file": "O001",
+  "off": 74604,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "b92cd6e3bfa4"
+ },
+ {
+  "id": "O001_012378",
+  "file": "O001",
+  "off": 74616,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Mole",
+  "src": "e281652f9dec"
+ },
+ {
+  "id": "O001_012380",
+  "file": "O001",
+  "off": 74624,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Mosquito",
+  "src": "f9768a218377"
+ },
+ {
+  "id": "O001_012390",
+  "file": "O001",
+  "off": 74640,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Stiletto",
+  "src": "5989d0531d41"
+ },
+ {
+  "id": "O001_01239c",
+  "file": "O001",
+  "off": 74652,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Cancer",
+  "src": "e5c0caa4bb43"
+ },
+ {
+  "id": "O001_0123ac",
+  "file": "O001",
+  "off": 74668,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Hard Cancer",
+  "src": "81a57d6cc7fa"
+ },
+ {
+  "id": "O001_0123be",
+  "file": "O001",
+  "off": 74686,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Mantis",
+  "src": "31093112c04f"
+ },
+ {
+  "id": "O001_0123ce",
+  "file": "O001",
+  "off": 74702,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Mantis F",
+  "src": "6a5484220047"
+ },
+ {
+  "id": "O001_0123da",
+  "file": "O001",
+  "off": 74714,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Red Mantis",
+  "src": "1546ca1e64cf"
+ },
+ {
+  "id": "O001_0123ea",
+  "file": "O001",
+  "off": 74730,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Red Mantis F",
+  "src": "cb9398e8a67b"
+ },
+ {
+  "id": "O001_0123fc",
+  "file": "O001",
+  "off": 74748,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Tarantula",
+  "src": "5908ccb20ef3"
+ },
+ {
+  "id": "O001_01240e",
+  "file": "O001",
+  "off": 74766,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Arachne",
+  "src": "e1a18f01857d"
+ },
+ {
+  "id": "O001_01241a",
+  "file": "O001",
+  "off": 74778,
+  "slots": 7,
+  "raw_prefix": 3,
+  "en": "Organizer",
+  "src": "3bc4fba7b5ef"
+ },
+ {
+  "id": "O001_012430",
+  "file": "O001",
+  "off": 74800,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Gelatin Cube",
+  "src": "9d0bfd8a1ec0"
+ },
+ {
+  "id": "O001_012446",
+  "file": "O001",
+  "off": 74822,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Cell Block",
+  "src": "f901903ac429"
+ },
+ {
+  "id": "O001_012454",
+  "file": "O001",
+  "off": 74836,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Slime",
+  "src": "63cf084a7d2b"
+ },
+ {
+  "id": "O001_01245e",
+  "file": "O001",
+  "off": 74846,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Bug Men",
+  "src": "271ebff276f7"
+ },
+ {
+  "id": "O001_01246e",
+  "file": "O001",
+  "off": 74862,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Bug Fighter",
+  "src": "99a432da08ee"
+ },
+ {
+  "id": "O001_01247e",
+  "file": "O001",
+  "off": 74878,
+  "slots": 5,
+  "raw_prefix": 3,
+  "en": "Droid A",
+  "src": "766235e40bd0"
+ },
+ {
+  "id": "O001_012490",
+  "file": "O001",
+  "off": 74896,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Droid B",
+  "src": "047b4209ae8b"
+ },
+ {
+  "id": "O001_01249c",
+  "file": "O001",
+  "off": 74908,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Hydroid",
+  "src": "62b577e697fa"
+ },
+ {
+  "id": "O001_0124ae",
+  "file": "O001",
+  "off": 74926,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Elder Droid",
+  "src": "f4323feb90c2"
+ },
+ {
+  "id": "O001_0124c0",
+  "file": "O001",
+  "off": 74944,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Folgore Troop",
+  "src": "8e5bca4ebab9"
+ },
+ {
+  "id": "O001_0124d4",
+  "file": "O001",
+  "off": 74964,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Folgore Troop",
+  "src": "c70cabd655c9"
+ },
+ {
+  "id": "O001_0124e4",
+  "file": "O001",
+  "off": 74980,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Folgore Troop",
+  "src": "c70cabd655c9"
+ },
+ {
+  "id": "O001_0124f4",
+  "file": "O001",
+  "off": 74996,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Folgore Troop",
+  "src": "c70cabd655c9"
+ },
+ {
+  "id": "O001_012504",
+  "file": "O001",
+  "off": 75012,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Drifter",
+  "src": "4afdf7568fe7"
+ },
+ {
+  "id": "O001_012522",
+  "file": "O001",
+  "off": 75042,
+  "slots": 6,
+  "raw_prefix": 3,
+  "en": "Lancelot",
+  "src": "19125e0620ea"
+ },
+ {
+  "id": "O001_012536",
+  "file": "O001",
+  "off": 75062,
+  "slots": 5,
+  "raw_prefix": 3,
+  "en": "Tsuchimkdo",
+  "src": "8df21fb6ec7a"
+ },
+ {
+  "id": "O001_012548",
+  "file": "O001",
+  "off": 75080,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ange",
+  "src": "52551d083167"
+ },
+ {
+  "id": "O001_012556",
+  "file": "O001",
+  "off": 75094,
+  "slots": 5,
+  "raw_prefix": 3,
+  "en": "Raggadol",
+  "src": "0543a6a368ce"
+ },
+ {
+  "id": "O001_012568",
+  "file": "O001",
+  "off": 75112,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Void Master",
+  "src": "6b40f2ccaae2"
+ },
+ {
+  "id": "O001_01257e",
+  "file": "O001",
+  "off": 75134,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Battery",
+  "src": "ab52246815d4"
+ },
+ {
+  "id": "O001_01258e",
+  "file": "O001",
+  "off": 75150,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "TimeBomb",
+  "src": "132ddab9fef3"
+ },
+ {
+  "id": "O001_01259e",
+  "file": "O001",
+  "off": 75166,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Gunner",
+  "src": "96e0c0da8f53"
+ },
+ {
+  "id": "O001_0125ae",
+  "file": "O001",
+  "off": 75182,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Engr",
+  "src": "65533034c2fc"
+ },
+ {
+  "id": "O001_0125b4",
+  "file": "O001",
+  "off": 75188,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Sniper",
+  "src": "fb6f69b5ac2e"
+ },
+ {
+  "id": "O001_0125c0",
+  "file": "O001",
+  "off": 75200,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Armor Gunner",
+  "src": "a196f902a642"
+ },
+ {
+  "id": "O001_0125d2",
+  "file": "O001",
+  "off": 75218,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Bazooka",
+  "src": "a8b3b25ea864"
+ },
+ {
+  "id": "O001_0125de",
+  "file": "O001",
+  "off": 75230,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Chem.",
+  "src": "9cd05e0cc13f"
+ },
+ {
+  "id": "O001_0125e6",
+  "file": "O001",
+  "off": 75238,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Chaplain",
+  "src": "82ea61999892"
+ },
+ {
+  "id": "O001_0125f0",
+  "file": "O001",
+  "off": 75248,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc. Gunner",
+  "src": "a69c85408462"
+ },
+ {
+  "id": "O001_0125fe",
+  "file": "O001",
+  "off": 75262,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ofc.Engr",
+  "src": "8264e871ca8d"
+ },
+ {
+  "id": "O001_012608",
+  "file": "O001",
+  "off": 75272,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Sniper",
+  "src": "2850cb871a97"
+ },
+ {
+  "id": "O001_012618",
+  "file": "O001",
+  "off": 75288,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Ofc. Armor Gunner",
+  "src": "3e322b9d55b5"
+ },
+ {
+  "id": "O001_01262e",
+  "file": "O001",
+  "off": 75310,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Ofc. Bazooka",
+  "src": "ee4dd665a83e"
+ },
+ {
+  "id": "O001_01263e",
+  "file": "O001",
+  "off": 75326,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Ofc. Chem.",
+  "src": "7b57640d16d6"
+ },
+ {
+  "id": "O001_01264a",
+  "file": "O001",
+  "off": 75338,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ofc.Chaplain",
+  "src": "ba68e60884c0"
+ },
+ {
+  "id": "O001_012658",
+  "file": "O001",
+  "off": 75352,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Airborne Trooper",
+  "src": "74ad77ce05bd"
+ },
+ {
+  "id": "O001_01266c",
+  "file": "O001",
+  "off": 75372,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "b3422f46061e"
+ },
+ {
+  "id": "O001_01267c",
+  "file": "O001",
+  "off": 75388,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_012688",
+  "file": "O001",
+  "off": 75400,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_012694",
+  "file": "O001",
+  "off": 75412,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_0126a0",
+  "file": "O001",
+  "off": 75424,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_0126ac",
+  "file": "O001",
+  "off": 75436,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_0126b8",
+  "file": "O001",
+  "off": 75448,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Paladin",
+  "src": "44efe47cab8d"
+ },
+ {
+  "id": "O001_0126c4",
+  "file": "O001",
+  "off": 75460,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Batt A",
+  "src": "a5778a33f9bb"
+ },
+ {
+  "id": "O001_0126cc",
+  "file": "O001",
+  "off": 75468,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Batt B",
+  "src": "197d9f64398c"
+ },
+ {
+  "id": "O001_0126d4",
+  "file": "O001",
+  "off": 75476,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Mimic",
+  "src": "b5b2823bcc76"
+ },
+ {
+  "id": "O001_0126e2",
+  "file": "O001",
+  "off": 75490,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Living Trap",
+  "src": "250378f358a4"
+ },
+ {
+  "id": "O001_0126f4",
+  "file": "O001",
+  "off": 75508,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Box",
+  "src": "e3687653f1be"
+ },
+ {
+  "id": "O001_0126fa",
+  "file": "O001",
+  "off": 75514,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Dragon",
+  "src": "ba8c67df93ed"
+ },
+ {
+  "id": "O001_01270a",
+  "file": "O001",
+  "off": 75530,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Red Dragon",
+  "src": "1422dc14a9ba"
+ },
+ {
+  "id": "O001_01271a",
+  "file": "O001",
+  "off": 75546,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Dark Dragon",
+  "src": "f0b25a738680"
+ },
+ {
+  "id": "O001_01272a",
+  "file": "O001",
+  "off": 75562,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Dragon Zombie",
+  "src": "6dc91dab8b56"
+ },
+ {
+  "id": "O001_01273a",
+  "file": "O001",
+  "off": 75578,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dragon Emperor",
+  "src": "81f1178446a8"
+ },
+ {
+  "id": "O001_01274e",
+  "file": "O001",
+  "off": 75598,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": "Zombie",
+  "src": "4f84b87d9679"
+ },
+ {
+  "id": "O001_01275c",
+  "file": "O001",
+  "off": 75612,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "ZombieKnight",
+  "src": "75bbd7ee78a3"
+ },
+ {
+  "id": "O001_01276a",
+  "file": "O001",
+  "off": 75626,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Zombie Archer",
+  "src": "b12d995479d1"
+ },
+ {
+  "id": "O001_01277c",
+  "file": "O001",
+  "off": 75644,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Wizard Zombie",
+  "src": "667583c3f92c"
+ },
+ {
+  "id": "O001_01278e",
+  "file": "O001",
+  "off": 75662,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Skeleton",
+  "src": "e2aa050fc9c6"
+ },
+ {
+  "id": "O001_01279a",
+  "file": "O001",
+  "off": 75674,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Living Armor",
+  "src": "eef00fed4dbd"
+ },
+ {
+  "id": "O001_0127ac",
+  "file": "O001",
+  "off": 75692,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Dragoon",
+  "src": "a405dc6e29c6"
+ },
+ {
+  "id": "O001_0127bc",
+  "file": "O001",
+  "off": 75708,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dragoon Gunner",
+  "src": "1537072ad504"
+ },
+ {
+  "id": "O001_0127d0",
+  "file": "O001",
+  "off": 75728,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Armor Dog",
+  "src": "2f391f67c397"
+ },
+ {
+  "id": "O001_0127e4",
+  "file": "O001",
+  "off": 75748,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Cerberus",
+  "src": "b2c8a7ac484a"
+ },
+ {
+  "id": "O001_0127f0",
+  "file": "O001",
+  "off": 75760,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Dog",
+  "src": "fc640131e646"
+ },
+ {
+  "id": "O001_0127f6",
+  "file": "O001",
+  "off": 75766,
+  "slots": 6,
+  "raw_prefix": 3,
+  "en": "Vulture",
+  "src": "25178a9a5fa0"
+ },
+ {
+  "id": "O001_01280a",
+  "file": "O001",
+  "off": 75786,
+  "slots": 5,
+  "raw_prefix": 3,
+  "en": "Gigantes",
+  "src": "cd99fcfb546b"
+ },
+ {
+  "id": "O001_01281c",
+  "file": "O001",
+  "off": 75804,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Hecatoncheir",
+  "src": "7635951bd82e"
+ },
+ {
+  "id": "O001_01282c",
+  "file": "O001",
+  "off": 75820,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Bandit",
+  "src": "75f6dc6a5ffb"
+ },
+ {
+  "id": "O001_012836",
+  "file": "O001",
+  "off": 75830,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": "Demon",
+  "src": "689930a1dde5"
+ },
+ {
+  "id": "O001_012844",
+  "file": "O001",
+  "off": 75844,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Ninja",
+  "src": "78bd9d08c508"
+ },
+ {
+  "id": "O001_012852",
+  "file": "O001",
+  "off": 75858,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Ninja",
+  "src": "a3535766818d"
+ },
+ {
+  "id": "O001_01285c",
+  "file": "O001",
+  "off": 75868,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Maiden",
+  "src": "f659497b7159"
+ },
+ {
+  "id": "O001_012866",
+  "file": "O001",
+  "off": 75878,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Gran",
+  "src": "bb6f5be3dc33"
+ },
+ {
+  "id": "O001_01286c",
+  "file": "O001",
+  "off": 75884,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Merchant",
+  "src": "35bf15dda35b"
+ },
+ {
+  "id": "O001_012876",
+  "file": "O001",
+  "off": 75894,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Pops",
+  "src": "04681a29be39"
+ },
+ {
+  "id": "O001_01287c",
+  "file": "O001",
+  "off": 75900,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Folk",
+  "src": "96fcd8043c11"
+ },
+ {
+  "id": "O001_012882",
+  "file": "O001",
+  "off": 75906,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Lad",
+  "src": "5b70b0d3e378"
+ },
+ {
+  "id": "O001_012888",
+  "file": "O001",
+  "off": 75912,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Hick",
+  "src": "f33a7c7181fc"
+ },
+ {
+  "id": "O001_01288e",
+  "file": "O001",
+  "off": 75918,
+  "slots": 2,
+  "raw_prefix": 5,
+  "en": "Idol",
+  "src": "7d8c11b03539"
+ },
+ {
+  "id": "O001_01289e",
+  "file": "O001",
+  "off": 75934,
+  "slots": 4,
+  "raw_prefix": 3,
+  "en": "Insect M",
+  "src": "1a3296d647b5"
+ },
+ {
+  "id": "O001_0128ae",
+  "file": "O001",
+  "off": 75950,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Fluid M",
+  "src": "ba2984ff198b"
+ },
+ {
+  "id": "O001_0128b8",
+  "file": "O001",
+  "off": 75960,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Machine Hector",
+  "src": "d41d2a63bf23"
+ },
+ {
+  "id": "O001_0128c8",
+  "file": "O001",
+  "off": 75976,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Plant M",
+  "src": "8003176e46ab"
+ },
+ {
+  "id": "O001_0128d2",
+  "file": "O001",
+  "off": 75986,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Comp M",
+  "src": "2202241828da"
+ },
+ {
+  "id": "O001_0128dc",
+  "file": "O001",
+  "off": 75996,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Gear M",
+  "src": "88ec362cf931"
+ },
+ {
+  "id": "O001_0128e6",
+  "file": "O001",
+  "off": 76006,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Sm Fluid M",
+  "src": "158b3b2eaf6f"
+ },
+ {
+  "id": "O001_0128f4",
+  "file": "O001",
+  "off": 76020,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Sm Fluid M",
+  "src": "158b3b2eaf6f"
+ },
+ {
+  "id": "O001_012902",
+  "file": "O001",
+  "off": 76034,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Gear M",
+  "src": "88ec362cf931"
+ },
+ {
+  "id": "O001_01290c",
+  "file": "O001",
+  "off": 76044,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Gear M",
+  "src": "88ec362cf931"
+ },
+ {
+  "id": "O001_012916",
+  "file": "O001",
+  "off": 76054,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Gear M",
+  "src": "88ec362cf931"
+ },
+ {
+  "id": "O001_012920",
+  "file": "O001",
+  "off": 76064,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Plant M",
+  "src": "8003176e46ab"
+ },
+ {
+  "id": "O001_01292a",
+  "file": "O001",
+  "off": 76074,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Plant M",
+  "src": "8003176e46ab"
+ },
+ {
+  "id": "O001_012934",
+  "file": "O001",
+  "off": 76084,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Salamander",
+  "src": "0ba93ecf5de9"
+ },
+ {
+  "id": "O001_012942",
+  "file": "O001",
+  "off": 76098,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Ymir",
+  "src": "45b5b574ecac"
+ },
+ {
+  "id": "O001_01294a",
+  "file": "O001",
+  "off": 76106,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Ymir",
+  "src": "45b5b574ecac"
+ },
+ {
+  "id": "O001_012952",
+  "file": "O001",
+  "off": 76114,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Machine Ixion",
+  "src": "4089f08e8eb1"
+ },
+ {
+  "id": "O001_012962",
+  "file": "O001",
+  "off": 76130,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Lt.Angel",
+  "src": "6344eb90c28b"
+ },
+ {
+  "id": "O001_012cc6",
+  "file": "O001",
+  "off": 76998,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "On",
+  "src": "4aa34648b67c"
+ },
+ {
+  "id": "O001_012ccc",
+  "file": "O001",
+  "off": 77004,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "Off",
+  "src": "24cbca46f5a6"
+ },
+ {
+  "id": "O001_012cd4",
+  "file": "O001",
+  "off": 77012,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Yes",
+  "src": "c92b4cda8bdf"
+ },
+ {
+  "id": "O001_012cda",
+  "file": "O001",
+  "off": 77018,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "No",
+  "src": "f901585367d6"
+ },
+ {
+  "id": "O001_012ce2",
+  "file": "O001",
+  "off": 77026,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Free Act",
+  "src": "42583beb5807"
+ },
+ {
+  "id": "O001_012cec",
+  "file": "O001",
+  "off": 77036,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Target Here",
+  "src": "825e31dfeeab"
+ },
+ {
+  "id": "O001_012cfa",
+  "file": "O001",
+  "off": 77050,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Hold & Fight",
+  "src": "5b3805969770"
+ },
+ {
+  "id": "O001_012d08",
+  "file": "O001",
+  "off": 77064,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Counter",
+  "src": "f9a8ff167fda"
+ },
+ {
+  "id": "O001_012d12",
+  "file": "O001",
+  "off": 77074,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Defend",
+  "src": "dfe55853b0ea"
+ },
+ {
+  "id": "O001_012d1c",
+  "file": "O001",
+  "off": 77084,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Always MAX",
+  "src": "8ec484ade74f"
+ },
+ {
+  "id": "O001_012d2a",
+  "file": "O001",
+  "off": 77098,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012d38",
+  "file": "O001",
+  "off": 77112,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012d46",
+  "file": "O001",
+  "off": 77126,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012d54",
+  "file": "O001",
+  "off": 77140,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heal First",
+  "src": "e55cf09f8ce8"
+ },
+ {
+  "id": "O001_012d64",
+  "file": "O001",
+  "off": 77156,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Items First",
+  "src": "090bcdf8fe34"
+ },
+ {
+  "id": "O001_012d72",
+  "file": "O001",
+  "off": 77170,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Don't Use Heal",
+  "src": "2e1a2dcfc83a"
+ },
+ {
+  "id": "O001_012d82",
+  "file": "O001",
+  "off": 77186,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Use Heal Too",
+  "src": "84dc98b53405"
+ },
+ {
+  "id": "O001_012d90",
+  "file": "O001",
+  "off": 77200,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "No Items",
+  "src": "610d9cf746ea"
+ },
+ {
+  "id": "O001_012d9e",
+  "file": "O001",
+  "off": 77214,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Items Too",
+  "src": "483f23274764"
+ },
+ {
+  "id": "O001_012daa",
+  "file": "O001",
+  "off": 77226,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Full",
+  "src": "5158be24bcae"
+ },
+ {
+  "id": "O001_012db0",
+  "file": "O001",
+  "off": 77232,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Half",
+  "src": "a6986d6965af"
+ },
+ {
+  "id": "O001_012db6",
+  "file": "O001",
+  "off": 77238,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "No Healing",
+  "src": "d8937fe6a55d"
+ },
+ {
+  "id": "O001_012dc2",
+  "file": "O001",
+  "off": 77250,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "11b72afa9fce"
+ },
+ {
+  "id": "O001_012dcc",
+  "file": "O001",
+  "off": 77260,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Match",
+  "src": "0a6b8d0b1b44"
+ },
+ {
+  "id": "O001_012dd6",
+  "file": "O001",
+  "off": 77270,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Melee Type",
+  "src": "df5b37dffe93"
+ },
+ {
+  "id": "O001_012de6",
+  "file": "O001",
+  "off": 77286,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Long-Range Type",
+  "src": "c2a5e795eb85"
+ },
+ {
+  "id": "O001_012df8",
+  "file": "O001",
+  "off": 77304,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Magic Atk Type",
+  "src": "257eaed37803"
+ },
+ {
+  "id": "O001_012e08",
+  "file": "O001",
+  "off": 77320,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Custom",
+  "src": "041455b7085f"
+ },
+ {
+  "id": "O001_012e12",
+  "file": "O001",
+  "off": 77330,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Nearest",
+  "src": "79826006ba98"
+ },
+ {
+  "id": "O001_012e1e",
+  "file": "O001",
+  "off": 77342,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Highest HP Foe",
+  "src": "dde1e1723cd2"
+ },
+ {
+  "id": "O001_012e30",
+  "file": "O001",
+  "off": 77360,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Low HP Foe",
+  "src": "bf22b65257a7"
+ },
+ {
+  "id": "O001_012e3e",
+  "file": "O001",
+  "off": 77374,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Highest Atk Foe",
+  "src": "d9a4a82499cc"
+ },
+ {
+  "id": "O001_012e52",
+  "file": "O001",
+  "off": 77394,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Lowest Atk Foe",
+  "src": "75cb2361ee6c"
+ },
+ {
+  "id": "O001_012e66",
+  "file": "O001",
+  "off": 77414,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Highest Def Foe",
+  "src": "558dbf3f9261"
+ },
+ {
+  "id": "O001_012e78",
+  "file": "O001",
+  "off": 77432,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Lowest Def Foe",
+  "src": "524e88b246a5"
+ },
+ {
+  "id": "O001_012e8a",
+  "file": "O001",
+  "off": 77450,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Highest Mag Foe",
+  "src": "710481ccd955"
+ },
+ {
+  "id": "O001_012e9c",
+  "file": "O001",
+  "off": 77468,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Lowest Mag Foe",
+  "src": "0cd2f3148e97"
+ },
+ {
+  "id": "O001_012eae",
+  "file": "O001",
+  "off": 77486,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Foe Casting Heal",
+  "src": "0f021c85d006"
+ },
+ {
+  "id": "O001_012ec2",
+  "file": "O001",
+  "off": 77506,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Ranged-Attack Foe",
+  "src": "ea733d658bf6"
+ },
+ {
+  "id": "O001_012ed6",
+  "file": "O001",
+  "off": 77526,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Ally's Attacker",
+  "src": "bff39a35d191"
+ },
+ {
+  "id": "O001_012ee8",
+  "file": "O001",
+  "off": 77544,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "(Follow)",
+  "src": "d83531eaeecb"
+ },
+ {
+  "id": "O001_012ef4",
+  "file": "O001",
+  "off": 77556,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Auto Use",
+  "src": "4a59aa2064e7"
+ },
+ {
+  "id": "O001_012f02",
+  "file": "O001",
+  "off": 77570,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "No Auto Use",
+  "src": "cdc8beba6f02"
+ },
+ {
+  "id": "O001_012f12",
+  "file": "O001",
+  "off": 77586,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "None",
+  "src": "1a2e920ba7c6"
+ },
+ {
+  "id": "O001_012f18",
+  "file": "O001",
+  "off": 77592,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Stereo",
+  "src": "c77f009dc577"
+ },
+ {
+  "id": "O001_012f22",
+  "file": "O001",
+  "off": 77602,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Mono",
+  "src": "aa8b7fd47376"
+ },
+ {
+  "id": "O001_012f2c",
+  "file": "O001",
+  "off": 77612,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Heal/Atk Type",
+  "src": "f3621625daca"
+ },
+ {
+  "id": "O001_012f3c",
+  "file": "O001",
+  "off": 77628,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012f4a",
+  "file": "O001",
+  "off": 77642,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012f58",
+  "file": "O001",
+  "off": 77656,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012f66",
+  "file": "O001",
+  "off": 77670,
+  "slots": 3,
+  "raw_prefix": 3,
+  "en": " HP",
+  "src": "7ad11c795513"
+ },
+ {
+  "id": "O001_012f74",
+  "file": "O001",
+  "off": 77684,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Match",
+  "src": "0a6b8d0b1b44"
+ },
+ {
+  "id": "O001_012f7e",
+  "file": "O001",
+  "off": 77694,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "Wait",
+  "src": "5e5efe805116"
+ },
+ {
+  "id": "O001_012f84",
+  "file": "O001",
+  "off": 77700,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Rely on Allies",
+  "src": "131648742316"
+ },
+ {
+  "id": "O001_014c48",
+  "file": "O001",
+  "off": 85064,
+  "slots": 113,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "af725f9ea85e"
+ },
+ {
+  "id": "O001_014d2c",
+  "file": "O001",
+  "off": 85292,
+  "slots": 33,
+  "raw_prefix": 4,
+  "en": "-",
+  "src": "5aa240a3af90"
+ },
+ {
+  "id": "O001_014ef8",
+  "file": "O001",
+  "off": 85752,
+  "slots": 31,
+  "raw_prefix": 8,
+  "en": "-",
+  "src": "05e90f0ce86b"
+ },
+ {
+  "id": "O001_014f94",
+  "file": "O001",
+  "off": 85908,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Debug Mode",
+  "src": "0dd131feac0d"
+ },
+ {
+  "id": "O001_014fa8",
+  "file": "O001",
+  "off": 85928,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Pick Scenario",
+  "src": "bd8e33b649e7"
+ },
+ {
+  "id": "O001_014fbc",
+  "file": "O001",
+  "off": 85948,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Pick Date",
+  "src": "5a3015e93e54"
+ },
+ {
+  "id": "O001_014fd0",
+  "file": "O001",
+  "off": 85968,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Affinity",
+  "src": "48f4667747cd"
+ },
+ {
+  "id": "O001_014fe4",
+  "file": "O001",
+  "off": 85988,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Met Rival",
+  "src": "a776006f7bed"
+ },
+ {
+  "id": "O001_014ff8",
+  "file": "O001",
+  "off": 86008,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Taurus Ring",
+  "src": "8f323b97c9ed"
+ },
+ {
+  "id": "O001_01500c",
+  "file": "O001",
+  "off": 86028,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Aries Ring",
+  "src": "1273232a8bc6"
+ },
+ {
+  "id": "O001_015020",
+  "file": "O001",
+  "off": 86048,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Gemini Ring",
+  "src": "f5a63a12adf9"
+ },
+ {
+  "id": "O001_015034",
+  "file": "O001",
+  "off": 86068,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Cancer Ring",
+  "src": "9c55d3b69740"
+ },
+ {
+  "id": "O001_015048",
+  "file": "O001",
+  "off": 86088,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Leo Ring",
+  "src": "f47d0e77d9e7"
+ },
+ {
+  "id": "O001_01505c",
+  "file": "O001",
+  "off": 86108,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Virgo Ring",
+  "src": "d265a84f2c4f"
+ },
+ {
+  "id": "O001_015070",
+  "file": "O001",
+  "off": 86128,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Libra Ring",
+  "src": "7f127f73feac"
+ },
+ {
+  "id": "O001_015084",
+  "file": "O001",
+  "off": 86148,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Scorpio Ring",
+  "src": "32b53cb36a93"
+ },
+ {
+  "id": "O001_015098",
+  "file": "O001",
+  "off": 86168,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Sagitt. Ring",
+  "src": "a75dea6d7370"
+ },
+ {
+  "id": "O001_0150ac",
+  "file": "O001",
+  "off": 86188,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Capricorn Ring",
+  "src": "cdd12f89a498"
+ },
+ {
+  "id": "O001_0150c0",
+  "file": "O001",
+  "off": 86208,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Aquarius Ring",
+  "src": "dc9fd4260c70"
+ },
+ {
+  "id": "O001_0150d4",
+  "file": "O001",
+  "off": 86228,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Pisces Ring",
+  "src": "f77bdf2a8bfa"
+ },
+ {
+  "id": "O001_0151bc",
+  "file": "O001",
+  "off": 86460,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "69a411a35ab0"
+ },
+ {
+  "id": "O001_0151f4",
+  "file": "O001",
+  "off": 86516,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "b9edf90a4be9"
+ },
+ {
+  "id": "O001_015218",
+  "file": "O001",
+  "off": 86552,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "AT",
+  "src": "63d8f43c5bda"
+ },
+ {
+  "id": "O001_015222",
+  "file": "O001",
+  "off": 86562,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "EV",
+  "src": "efd950dc9635"
+ },
+ {
+  "id": "O001_015234",
+  "file": "O001",
+  "off": 86580,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "DF",
+  "src": "2029e612c90d"
+ },
+ {
+  "id": "O001_01523e",
+  "file": "O001",
+  "off": 86590,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "MG",
+  "src": "97fe825844b9"
+ },
+ {
+  "id": "O001_0152d6",
+  "file": "O001",
+  "off": 86742,
+  "slots": 36,
+  "raw_prefix": 0,
+  "en": "Target here!",
+  "src": "d0b8835b485a"
+ },
+ {
+  "id": "O001_015320",
+  "file": "O001",
+  "off": 86816,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Free Action",
+  "src": "e7fd3d7e0af0"
+ },
+ {
+  "id": "O001_01532e",
+  "file": "O001",
+  "off": 86830,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Hold & Fight",
+  "src": "5b3805969770"
+ },
+ {
+  "id": "O001_01533c",
+  "file": "O001",
+  "off": 86844,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Standby",
+  "src": "433e1a969087"
+ },
+ {
+  "id": "O001_015354",
+  "file": "O001",
+  "off": 86868,
+  "slots": 4,
+  "raw_prefix": 4,
+  "en": "Counter",
+  "src": "f9a8ff167fda"
+ },
+ {
+  "id": "O001_015366",
+  "file": "O001",
+  "off": 86886,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Defend",
+  "src": "dfe55853b0ea"
+ },
+ {
+  "id": "O001_015370",
+  "file": "O001",
+  "off": 86896,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Move",
+  "src": "11b72afa9fce"
+ },
+ {
+  "id": "O001_0153cc",
+  "file": "O001",
+  "off": 86988,
+  "slots": 6,
+  "raw_prefix": 4,
+  "en": "Always MAX",
+  "src": "8ec484ade74f"
+ },
+ {
+  "id": "O001_0153e2",
+  "file": "O001",
+  "off": 87010,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 80% HP",
+  "src": "4ba33d8736cf"
+ },
+ {
+  "id": "O001_0153f0",
+  "file": "O001",
+  "off": 87024,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 60% HP",
+  "src": "98cb41318740"
+ },
+ {
+  "id": "O001_0153fe",
+  "file": "O001",
+  "off": 87038,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 40% HP",
+  "src": "d00a4db38b08"
+ },
+ {
+  "id": "O001_01540c",
+  "file": "O001",
+  "off": 87052,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "At 20% HP",
+  "src": "9efceba9d746"
+ },
+ {
+  "id": "O001_01541a",
+  "file": "O001",
+  "off": 87066,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "No Healing",
+  "src": "d8937fe6a55d"
+ },
+ {
+  "id": "O001_015480",
+  "file": "O001",
+  "off": 87168,
+  "slots": 7,
+  "raw_prefix": 4,
+  "en": "Heal First",
+  "src": "a374ab161584"
+ },
+ {
+  "id": "O001_015498",
+  "file": "O001",
+  "off": 87192,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Items First",
+  "src": "090bcdf8fe34"
+ },
+ {
+  "id": "O001_0154a6",
+  "file": "O001",
+  "off": 87206,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "Rely on Allies",
+  "src": "131648742316"
+ },
+ {
+  "id": "O001_015564",
+  "file": "O001",
+  "off": 87396,
+  "slots": 10,
+  "raw_prefix": 8,
+  "en": "Other Orders",
+  "src": "9d8d8fb00bf5"
+ },
+ {
+  "id": "O001_01558a",
+  "file": "O001",
+  "off": 87434,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Hold Back",
+  "src": "5ee97a6ed3a9"
+ },
+ {
+  "id": "O001_015598",
+  "file": "O001",
+  "off": 87448,
+  "slots": 5,
+  "raw_prefix": 0,
+  "en": "Move Speed",
+  "src": "423facff0c20"
+ },
+ {
+  "id": "O001_0155b2",
+  "file": "O001",
+  "off": 87474,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "Attack Type",
+  "src": "5675d9bf12ed"
+ },
+ {
+  "id": "O001_0155c2",
+  "file": "O001",
+  "off": 87490,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Target Priority",
+  "src": "4fcced7c0255"
+ },
+ {
+  "id": "O001_015612",
+  "file": "O001",
+  "off": 87570,
+  "slots": 4,
+  "raw_prefix": 4,
+  "en": "On",
+  "src": "86c9143eaee9"
+ },
+ {
+  "id": "O001_015624",
+  "file": "O001",
+  "off": 87588,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Off",
+  "src": "38bd1ffc3c24"
+ },
+ {
+  "id": "O001_015678",
+  "file": "O001",
+  "off": 87672,
+  "slots": 4,
+  "raw_prefix": 4,
+  "en": "Full Spd",
+  "src": "7f3a52377b6a"
+ },
+ {
+  "id": "O001_01568a",
+  "file": "O001",
+  "off": 87690,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Half Spd",
+  "src": "4309eb433d38"
+ },
+ {
+  "id": "O001_015694",
+  "file": "O001",
+  "off": 87700,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Match",
+  "src": "0a6b8d0b1b44"
+ },
+ {
+  "id": "O001_015712",
+  "file": "O001",
+  "off": 87826,
+  "slots": 2,
+  "raw_prefix": 0,
+  "en": "OK",
+  "src": "0f8e5b4de960"
+ },
+ {
+  "id": "O001_015718",
+  "file": "O001",
+  "off": 87832,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": "Redo",
+  "src": "f15b9fb3e728"
+ },
+ {
+  "id": "O001_015732",
+  "file": "O001",
+  "off": 87858,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Heals 1 ally's HP",
+  "src": "18e20279bd66"
+ },
+ {
+  "id": "O001_015748",
+  "file": "O001",
+  "off": 87880,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Fully heals 1 ally's HP",
+  "src": "6a43ba3b5742"
+ },
+ {
+  "id": "O001_015764",
+  "file": "O001",
+  "off": 87908,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Heals all allies' HP",
+  "src": "c33ad5fb28f9"
+ },
+ {
+  "id": "O001_01577e",
+  "file": "O001",
+  "off": 87934,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Cures 1 ally's bad status",
+  "src": "781017ecd7ef"
+ },
+ {
+  "id": "O001_01579e",
+  "file": "O001",
+  "off": 87966,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Temp. raises 1 ally's DF",
+  "src": "c393567312bf"
+ },
+ {
+  "id": "O001_0157bc",
+  "file": "O001",
+  "off": 87996,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Temp. raises 1 ally's AT",
+  "src": "bc0cdd7dff52"
+ },
+ {
+  "id": "O001_0157da",
+  "file": "O001",
+  "off": 88026,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Temp. raises 1 ally's AS",
+  "src": "14fc43185dee"
+ },
+ {
+  "id": "O001_0157f8",
+  "file": "O001",
+  "off": 88056,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Temp. raises 1 ally's MS",
+  "src": "5d61d0cab3ff"
+ },
+ {
+  "id": "O001_015818",
+  "file": "O001",
+  "off": 88088,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Restores 1 ally's base stats",
+  "src": "b9fae86adf45"
+ },
+ {
+  "id": "O001_015838",
+  "file": "O001",
+  "off": 88120,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Fire attack on 1 foe",
+  "src": "1d26a74ee754"
+ },
+ {
+  "id": "O001_015852",
+  "file": "O001",
+  "off": 88146,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Flame attack on foes in area",
+  "src": "9e045917779f"
+ },
+ {
+  "id": "O001_015870",
+  "file": "O001",
+  "off": 88176,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Lightning on 1 foe",
+  "src": "4cacb944208c"
+ },
+ {
+  "id": "O001_015886",
+  "file": "O001",
+  "off": 88198,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Lightning hits foes in area",
+  "src": "bc3b0a11ff08"
+ },
+ {
+  "id": "O001_0158aa",
+  "file": "O001",
+  "off": 88234,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Lowers 1 foe's AS and MS",
+  "src": "7deeea4d96c8"
+ },
+ {
+  "id": "O001_0158c6",
+  "file": "O001",
+  "off": 88262,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Damages all ground units",
+  "src": "43b96e832629"
+ },
+ {
+  "id": "O001_0158e6",
+  "file": "O001",
+  "off": 88294,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Line dash damages foes",
+  "src": "844249649c04"
+ },
+ {
+  "id": "O001_0158fe",
+  "file": "O001",
+  "off": 88318,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Sword hits foes in area",
+  "src": "75ef52f83067"
+ },
+ {
+  "id": "O001_015918",
+  "file": "O001",
+  "off": 88344,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Damages foe and heals user",
+  "src": "e9a972ae8eef"
+ },
+ {
+  "id": "O001_015936",
+  "file": "O001",
+  "off": 88374,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "One hit on a distant foe",
+  "src": "275426dabdea"
+ },
+ {
+  "id": "O001_015950",
+  "file": "O001",
+  "off": 88400,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Temp. ups area allies' stats",
+  "src": "6659d03fba08"
+ },
+ {
+  "id": "O001_015972",
+  "file": "O001",
+  "off": 88434,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Gives the user's stored SP",
+  "src": "e4c03ec8259b"
+ },
+ {
+  "id": "O001_015990",
+  "file": "O001",
+  "off": 88464,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Erases a foe from this world",
+  "src": "b1f6a610aaf4"
+ },
+ {
+  "id": "O001_0159ae",
+  "file": "O001",
+  "off": 88494,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Damages all foes in area",
+  "src": "7e619603864e"
+ },
+ {
+  "id": "O001_0159cc",
+  "file": "O001",
+  "off": 88524,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Foe/ally stats down, HP full",
+  "src": "d6d10f5c4b13"
+ },
+ {
+  "id": "O001_0159ec",
+  "file": "O001",
+  "off": 88556,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Laser attack on 1 foe",
+  "src": "ee1a077db3f1"
+ },
+ {
+  "id": "O001_015a0c",
+  "file": "O001",
+  "off": 88588,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Laser hits foes in area",
+  "src": "7e1484f6d2c6"
+ },
+ {
+  "id": "O001_015a26",
+  "file": "O001",
+  "off": 88614,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Lethal knife on 1 foe",
+  "src": "174c0b495a83"
+ },
+ {
+  "id": "O001_015a40",
+  "file": "O001",
+  "off": 88640,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Stops 1 foe using skills",
+  "src": "9268b5775ee4"
+ },
+ {
+  "id": "O001_015a60",
+  "file": "O001",
+  "off": 88672,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Bombs foe+ally in area",
+  "src": "473130005d54"
+ },
+ {
+  "id": "O001_015a78",
+  "file": "O001",
+  "off": 88696,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Extends range to hit far foes",
+  "src": "4fd042f443c0"
+ },
+ {
+  "id": "O001_015a98",
+  "file": "O001",
+  "off": 88728,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Normal atk 2x in a row",
+  "src": "d485a1e5f4ae"
+ },
+ {
+  "id": "O001_015ab2",
+  "file": "O001",
+  "off": 88754,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Heavy damage to 1 foe",
+  "src": "7ebea7bdcfd7"
+ },
+ {
+  "id": "O001_015ace",
+  "file": "O001",
+  "off": 88782,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Flame attack on foes in area",
+  "src": "9e045917779f"
+ },
+ {
+  "id": "O001_015aee",
+  "file": "O001",
+  "off": 88814,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Lowers 1 adjacent foe's AT",
+  "src": "3aac4ddbec8b"
+ },
+ {
+  "id": "O001_015b0e",
+  "file": "O001",
+  "off": 88846,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Sure damage to adjacent foe",
+  "src": "8c173ec4796c"
+ },
+ {
+  "id": "O001_015b30",
+  "file": "O001",
+  "off": 88880,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Falling rocks damage 1 foe",
+  "src": "6fb28df6115d"
+ },
+ {
+  "id": "O001_015b50",
+  "file": "O001",
+  "off": 88912,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "Teleports the user",
+  "src": "e3862c1b8c2c"
+ },
+ {
+  "id": "O001_015b68",
+  "file": "O001",
+  "off": 88936,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Damages & paralyzes adj. foe",
+  "src": "84cbbf7c12a5"
+ },
+ {
+  "id": "O001_015b8a",
+  "file": "O001",
+  "off": 88970,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Halts all foes in area",
+  "src": "9344a15f2223"
+ },
+ {
+  "id": "O001_015baa",
+  "file": "O001",
+  "off": 89002,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Damages all ground units",
+  "src": "67ce42033584"
+ },
+ {
+  "id": "O001_015bca",
+  "file": "O001",
+  "off": 89034,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Dmg + paralysis, a foe in area",
+  "src": "4f1e933a2655"
+ },
+ {
+  "id": "O001_015bea",
+  "file": "O001",
+  "off": 89066,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Damages units in area",
+  "src": "085e344070e7"
+ },
+ {
+  "id": "O001_015c14",
+  "file": "O001",
+  "off": 89108,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Normal atk 2x in a row",
+  "src": "d485a1e5f4ae"
+ },
+ {
+  "id": "O001_015c4e",
+  "file": "O001",
+  "off": 89166,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Dmg + paralysis, units in area",
+  "src": "3902022e8ab4"
+ },
+ {
+  "id": "O001_015c70",
+  "file": "O001",
+  "off": 89200,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "Blood rain on all foes",
+  "src": "dd6bcf8eae32"
+ },
+ {
+  "id": "O001_015c88",
+  "file": "O001",
+  "off": 89224,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "Laser attack on 1 foe",
+  "src": "ee1a077db3f1"
+ },
+ {
+  "id": "O001_015cae",
+  "file": "O001",
+  "off": 89262,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Heavy dmg, adjacent foe",
+  "src": "635d63302679"
+ },
+ {
+  "id": "O001_015cca",
+  "file": "O001",
+  "off": 89290,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Heavy dmg, adjacent foe",
+  "src": "635d63302679"
+ },
+ {
+  "id": "O001_015d46",
+  "file": "O001",
+  "off": 89414,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Self-destruct: big dmg to all",
+  "src": "8698160a09df"
+ },
+ {
+  "id": "O001_015d66",
+  "file": "O001",
+  "off": 89446,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Turns magic Void to teleporter",
+  "src": "ecf86c240ab7"
+ },
+ {
+  "id": "O001_015d86",
+  "file": "O001",
+  "off": 89478,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "Makes a Void a battery",
+  "src": "d78a1eb94863"
+ },
+ {
+  "id": "O001_015da0",
+  "file": "O001",
+  "off": 89504,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "Uses all Voids to raise DF",
+  "src": "ae68993d7e2f"
+ },
+ {
+  "id": "O001_015dc0",
+  "file": "O001",
+  "off": 89536,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Turns 1 Void to HP circle",
+  "src": "81ba6bbea46c"
+ },
+ {
+  "id": "O001_015ddc",
+  "file": "O001",
+  "off": 89564,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "Turns 1 Void to SP circle",
+  "src": "50cf0ab352d7"
+ },
+ {
+  "id": "O001_015df8",
+  "file": "O001",
+  "off": 89592,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "A Void becomes attack statue",
+  "src": "08c094da2081"
+ },
+ {
+  "id": "O001_016d40",
+  "file": "O001",
+  "off": 93504,
+  "slots": 24,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "574a7f8fadda"
+ },
+ {
+  "id": "O001_016d72",
+  "file": "O001",
+  "off": 93554,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "-",
+  "src": "7da577417703"
+ }
+]

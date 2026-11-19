@@ -1,0 +1,156 @@
+[
+ {
+  "id": "K080_0000",
+  "off": 108,
+  "end": 122,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"Heh heh heh...\"",
+  "src": "569c9ddd7e1f"
+ },
+ {
+  "id": "K080_0001",
+  "off": 124,
+  "end": 198,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"You folks been hurting for supplies{n} ever since Airplane Village,{n} haven't you?\"",
+  "src": "36fefd189e28"
+ },
+ {
+  "id": "K080_0002",
+  "off": 200,
+  "end": 294,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"There are no villages up ahead,{n} either. If you like, I can at least{n} see to your items for you.\"",
+  "src": "f277fa44fd3e"
+ },
+ {
+  "id": "K080_0003",
+  "off": 300,
+  "end": 356,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:1",
+  "kind": "dlg",
+  "en": "\"Popping up out of nowhere... you're{n} a shady one. Sorry, but I'm not{n} interested.\"",
+  "src": "69b80cf6faa6"
+ },
+ {
+  "id": "K080_0004",
+  "off": 362,
+  "end": 440,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"Heh heh heh...{n} Well, go ahead and act tough. Anyone{n} who wants to die can be left to die.\"",
+  "src": "099b561e0b73"
+ },
+ {
+  "id": "K080_0005",
+  "off": 446,
+  "end": 512,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:1",
+  "kind": "dlg",
+  "en": "\"Don't be stupid! I don't want to die,{n} and I don't want your help either!\"",
+  "src": "4431a3b7e3ae"
+ },
+ {
+  "id": "K080_0006",
+  "off": 518,
+  "end": 576,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:2",
+  "kind": "dlg",
+  "en": "\"Now, now, Mr. {hero:6}.{n} We can't fight without supplies.\"",
+  "src": "33cbf58bb0d9"
+ },
+ {
+  "id": "K080_0007",
+  "off": 578,
+  "end": 622,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:2",
+  "kind": "dlg",
+  "en": "\"And this person doesn't seem{n} all thaat bad, you know.\"",
+  "src": "c1321ca07aa8"
+ },
+ {
+  "id": "K080_0008",
+  "off": 628,
+  "end": 734,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:1",
+  "kind": "dlg",
+  "en": "\"Where are you even looking, old lady?{n} Types like this sell stuff stolen{n} off dead soldiers at a steep price.\"",
+  "src": "bdc53a271405"
+ },
+ {
+  "id": "K080_0009",
+  "off": 736,
+  "end": 806,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:1",
+  "kind": "dlg",
+  "en": "\"They're like hyenas of the battlefield.{n} Let's get out of this place already.\"",
+  "src": "1c1eac91ddfa"
+ },
+ {
+  "id": "K080_0010",
+  "off": 812,
+  "end": 826,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"Heh heh heh...\"",
+  "src": "569c9ddd7e1f"
+ },
+ {
+  "id": "K080_0011",
+  "off": 828,
+  "end": 916,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"You're not altogether wrong.{n} But there are customers who still{n} want the goods, so business holds up.\"",
+  "src": "ceecba21a59b"
+ },
+ {
+  "id": "K080_0012",
+  "off": 918,
+  "end": 1002,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:4c",
+  "kind": "dlg",
+  "en": "\"So what'll it be? Some of it's pricey,{n} but some of it's rare.{n} If you want to buy, I won't stop you.\"",
+  "src": "90992e6c2368"
+ },
+ {
+  "id": "K080_0013",
+  "off": 1008,
+  "end": 1042,
+  "block": 1,
+  "bank": "scene",
+  "spk": "8002:2",
+  "kind": "dlg",
+  "en": "\"Mr. {hero:6},{n} what should we do!?\"",
+  "src": "f3fc02f018c0"
+ }
+]

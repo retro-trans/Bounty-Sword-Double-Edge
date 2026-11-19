@@ -1,0 +1,1163 @@
+[
+ {
+  "id": "W076_0000f6",
+  "file": "W076",
+  "off": 246,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_00010a",
+  "file": "W076",
+  "off": 266,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_000118",
+  "file": "W076",
+  "off": 280,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": " Well? Care to make a deal?\"",
+  "src": "70ec87ce4889"
+ },
+ {
+  "id": "W076_00013c",
+  "file": "W076",
+  "off": 316,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_00014e",
+  "file": "W076",
+  "off": 334,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_00015c",
+  "file": "W076",
+  "off": 348,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " So, what d'you want?\"",
+  "src": "5a527c02607e"
+ },
+ {
+  "id": "W076_00017e",
+  "file": "W076",
+  "off": 382,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_000192",
+  "file": "W076",
+  "off": 402,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_0001a0",
+  "file": "W076",
+  "off": 416,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": " 0,",
+  "src": "3c53a59a5e85"
+ },
+ {
+  "id": "W076_0001a8",
+  "file": "W076",
+  "off": 424,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": " all right?\"",
+  "src": "102ad58a3905"
+ },
+ {
+  "id": "W076_0001ba",
+  "file": "W076",
+  "off": 442,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_0001ce",
+  "file": "W076",
+  "off": 462,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_0001dc",
+  "file": "W076",
+  "off": 476,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": " How many?\"",
+  "src": "445efb6cbe91"
+ },
+ {
+  "id": "W076_0001f0",
+  "file": "W076",
+  "off": 496,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_000202",
+  "file": "W076",
+  "off": 514,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_000210",
+  "file": "W076",
+  "off": 528,
+  "slots": 4,
+  "raw_prefix": 0,
+  "en": " And 0",
+  "src": "533629b97f4b"
+ },
+ {
+  "id": "W076_00021a",
+  "file": "W076",
+  "off": 538,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " goes to who, then?\"",
+  "src": "e22e9850849b"
+ },
+ {
+  "id": "W076_000236",
+  "file": "W076",
+  "off": 566,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_00024a",
+  "file": "W076",
+  "off": 586,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_000258",
+  "file": "W076",
+  "off": 600,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": " This all right?\"",
+  "src": "752d3524e226"
+ },
+ {
+  "id": "W076_000270",
+  "file": "W076",
+  "off": 624,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_000282",
+  "file": "W076",
+  "off": 642,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "\"Your old 1",
+  "src": "c27e2fd03bda"
+ },
+ {
+  "id": "W076_000296",
+  "file": "W076",
+  "off": 662,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": " fetches 4G.",
+  "src": "9a16de6f7efd"
+ },
+ {
+  "id": "W076_0002a6",
+  "file": "W076",
+  "off": 678,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " Trade it in?\"",
+  "src": "6518c0134d53"
+ },
+ {
+  "id": "W076_0002bc",
+  "file": "W076",
+  "off": 700,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_0002ce",
+  "file": "W076",
+  "off": 718,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_0002dc",
+  "file": "W076",
+  "off": 732,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " Whose stuff you selling?\"",
+  "src": "3855e2e9e0a8"
+ },
+ {
+  "id": "W076_0002fc",
+  "file": "W076",
+  "off": 764,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_00030e",
+  "file": "W076",
+  "off": 782,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_00031c",
+  "file": "W076",
+  "off": 796,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " How many should I take?\"",
+  "src": "bb37181cdc0e"
+ },
+ {
+  "id": "W076_00033e",
+  "file": "W076",
+  "off": 830,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_000352",
+  "file": "W076",
+  "off": 850,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_000360",
+  "file": "W076",
+  "off": 864,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": " So, what're you selling?\"",
+  "src": "608dc9a8b86a"
+ },
+ {
+  "id": "W076_00037e",
+  "file": "W076",
+  "off": 894,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_000392",
+  "file": "W076",
+  "off": 914,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_0003a0",
+  "file": "W076",
+  "off": 928,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": " 0",
+  "src": "65e0e105ba0d"
+ },
+ {
+  "id": "W076_0003a8",
+  "file": "W076",
+  "off": 936,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": " goes for 3G. All right?\"",
+  "src": "79e091b89dad"
+ },
+ {
+  "id": "W076_0003c6",
+  "file": "W076",
+  "off": 966,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_0003da",
+  "file": "W076",
+  "off": 986,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_0003e8",
+  "file": "W076",
+  "off": 1000,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": " Can't buy that one!\"",
+  "src": "8823632024f1"
+ },
+ {
+  "id": "W076_000400",
+  "file": "W076",
+  "off": 1024,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "dbd5184bdc95"
+ },
+ {
+  "id": "W076_000412",
+  "file": "W076",
+  "off": 1042,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Heh heh...",
+  "src": "03cf8cfecebd"
+ },
+ {
+  "id": "W076_000420",
+  "file": "W076",
+  "off": 1056,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": " 0 x5",
+  "src": "ee0a9f734ffa"
+ },
+ {
+  "id": "W076_00042e",
+  "file": "W076",
+  "off": 1070,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": " comes to 6G. All right?\"",
+  "src": "1dc8216256be"
+ },
+ {
+  "id": "W076_00044e",
+  "file": "W076",
+  "off": 1102,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000462",
+  "file": "W076",
+  "off": 1122,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "\"Welcome!\"",
+  "src": "7575a817bb7c"
+ },
+ {
+  "id": "W076_000474",
+  "file": "W076",
+  "off": 1140,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000486",
+  "file": "W076",
+  "off": 1158,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "\"Which will you buy?\"",
+  "src": "0bfc3f316194"
+ },
+ {
+  "id": "W076_0004a0",
+  "file": "W076",
+  "off": 1184,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0004b2",
+  "file": "W076",
+  "off": 1202,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "\"0",
+  "src": "0948f5298827"
+ },
+ {
+  "id": "W076_0004ba",
+  "file": "W076",
+  "off": 1210,
+  "slots": 19,
+  "raw_prefix": 0,
+  "en": " goes on which of your Voids?\"",
+  "src": "54e4f8acc8b5"
+ },
+ {
+  "id": "W076_0004e2",
+  "file": "W076",
+  "off": 1250,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0004f6",
+  "file": "W076",
+  "off": 1270,
+  "slots": 3,
+  "raw_prefix": 0,
+  "en": "\"0,",
+  "src": "0f91b63be8d3"
+ },
+ {
+  "id": "W076_0004fe",
+  "file": "W076",
+  "off": 1278,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": " all right?\"",
+  "src": "7d7e53bd0c9b"
+ },
+ {
+  "id": "W076_000510",
+  "file": "W076",
+  "off": 1296,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000522",
+  "file": "W076",
+  "off": 1314,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "\"Your old 1",
+  "src": "c27e2fd03bda"
+ },
+ {
+  "id": "W076_000536",
+  "file": "W076",
+  "off": 1334,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": " fetches 4G.",
+  "src": "9a16de6f7efd"
+ },
+ {
+  "id": "W076_000546",
+  "file": "W076",
+  "off": 1350,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " Trade it in?\"",
+  "src": "6518c0134d53"
+ },
+ {
+  "id": "W076_00055c",
+  "file": "W076",
+  "off": 1372,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_00056e",
+  "file": "W076",
+  "off": 1390,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "\"Which ARM should it go on?\"",
+  "src": "2a69b5d46d3a"
+ },
+ {
+  "id": "W076_000594",
+  "file": "W076",
+  "off": 1428,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0005a6",
+  "file": "W076",
+  "off": 1446,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "\"Which part will you sell?\"",
+  "src": "008145d01d78"
+ },
+ {
+  "id": "W076_0005c6",
+  "file": "W076",
+  "off": 1478,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0005da",
+  "file": "W076",
+  "off": 1498,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "\"How many to sell?\"",
+  "src": "2f3c10228733"
+ },
+ {
+  "id": "W076_0005f2",
+  "file": "W076",
+  "off": 1522,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000606",
+  "file": "W076",
+  "off": 1542,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"0 x5",
+  "src": "a6d7dd2265ce"
+ },
+ {
+  "id": "W076_000614",
+  "file": "W076",
+  "off": 1556,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " comes to 6G. All right?\"",
+  "src": "5f748ce8a668"
+ },
+ {
+  "id": "W076_000630",
+  "file": "W076",
+  "off": 1584,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000642",
+  "file": "W076",
+  "off": 1602,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "\"None of your",
+  "src": "f110fd4d706a"
+ },
+ {
+  "id": "W076_000652",
+  "file": "W076",
+  "off": 1618,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " Voids need repairs, I see!\"",
+  "src": "bd02be6d9bb0"
+ },
+ {
+  "id": "W076_000672",
+  "file": "W076",
+  "off": 1650,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000686",
+  "file": "W076",
+  "off": 1670,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "\"Which Void shall I repair?\"",
+  "src": "0f2a9e06bf58"
+ },
+ {
+  "id": "W076_0006ac",
+  "file": "W076",
+  "off": 1708,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0006be",
+  "file": "W076",
+  "off": 1726,
+  "slots": 7,
+  "raw_prefix": 0,
+  "en": "\"It's 7G to",
+  "src": "e76bfb27c3a8"
+ },
+ {
+  "id": "W076_0006ce",
+  "file": "W076",
+  "off": 1742,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": " repair. All right?\"",
+  "src": "a742daec373e"
+ },
+ {
+  "id": "W076_0006e6",
+  "file": "W076",
+  "off": 1766,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0006fa",
+  "file": "W076",
+  "off": 1786,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "\"Which Void do I dismantle?\"",
+  "src": "5260c51574ae"
+ },
+ {
+  "id": "W076_000720",
+  "file": "W076",
+  "off": 1824,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000732",
+  "file": "W076",
+  "off": 1842,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "\"Really dismantle it?\"",
+  "src": "6e8244d11498"
+ },
+ {
+  "id": "W076_00074e",
+  "file": "W076",
+  "off": 1870,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000762",
+  "file": "W076",
+  "off": 1890,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": "\"Which Void's parts",
+  "src": "6a4456ffc5a3"
+ },
+ {
+  "id": "W076_00077c",
+  "file": "W076",
+  "off": 1916,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": " are we swapping?\"",
+  "src": "16ff01b5903e"
+ },
+ {
+  "id": "W076_000792",
+  "file": "W076",
+  "off": 1938,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0007a6",
+  "file": "W076",
+  "off": 1958,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "\"Which part do we swap?\"",
+  "src": "08f91cc37e25"
+ },
+ {
+  "id": "W076_0007ca",
+  "file": "W076",
+  "off": 1994,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0007de",
+  "file": "W076",
+  "off": 2014,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "\"Workshop's open!",
+  "src": "b32b70a11563"
+ },
+ {
+  "id": "W076_0007f2",
+  "file": "W076",
+  "off": 2034,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " If it's just Void setup,",
+  "src": "c862ac7819c3"
+ },
+ {
+  "id": "W076_000814",
+  "file": "W076",
+  "off": 2068,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " I'll do it for free!\"",
+  "src": "9195d00290ba"
+ },
+ {
+  "id": "W076_000834",
+  "file": "W076",
+  "off": 2100,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000846",
+  "file": "W076",
+  "off": 2118,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "\"Which Void",
+  "src": "8947fc336923"
+ },
+ {
+  "id": "W076_000858",
+  "file": "W076",
+  "off": 2136,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": " gets a new name?\"",
+  "src": "58a16f8bcb27"
+ },
+ {
+  "id": "W076_000872",
+  "file": "W076",
+  "off": 2162,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000886",
+  "file": "W076",
+  "off": 2182,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "\"Swap it for which?\"",
+  "src": "9f365170a0e4"
+ },
+ {
+  "id": "W076_0008a2",
+  "file": "W076",
+  "off": 2210,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_0008b6",
+  "file": "W076",
+  "off": 2230,
+  "slots": 10,
+  "raw_prefix": 0,
+  "en": "\"Is this all right?\"",
+  "src": "b4e63e794776"
+ },
+ {
+  "id": "W076_0008cc",
+  "file": "W076",
+  "off": 2252,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0008de",
+  "file": "W076",
+  "off": 2270,
+  "slots": 17,
+  "raw_prefix": 0,
+  "en": "\"It isn't fully assembled yet.",
+  "src": "29ad905ef1bd"
+ },
+ {
+  "id": "W076_000902",
+  "file": "W076",
+  "off": 2306,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": " Quit anyway?\"",
+  "src": "ef7a09f47533"
+ },
+ {
+  "id": "W076_000916",
+  "file": "W076",
+  "off": 2326,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_00092a",
+  "file": "W076",
+  "off": 2346,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Which spot",
+  "src": "dc16c66decf0"
+ },
+ {
+  "id": "W076_000938",
+  "file": "W076",
+  "off": 2360,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " gets the part?\"",
+  "src": "a73d082918d7"
+ },
+ {
+  "id": "W076_00095a",
+  "file": "W076",
+  "off": 2394,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_00096e",
+  "file": "W076",
+  "off": 2414,
+  "slots": 18,
+  "raw_prefix": 0,
+  "en": "\"Which part shall I set?\"",
+  "src": "5e928a61fa5c"
+ },
+ {
+  "id": "W076_000994",
+  "file": "W076",
+  "off": 2452,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0009a6",
+  "file": "W076",
+  "off": 2470,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "\"Which Void",
+  "src": "285886153a55"
+ },
+ {
+  "id": "W076_0009ba",
+  "file": "W076",
+  "off": 2490,
+  "slots": 12,
+  "raw_prefix": 0,
+  "en": " gets a new name?\"",
+  "src": "dd8a8ff2e952"
+ },
+ {
+  "id": "W076_0009d4",
+  "file": "W076",
+  "off": 2516,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_0009e6",
+  "file": "W076",
+  "off": 2534,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "\"Which Void",
+  "src": "285886153a55"
+ },
+ {
+  "id": "W076_0009fa",
+  "file": "W076",
+  "off": 2554,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": " gets a new color?\"",
+  "src": "48be9ab18b6c"
+ },
+ {
+  "id": "W076_000a16",
+  "file": "W076",
+  "off": 2582,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000a2a",
+  "file": "W076",
+  "off": 2602,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "\"Which color will it be?\"",
+  "src": "9ccc14243bcc"
+ },
+ {
+  "id": "W076_000a4a",
+  "file": "W076",
+  "off": 2634,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000a5e",
+  "file": "W076",
+  "off": 2654,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": "\"You're short on money, eh?\"",
+  "src": "322535cf60f7"
+ },
+ {
+  "id": "W076_000a7e",
+  "file": "W076",
+  "off": 2686,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "26b13b3fd40a"
+ },
+ {
+  "id": "W076_000a92",
+  "file": "W076",
+  "off": 2706,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": "\"Friend, your Void Carrier",
+  "src": "219554ba150f"
+ },
+ {
+  "id": "W076_000ab4",
+  "file": "W076",
+  "off": 2740,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " can't hold over 8 Voids.",
+  "src": "80906d8a6774"
+ },
+ {
+  "id": "W076_000ad6",
+  "file": "W076",
+  "off": 2774,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " Can't build any more of 'em.\"",
+  "src": "7892a723be9c"
+ },
+ {
+  "id": "W076_000af8",
+  "file": "W076",
+  "off": 2808,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000b0a",
+  "file": "W076",
+  "off": 2826,
+  "slots": 13,
+  "raw_prefix": 0,
+  "en": "\"All right, this Void",
+  "src": "aa39b4bc98ab"
+ },
+ {
+  "id": "W076_000b26",
+  "file": "W076",
+  "off": 2854,
+  "slots": 16,
+  "raw_prefix": 0,
+  "en": " goes to which Master?\"",
+  "src": "8ad49b2134fe"
+ },
+ {
+  "id": "W076_000b48",
+  "file": "W076",
+  "off": 2888,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000b5a",
+  "file": "W076",
+  "off": 2906,
+  "slots": 6,
+  "raw_prefix": 0,
+  "en": "\"Sorry,",
+  "src": "1bef046a6724"
+ },
+ {
+  "id": "W076_000b68",
+  "file": "W076",
+  "off": 2920,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " the bargains are sold out!\"",
+  "src": "be558240deeb"
+ },
+ {
+  "id": "W076_000b88",
+  "file": "W076",
+  "off": 2952,
+  "slots": 8,
+  "raw_prefix": 0,
+  "en": "Void Seller",
+  "src": "5df80a15e877"
+ },
+ {
+  "id": "W076_000b9a",
+  "file": "W076",
+  "off": 2970,
+  "slots": 11,
+  "raw_prefix": 0,
+  "en": "\"Whoa, that part -",
+  "src": "a25002714808"
+ },
+ {
+  "id": "W076_000bb2",
+  "file": "W076",
+  "off": 2994,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " you can't hold more of it!\"",
+  "src": "627e954ecf4e"
+ },
+ {
+  "id": "W076_000bd2",
+  "file": "W076",
+  "off": 3026,
+  "slots": 9,
+  "raw_prefix": 0,
+  "en": "Dark Land Seller",
+  "src": "47120db02f49"
+ },
+ {
+  "id": "W076_000be6",
+  "file": "W076",
+  "off": 3046,
+  "slots": 14,
+  "raw_prefix": 0,
+  "en": "\"Heh heh... that item -",
+  "src": "15b454fc5180"
+ },
+ {
+  "id": "W076_000c04",
+  "file": "W076",
+  "off": 3076,
+  "slots": 15,
+  "raw_prefix": 0,
+  "en": " you can't hold more of it!\"",
+  "src": "627e954ecf4e"
+ }
+]

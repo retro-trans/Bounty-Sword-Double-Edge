@@ -1,0 +1,99 @@
+# Consistency fixes to run after all drafts are in (before the accuracy review)
+
+- Sera's drawl: K013, K050, K052 use a trailing "~"; canonical is stretched vowels only. Rewrite those rows.
+- Kane's jab at Sera: SETTLED (review 2026-11-18): "old hag" for ババァ (glossary), "old lady" for the milder forms.
+- Terms to normalise with a script: Treasure of Omnipotence -> the Almighty Treasure; Island of Blessing -> Blessed Isle; Avalon's Island of Steel -> Steel Island of Avalon; Esper Girl Squad -> Esper Girl Corps; mind alteration -> mind conditioning; sorcerer -> mage (for 魔導士); Cyborg(s)/Cyborg Soldier(s) -> machine(s)/Machine Soldier(s); Defense Cyborgs -> Defense Machines; flying cyborgs -> flying machines; Divine Nation of Assyria -> Holy Nation of Assyria; ancient god race -> Ancient Gods.
+- K008 / K009 and K000 / K003 hold the same text translated twice: unify onto the lower scene number (propagate.py --unify).
+- Choice rows with quotes (K013 21, 22, 28, 29, 41, 42, 82, 83; K002 22-23): check in game whether menus should show bare text.
+- K050_0038-0041: one sentence split over a branch; check in game that the pieces start a new line.
+- K002_0183: 3000G vs 30000G in the source (kept as written).
+- K004_0162-0181: item-get lines are item-first; check in game.
+- Sera's "~" drawl also in K047.
+- K047_0099, 0114: direction/referent flagged by the translator.
+- Plateau names: capitalised (Volcano Plateau) is canonical; K040 uses lower case.
+- K039_0020, K039_0049: owners of short lines reused in other contexts; re-check the copies (K039_0097, K040_0015).
+- Void part names (K038_0018-0080: Fighter/Soldier, Defender/Interceptor, Caster/Sorcerer; Normal/Heavy/Magic Body; Leg/Wheel/Float type) must match the Void menu once the UI is translated.
+- Item-get rows: K038_0134/0135 ("Item" obtained) vs K004_0162-0181 (item-first): pick one format after an in-game check.
+- Professor's catchphrase differs: K011 "I'm a professor, you know!" vs K038 "I keep telling you, I'm a professor!".
+- Fortune Granny: K002 gives her ye/yer dialect, K038 none.
+- Defense Machines: capitalised is canonical (K033 lower case).
+- K037_0069, K037_0049: meanings flagged by the translator.
+- K026_0009 vs K011_0010: FD-3S on whether the Machine Soldiers were its comrades; the two contradict, check the source.
+- 重機: "heavy MG" (K033/K037) vs "heavy gun" (K028_0013, K030_0017); unify.
+- ポンコツ: "clunker" (K022) vs "junk heap / piece of junk" (K026).
+- K032_0021 proverb "He who runs away wins" must match the K004 bank copy.
+- K030_0004, 0006: grim literal readings of the minstrel's verse flagged for a second look.
+- 風水師: "geomancer" (K039) is canonical; K045_0105 has "feng shui master".
+- Professor's catchphrase canonical: "I'm a professor, you know!" (K011, K045); fix K038.
+- K045_0114 "defense cyborgs" -> Defense Machines; K045_0052 holy knights (lower case) vs sacred knight (K050).
+- K045_0170, 0171: garbled source, meaning unsure.
+- K067 vs K066 (same scene family): Ozunu's address "Sir {hero:6}" / "Lady {name:6}", the key word "comrade(s)", rows 84-85 answering K066-owned rows: align once K066 is in.
+- Professor gag (K064): Kane "old man", Sera "mister", polite "Mr. Professor", retort "I'm a professor!"; align with K011/K045 "I'm a professor, you know!".
+- K064_0010/0011: idiom slip replaced by a different one; re-check.
+- Sera's "Mr. Ninja(s)" (K067) odd in the plural.
+- Runtime item-name inserts between rows (K014_0072/0073, 0081/0082): check width and spacing in game.
+- Pickup lines "Name" obtained. (K017_0022-0024) vs K038 and K004 formats: unify.
+- Sera's "~" drawl also in K014_0180/0181, K021_0195/0197.
+- K014_0020, 0023: readings flagged unsure.
+- 機人: SETTLED (2026-11-18): "Machine Man" / "Machine Men"; 機改機人 = Clockwork Machine Man.
+- Choice rows quoted (K068 12-14, 17-19, 46-52) vs unquoted (K000): unify after an in-game check.
+- Sera's "Mr. Giant" vs "that giant" (K068); Professor "ye" (K056_0047) vs plain "you".
+- K056_0019/0023 reading; K056_0120/0123 unclosed rows joining the next row: check in game.
+- K068_0069, K069_0123: abstract lines, meaning unsure.
+- Insult ladder for Sera (K063): old hag / old lady / name; K060_0158 "old hag". Old Man: Sera says "Grandpa", Kane "geezer".
+- "Zodiac Twelve Gods ring" (K013/K047) -> ring of the Zodiac Twelve Gods.
+- K054_0083 "Master FD-3S" (Ozunu, same suffix as "Master Faust"): confirm. K054_0109 "Tethys dear" is a one-off.
+- K083_0086 stale label (Sera heard as Diane); K083_0089/0090 invented "woman" hook: re-check.
+- K071_0201: implies Aerial is from Ifish; check the referent.
+- Ange's broken register (K070 rows 25-154, death scene included): confirm it is wanted. K070_0196: speaker label doubtful.
+- Tethys says "I" in K086 (not yet introduced) vs "Li'l Tethys" elsewhere: confirm.
+- K074_0092-0097: Kane's question about Sera's drawl rewritten; re-check. K074_0103-0108 insult pair.
+- Sera's address for Kane: "Mr. {hero:6}" (K073/K074) vs bare tag (K068, K052): unify.
+- Sera's suffix on monsters: dropped (K073/K074) vs "Mr. Ninja"/"Mr. Giant"/"Mr. Monster" (K067/K068/K021): unify.
+- Charmap: glyph 1320 is 斬, not 漸 (K066 plateau-name joke). Fix charmap and replace the character in the scene JSON jp fields (do not re-extract: keys would change).
+- K078_0184 "heavy gun" -> heavy MG. K078_0009-0010 tone; K078_0114, 0130 compressed.
+- Sera: "Mr. Ozunu" (K066) and "Mr. Zombie(s)" / "Mr. Dragons" (K076/K079) vs suffix dropped (K073/K074).
+- Sera on Faust: "Mr. Faust" (K081) vs others; "Dark Land's" two-entry speaker name (K080) needs its second half checked.
+- K082_0040 "0000G" placeholder: confirm the game overwrites it. K081_0011 compressed hard; K082_0025 abstract.
+- Faust/Aerial address each other "Miss Aerial" / "Mr. Faust" (K087): confirm. Toryu "Yes..." / "No..." (K087) vs "As you will" / "Can...".
+- K093_0076 "a demon's plateau" lower case vs Demon Plateau (K066): check whether it is the place name.
+- K087_0010, K088_0017: referents inferred.
+- Silent rows: "......" canonical (6 dots); some scenes use 8. K107_0051/0052 "weird guy" softened for wordplay.
+- Ixion regresses to a child's speech from K106_0047 (source pronoun switch): confirm the childlike voice.
+- 人間: Hector "people" (K106_0018) vs K103_0055/0057 (owner) and Ymir's "humans": align.
+- K106_0099 "spirit and stamina" vs SP/HP menu terms. K105_0012 pun lost; K105_0068 addressee open.
+- 魂の器: "vessel(s) for the soul" (K105) vs "vessel of the soul" (K104): unify.
+- 悪神 number (K104 plural "the evil gods" / singular for Ymir; K106 "evil god").
+- Bracketed narration rows in K102/K103 (Kane's adult narration) carry quotes; stale labels noted there.
+- Quoted choices in K099 (20-21, 47-49, 83-84, 109-111): same in-game check as the other quoted choices.
+- K099_0086, 0116; K100_0012: readings flagged.
+- 斬殺の騎士: "the Slaughter Knight" (K102) is canonical; K095_0022 has "the Slaying Knight".
+- K094_0008 subject inferred; K094_0080/0083 pause placement; K094_0048/0049/0051 written voice-neutral because copies are spoken by Sera.
+- K159_0122/0124 label (Cerbera rude to the Professor) may be stale. K159_0048 reading.
+- K101_0065-0070 stale label (island's will); K101_0159 "over" dropped; K101_0171 word order vs glossary; K101_0300 "proposition".
+- K096_0037 vs 0059 contradiction kept from the source; K096_0090 sarcasm reading.
+- Stale labels: K108_0194 (Ymir, labelled Kane); K117_0001-0006 (melting people, labelled Sera) and several in K117 b13-b16.
+- K108_0131 compressed; K108_0048 ambiguity kept; K117_0020, K118_0018 readings.
+- Address forms to unify: Faust/Tethys "Miss {name:6}", Tethys "Mr. {hero:6}", Cerbera "Lt. {hero:6}, sir" (K108).
+- K160_0040 (Cerbera gender unsettled, suffix dropped), 0106 subject, 0088 tone; "sir" density for Griffith/Cerbera in K160 vs K159.
+- K161: telegraph style 102-107; 184-187 referent; 191 irony direction; map menu names 208-210 vs UI.
+- K111_0127-0129: source credit typos (HAPPLY, CONTINUE) corrected; decide whether to keep the original. K111_0098/0123 write "Kane" literally (source has the name, not the tag).
+- K119_0170/0171 stale label (Kane); K119_0142 "filthy" added; K119_0197-0198 Alice idiom joke; K120_0177 crudeness level.
+- K033_0000/0002 still "Cyborg Soldiers" -> Machine Soldiers (S033 uses the glossary form). S039_0014 archaic echo lost.
+- K006 still "Cyborg Soldiers" -> Machine Soldiers.
+- Item-name joins (K130_0226/0228, K131_0199, K132_0302 with K119_0422): check with real names in game.
+- K130_0251, K132_0314: Sera addresses Diana as if present in Kane's scenario (possible leftover).
+- K132_0231-0250: Professor's speech kept at full strength (sensitive; reviewer look).
+- S000_0101/0105: rows start after a name printed by the game; check in game.
+- K130_0204 Ayame name pun lost; K132_0250 censor marks as XXXX.
+- Sera's correction of "old lady": "young lady" (K013/K111) vs "big sister" (S050/S008): unify. S063_0001/0003 wordplay re-check.
+- Stale labels S102_0016/0051-0054/0098, S103_0006. S099_0044 vs K099_0098 wording. S103_0060-0063 block order.
+- S013 stale labels 0054/0062/0126/0128 (Sera). S022_0130 Diana copy too formal. S013_0101 reading.
+- 関所 = checkpoint (glossary; S159); K159_0184-0188 use "gateway" for it: fix by hand (関門 = gateway is a different word).
+- S159_0039 Knight = Sera's class (guess).
+- S161_0174 direction, 0183 referent.
+- S160_0111 reading, 0250-0251 tone ("I really, really looove you"); "Big Sis" (S160_0076) joins the young lady / big sister choice.
+- S106_0071 joins copy row 70 (owner S102_0074): check after propagation. Credit typo HAPPLY: K111 vs S111 must match. "ultimate" lower case in K111_0075. K106 choices mixed quotes.
+- Ring/item-name split rows: "The " opener (S130/S131/S132, K130-K132) vs bare quote (K004_0162): decide in game. Big Sister Diana (S130_0262); S120_0159 Faust "Miss {name:6}".
+- Shop tables: check in game that digit placeholders (0 item, 1 equipped, 3/4/6/7 gold, 5 quantity) are still filled in; "can't hold over 8 Voids" vs the real limit; "Quit anyway?" meaning.
+- UI short forms vs script: Daze Dagger / Back Cut (K004 has Bewildering Dagger / Back-Blade Strike), Revival Talisman (script: Talisman of Revival), Hold & Fight (Attack in Place): align the script to the UI or accept. O001_012ee8 "(Follow)" word order.
